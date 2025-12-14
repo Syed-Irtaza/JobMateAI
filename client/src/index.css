@@ -10,4 +10,11 @@
   button {
     @apply cursor-pointer;
   }
+
+  input:not([type="checkbox"]) {
+    @apply border border-gray-300 rounded-lg focus:ring focus:ring-blue-500 focus:border-blue-500 outline-none;
+  } 
+  textarea {
+    @apply border border-gray-300 rounded-lg focus:ring focus:ring-blue-500 focus:border-blue-500 outline-none resize-none;
+  }
 }
