@@ -8,7 +8,7 @@ const PersonalInforForm = ({
   setRemoveBackground,
 }) => {
   const handleChange = (field, value) => {
-    onchange({ ...data, [field]: value });
+    onChange({ ...data, [field]: value });
   };
 
   const fields = [
