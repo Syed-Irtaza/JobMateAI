@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin } from "lucide-react";
+import { Globe2, Linkedin, Mail, MapPin, Phone } from "lucide-react";
 
 const MinimalImageTemplate = ({ data, accentColor }) => {
     const formatDate = (dateStr) => {
@@ -49,24 +49,20 @@ const MinimalImageTemplate = ({ data, accentColor }) => {
                             CONTACT
                         </h2>
                         <div className="space-y-2 text-sm">
-                            {data.personal_info?.phone && (
-                                <div className="flex items-center gap-2">
-                                    <Phone size={14} style={{ color: accentColor }} />
-                                    <span>{data.personal_info.phone}</span>
-                                </div>
-                            )}
-                            {data.personal_info?.email && (
-                                <div className="flex items-center gap-2">
-                                    <Mail size={14} style={{ color: accentColor }} />
-                                    <span>{data.personal_info.email}</span>
-                                </div>
-                            )}
-                            {data.personal_info?.location && (
-                                <div className="flex items-center gap-2">
-                                    <MapPin size={14} style={{ color: accentColor }} />
-                                    <span>{data.personal_info.location}</span>
-                                </div>
-                            )}
+                            {[
+                                { value: data.personal_info?.phone, Icon: Phone },
+                                { value: data.personal_info?.email, Icon: Mail },
+                                { value: data.personal_info?.location, Icon: MapPin },
+                                { value: data.personal_info?.linkedin, Icon: Linkedin },
+                                { value: data.personal_info?.website, Icon: Globe2 },
+                            ]
+                                .filter((item) => item.value)
+                                .map(({ value, Icon }, idx) => (
+                                    <div key={idx} className="flex items-center gap-2">
+                                        <Icon size={14} style={{ color: accentColor }} />
+                                        <span className="break-all">{value}</span>
+                                    </div>
+                                ))}
                         </div>
                     </section>
 

@@ -1,19 +1,31 @@
 import React from 'react'
 import { Link, useNavigate } from 'react-router-dom';
+import { useDispatch, useSelector} from 'react-redux'
+import {logout} from '../app/features/authSlice.js'
 
 const Navbar = () => {
-    const user = {name: "John Doe"}; // Example user object
+    const {user} = useSelector(state => state.auth)
+    const dispatch = useDispatch()
     const navigate = useNavigate();
+
+    // Determine the correct dashboard based on user role
+    const getDashboardPath = () => {
+        if (!user) return '/';
+        if (user.role === 'admin') return '/admin';
+        if (user.role === 'recruiter') return '/recruiter';
+        return '/app';
+    };
+
     const logoutUser = () => {
-        // Clear user session or token here
-        // For example: localStorage.removeItem('token');
+        dispatch(logout())
         navigate('/');
     }
+
     return (
     <div className='shadow bg-white'>
         <nav className='flex items-center justify-between px-4 py-3.5 max-w-7xl mx-auto text-slate-800 transition-all'>
-        <Link to='/'>
-        <img src="/logo.svg" alt="logo" className='h-11 w-auto'/>
+        <Link to={getDashboardPath()}>
+        <img src="/logo.png" alt="JobMate AI" className='h-18 w-auto'/>
         </Link> 
         <div className='flex items-center gap-4 text-sm'>
             <p className='max-sm:hidden'>Hi, {user?.name}</p>
