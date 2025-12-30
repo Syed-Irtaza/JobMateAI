@@ -1,0 +1,2900 @@
+Category,Question,Solution,Interviewer,Company
+DSA,"Given a bst perform any ll,lr,rr,rl operations and make it balance tree",,,7 Vals
+DSA,"A nested list is given like [1,[1,2],4,[[1],[2]],[[[[3],4],5],6,7]] flat s list like 1,1,2,4,1,2,3,4,5,6,7",,,7 Vals
+DSA,"Difference between vector, array, linkedlist",,,7 Vals
+DSA,What are vectors,,,7 Vals
+DSA,Is vector an arraylist?,,,7 Vals
+DSA,There are n sorted arrays find smallest common value,,,7 Vals
+DSA,Find distance between two nodes in bst,,,7 Vals
+DSA,Bst vs binary tree,,,7 Vals
+DSA,Given an array sorted make a bst which is balanced (use binary search algorithm),,,7 Vals
+DSA,Linkedlist vs array,,,Arbisoft
+DSA,List or tuple ma difference bss ye sb poocha,,,Arbisoft
+DSA,Time complexity and space complexity of code,,,Arbisoft
+DSA,Space complexity of the factorial function,,,Arbisoft
+DSA,"Why linkedlist?
+searching in array vs linkedlist. 
+insertion of element in middle of linkedlist. any benefit over array?
+time complexity?
+arrays benefits and drawbacks?
+divide and conquer",,,Arbisoft
+DSA,Recursion vs loop,,,Arbisoft
+DSA,Dfs psuedocode  and complexity,,,Arrivy
+DSA,Zig zag traversal,,,Arrivy
+DSA,Array vs linked list,,,Arrivy
+DSA,Binary search implementation,,,Arrivy
+DSA,Level by traversal,,,Arrivy
+DSA,Level order traversal with new line at each level,,,Arrivy
+DSA,Array vs linkedlist,,,Arrivy
+DSA,Hashing,,,Arrivy
+DSA,Deep copy shallow copy,,,Arrivy
+DSA,Hash function,,,Arrivy
+DSA,What is hashmap/ hash func/ hashing. why hashing?,,,Arrivy
+DSA,Sorting algos time complexities and stuff,,,Ashlar
+DSA,What is time complexity and how does it affect the execution,,,Ashlar
+DSA,Diagrammatic flow of sorting algos,,,Ashlar
+DSA,A bit of dsa,,,Ashlar
+DSA,"Math ratio, probability related some english questions opposite/synonyms/paragraph",,,Astera
+DSA,Paranthesis mismatch check without using stack. i used linkedlist.,,,BinaryBrix
+DSA,Jagged array,,,BinaryBrix
+DSA,Queue implementation using stack,,,BinaryBrix
+DSA,In singly linked linkedlist swap adjacent nodes like 1->2->3->4->5 to 2->1->4->3->5,,,BinaryBrix
+DSA,Reversal of linked list,,,Blackstack
+DSA,Reverse an array without using any extra memory,,,Blackstack
+DSA,Create queue using stacks,,,Blackstack
+DSA,Make s 2d array in 1d using recursion,,,Blackstack
+DSA,Linklist vs array,,,Blackstack
+DSA,Queue and stack,,,Blackstack
+DSA,Which one is better approach using array or linklist ?,,,Blackstack
+DSA,"Sorting alogrithms, name of any 4 algorithms, working of selection sort",,,BrainX
+DSA,Bfs and dfs on trees and graphs,,,BrainX
+DSA,"Double linked list, bst, pre vs post order traversal",,,BrainX
+DSA,Find dfs and bfs of binary search tree,,,BrainX
+DSA,Sorting algo complexity,,,BrainX
+DSA,Find if sum of array is 10 in o(n),,,BrainX
+DSA,Find second largest element in an array,,,BrainX
+DSA,Reverse linked list,,,BrainX
+DSA,Fibonoci series using recursion,,,BrainX
+DSA,Find two most frequently occuring elements in non unique sorted array,,,BrainX
+DSA,How to shift array towards right,,,BrainX
+DSA,Find power of number using recursion,,,BrainX
+DSA,I. return a number. not an array or string. otherwise your answer may,,,CQTechnologies
+DSA,I. there will always be at least 3 numbers in an array.,,,CQTechnologies
+DSA,"Given an array of undetermined length, find the largest sum possible for any 3",,,CQTechnologies
+DSA,"I. the returned array should be in ascending order. e.g [3,4,7,9]. not",,,CQTechnologies
+DSA,"Any numbers, and any gaps between numbers in t array of numbers.",,,CQTechnologies
+DSA,"But your function should be able to handle any input array of any length,",,,CQTechnologies
+DSA,"B. expected result: return: array of missing numbers e.g [4] or [2,5]",,,CQTechnologies
+DSA,"The expected returned array should be [3,4].",,,CQTechnologies
+DSA,Amount of numbers in any sequence in the array.,,,CQTechnologies
+DSA,Write a program t finds and returns missing numbers in an array. there can be any,,,CQTechnologies
+DSA,Or any other search engine or external source.,,,CQTechnologies
+DSA,"Q2) 
+
+we will call a sequence of integers a spike if they first increase (strictly) and  decrease (also strictly, including the last element of the increasing part). for example (4, 5, 7, 6, 3, 2) is a spike, but (1, 1, 5, 4, 3) and (1, 4, 3, 5) are not. note t the increasing and decreasing parts always intersect, e.g.: for spike (3, 5, 2) sequence (3, 5) is an increasing part and sequence (5, 2) is a decreasing part, and for spike (2) sequence (2) is both an increasing and a decreasing part. your are given an array a of n integers.
+
+your task is to calculate the length of the longest possible spike, which can be created from numbers from array a. note t you are not supposed to find the longest spike as a sub-sequence of a, but rather choose some numbers from a and reorder them to create the longest spike. write a function: def solution(a) which, given an array a of integers of length n, returns the length of the longest spike which can be created from the numbers from a. examples: 1. given a = [1, 2], your  function should return 2, because (1, 2) is already a spike. 2. given a = [2, 5, 3, 2, 4, 1], your function should return 6, because we can create the following spike of length 6: (2, 4, 5, 3, 2, 1). 3. given a = [2, 3, 3, 2, 2, 2, 1], your function should return 4, because we can create the following spike of length 4: (2, 3, 2, 1) and we cannot create any longer spike. note t increasing and decreasing parts should be strictly increasing/decreasing and they always intersect. write an efficient algorithm for the following assumptions: n is an integer win the range [1..100,000]; each element of array a is an integer win the range [1..1,000,000].",,,Careem Codility
+DSA,Does doubly linked list makes any difference?,,,Celestial Technology
+DSA,Now instead of array you have a linked list.,,,Celestial Technology
+DSA,You have an array and millions of numbers in t array. give an efficient algo to find a specific number in t array.,,,Celestial Technology
+DSA,Is trh kai questions the bs,,,Celestial Technology
+HR/Behavioral,Apny ap ko kidhr dekhty hoo future mai,,,Celestial Technology
+HR/Behavioral,Next study krni hai ya nhi.,,,Celestial Technology
+HR/Behavioral,Family mai kn kn hai,,,Celestial Technology
+HR/Behavioral,Mujy ab srf itna he yd hai,,,Celestial Technology
+DSA,What are the advantages of arrays?( easier to store elements of same data type),,,Cinnova
+DSA,Elements in an array are accessed _____________ (randomly),,,Cinnova
+DSA,Which of the following algorithm implementations is similar to t of an insertion sort?(binary heap),,,Cinnova
+DSA,"Given an array of element 5, 7, 9, 1, 3, 10, 8, 4. which of the following are the correct sequences of elements after inserting all the elements in a min-heap/max-heap? (same type of question with different values)",,,Cinnova
+DSA,Return sum of even numbers in an array,, ,Cinnova
+DSA,Reverse linked list,,,Cinnova
+DSA,Find 2nd highest element of array.,,,Cinnova
+DSA,Quick sort is based on divide and conquer strategy (true),,,Cinnova
+DSA,What is the worst case time complexity of the binary tree sort. (o(n2)),,,Cinnova
+DSA,Print 2d array in spiral,,,Codefulcrum
+DSA,Bst ki characteristics,,,Copy of Qbatch
+DSA,Data structures ki definition,,,Copy of Qbatch
+DSA,"Array or linkedlist m searching ki time complexity, agr koi random value search krni hai",,,Copy of Qbatch
+DSA,Recursion,,,Denv Tech
+DSA,Flatten a jaggaed array,,,Denv Tech
+DSA,Find second largest number in array,,,Denv Tech
+DSA,D array to 1d array,,,Denv Tech
+DSA,Array vs ll,,,Denv Tech
+DSA,Bdf dfs,,,Denv Tech
+DSA,Graph vs tree,,,Denv Tech
+DSA,Hash table,,,Denv Tech
+DSA,Count of repeating elements in array,,,Devsinc
+DSA,"You have an array [3,4,6,7,8,2,3,1] and you have a count n such as 4, so shift first 4 elements of array to the left ( at the end of array)","    for (int i = 0,j=size-count; i < count; i++,j++) {
+        arr[i]=arr[j]+arr[i];
+        arr[j]=arr[i]-arr[j];
+        arr[i]=arr[i]-arr[j];
+    }",,Devsinc
+DSA,Find pair in array whose sum is equal to target in o(n),,,Devsinc
+DSA,Sort array in n,,,Devsinc
+DSA,"You have a linked list l1: 1->2->3->4->
+&
+l2: 9->8->
+
+find their sum and store in new linkedlist l3 as:
+1->3->3->2",,,Devsinc
+DSA,"You have an array say [1,2,-3,-4,5,6,-1,5,2,-3,-9,6]
+
+move all negative at the beginning
+note:
+    - don't use extra array
+    - do it in o(n)",,,Devsinc
+DSA,Mirror a bst,,,Devsinc
+DSA,"Tell the count of each element in an array in o(n)
+
+don't use maps",,,Devsinc
+DSA,"You have 10 steps(seerhi) to reach destination, and you can take only 2 or 1 step at one time. find the number of combinations/count of steps you can take to reach destination
+
+hint: use recursion
+also tell it's complexity",,,Devsinc
+DSA,"You have some amount x say 500, and some denominations say 5,10,20,50,100. 
+
+tell the count of combinations of denominations to make 500 rs.
+
+hint: recursion
+tell complexity",,,Devsinc
+DSA,Flatten array,,,Devsinc
+DSA,Find frequency of characters in string . time complexity should be o(n) and space complexity  o(1),,,Devsinc
+DSA,Check whether the link list is a palindrome or not?,,,Devsinc
+DSA,"A number k, sum and an array is given, you have to find whether the sum of consecutive k elements equals the sumq",,,Devsinc
+DSA,Product of array except itself,,,Devsinc
+DSA,Detect and remove cycle in linked list.,,,Devsinc
+DSA,Mirror the bst,,,Devsinc
+DSA,Pre order traversal,,,Devsinc
+DSA,Bfs traversal,,,Devsinc
+DSA,Twosum problem with o(n) time complexity,,,Devsinc
+DSA,Sum of all the nodes of binary tree,,,Devsinc
+DSA,"In what type of data to be searched, traversal of bst will be in worst case.",,,Devsinc
+DSA,"You have a unsorted array from 1 to 100 with one number missing, find t number",,,Devsinc
+DSA,Inorder traversal using recursion,,,Devsinc
+DSA,Find all non repeating elements from array o(n),,,Devsinc
+DSA,Vendor machine cash return algorithm.,,,Devsinc
+DSA,Find intersection point in linked list,,,Devsinc
+DSA,"Flatten a nested array. e.g input: [1, 2, [3, 4, 5, [6]], 7, 8]
+output: [1, 2, 3, 4, 5, 6, 7, 8]",,,Devsinc
+DSA,Find distance between to nodes in a bst.,,,Devsinc
+DSA,Populate a bst from a given unsorted array.,,,Devsinc
+DSA,Why do we use & in copy ctr paremeters list?,,,Devsinc
+DSA,Binary search tree,,,Devsinc
+DSA,Any alogorithms can sort in log n,,,Devsinc
+DSA,"Sorting algorithms,any with best complexity,",,,Devsinc
+DSA,"Binary tree,if there is only two nodes,is it still a binary tree,",,,Devsinc
+DSA,"Difference in bst, tree, binary tree",,,Devsinc
+DSA,Difference in graph and tree,,,Devsinc
+DSA,"Postorder, preorder, inorder traversal (not code. a tree was given i was suppose to give the output)",,,Devsinc
+DSA,"Based on given number, print even or odd. no if else or ternary operator. print even or odd without using the modulo operator. can use if statement.",,,Devsinc
+DSA,Reverse linked list in o(1) space complexity?,,,Devsinc
+DSA,Reverse a linked list? using any data structure?,,,Devsinc
+DSA,Inorder recursion traversal code,,,Devsinc
+DSA,Merge two sorted arrays into new array.?,,,Devsinc
+DSA,"What is bst,",,,Devsinc
+DSA,"You receive a link list and an integer n, you have to reverse list in chunks of n!! i.e. 1 2 3 4 5 6 7 and n=3        result => 3 2 1 6 5 4 7",,,Devsinc
+DSA,Move zeroes to right side of it the array in o(n),,,Devsinc
+DSA,"Given a singly linked list, write a function to find out if the linked list is a palindrome, but using only one iteration and win o(n) time bound.",,,Devsinc
+DSA,Find middle of linked list in o(n),,,Devsinc
+DSA,"There's an array
+[0,2,6,0,-9,0,4,0,-1]
+make all zeros come at right and all non zeros(including negative numbers) to come at left side. use only one loop.",,,Devsinc
+DSA,Find 2nd largest number in array using 1 loop,,,Devsinc
+DSA,"I have an array like
+[2, [2,3] , [4,5,[5,6,7,8], [5,4,[7,4]]]]
+
+it can be like s, multiple sub arrays win an array. make s 1d but you cant use list comprehension or built-in functions. simple loops but don't use too many loops.
+answer: use recursion",,,Devsinc
+DSA,"There's an array
+[0,2,6,0,-9,0,4,0,-1]
+make all zeros come at right and all non zeros(including negative numbers) to come at left side. use only one loop.",,,Devsinc
+DSA,"I have an array like
+[2, [2,3] , [4,5,[5,6,7,8], [5,4,[7,4]]]]
+
+it can be like s, multiple sub arrays win an array. make s 1d but you cant use list comprehension or built-in functions. simple loops but don't use too many loops.
+answer: use recursion
+
+code in o(n)",,,Devsinc
+DSA,Can we store a binary tree in db,,,EMPG
+DSA,How many tables we require to store a binary tree in table,,,EMPG
+DSA,How we can regenerate a binary tree from t table,,,EMPG
+DSA,Sorting algos complexity,,,EMPG
+DSA,Heap memory allocation vs stack memory allocation,,,EMPG
+DSA,Recursive solution,,,EMPG
+DSA,"Array vs linkedlist, why linkedlist",,Maria Rafique,EMPG
+DSA,Difference b/w tree and graph,,,EMPG
+DSA,Can we convert a tree into graph and vice versa,,,EMPG
+HR/Behavioral,Tech stack interest,,,EMPG
+DSA,Find missing element in array,,,EMPG
+DSA,Heap memory allocation vs stack memory allocation,,,EMPG
+DSA,Directed acyclic graph,,,EMPG
+DSA,Array based o(n) array given  jnka sum 10 ho wo,,,EMPG
+DSA,Favourite data structure and what problem it solves,,,EMPG
+DSA,Two number  in a array with minimum sum,,,EMPG
+DSA,Difference between array and llink list,,,EMPG
+DSA,Difference between stack and queue and their implementation,,,EMPG
+DSA,Prirority queue with its implementation,,,EMPG
+DSA,Insert in middle of  a doubly linked list,,,EMPG
+DSA,Detect loop from link list and delete it.,,,EMPG
+DSA,Input is an array of integars. add all the elements  in an resultant array from the input array such t all the elements after t element is less n it.,,,Educative
+DSA,Flatten a multi-level linked list,,,Educative
+DSA,Find first smallest missing natural number from an unsorted array.,,,Educative
+DSA,Delete the last occurence of an element from a linked list,,,Educative
+DSA,How do you find height of a binary tree? x2,,,Educative
+DSA,"Find kth largest number in array, cost sould be less n o(kn)",,,Educative
+DSA,Verify if a binary tree is bst or not?,,,Educative
+DSA,Remove nodes with duplicate values in a sorted link list,,,Educative
+DSA,"Given an array of integers, e.g. [-3, 2, 0,-5,1, 5], find all the triplets where sum = k. for k=0 output is (-3,2,1), (-5, 0, 5)",Three Pointers after sorting,,Educative
+DSA,"Given an string s = ""{{}}[(]))aabb"" and and array = [""()"", ""{}"",""[]"", ""ab""] return balanced or unbalanced for each pair e.g. (): ""unbalanced"", {}: ""balanced, []: ""balanced"", ab:""balanced"" in o(n) and without using stack queue",,,Educative
+DSA,Sort a linked list,,,Educative
+DSA,Level order traversal of a binary tree.,BFS,,Educative
+DSA,"Given a binary tree, determine if it is a valid binary search tree (bst)",DFS,,Educative
+DSA,Find the nth fibonacci,"//space optimized dp
+iint GetFibonacci(int n) {
+        if(n==0){
+                return n;
+        }
+        if(n==1 || n==2){
+                return 1;
+        }
+        int a1=1;
+        int a2=1;
+        for(int i=3;i<=n;i++){
+                a1=a1+a2;
+                swap(a1,a2);
+        }
+        return a2;}",,Educative
+DSA,Merge the k srorted linked lists,"O(Nlgk) Solution, Using Heap, Via Binary Merging (As in merge sort)",,Educative
+DSA,Rd largest in bst,,,Educative
+DSA,Given a binary tree return the longest path from root to leaf as an array of nodes,,,Educative
+DSA,"Given a string with ternery operators e.g. ""a?b:c"" convert it into a tree 
+       a
+   /        \
+b           c
+
+""a?b?d:e:c""
+       a
+   /        \
+  b           c
+ /. \
+d  e",,Interviewer: Rahim ul haq,Educative
+DSA,Given an array and average count the pairs who's average are equal to the given average.,,"Muneeb Zia
+",Educative
+DSA,"Given a linked list and a chunk size, reverse the linked list in chunks example 1,2,3,4,5,6,7,8,9 -----> 3,2,1,6,5,4,9,8,7",,,Educative
+DSA,Given a binary tree and a value n we have to check if sum of values from root to leaf nodes exist t matches the given value n,,,Educative
+DSA,Given a link list we have to remove duplicate nodes in unsorted list in o(n),,,Educative
+DSA,"Dfs,bfs",,,Educative
+DSA,"Two linked list heads are given, each of which represent a non negative reversed number, you need to return a linked list t is equal to the sum of numbers represented by the two input linked list. for example: ll1 = 1->0->2, ll2 = 2->1->5, ll to be returned = 3->1->7",,,Educative
+DSA,Write a function t finds the path in a binary tree t has the greatest sum.⁸,,,Educative
+DSA,Find indxes of 2 numbers whose sum is equal to given number in array o(n),,,Educative
+DSA,You have given a sorted array of unknown size how would you search an element from array,,,Educative
+DSA,Find 3rd maximum from bst without recusrion,,,Educative
+DSA,Find 2nd maximum from binary tree (not bst),,,Educative
+DSA,Given a value n print its fibonacci value,,,Educative
+DSA,Mirror the binary tree,,,Educative
+DSA,Find a first missing natural number from an array (unsorted),,,Educative
+DSA,"Rotate the linklist to left upto n rotation. if 1 2 3 4 5 is linklist and n= 2,  it become 3 4 5 1 2",,,Educative
+DSA,Find max value in binary tree.,,,Educative
+DSA,"Write a function t finds max sum of unsorted array, no consecutive elements involve (dynamic programming)",,,Educative
+DSA,Find the first repetition in linked list,,,Educative
+DSA,A multilevel linkedlist is given. convert it into flat(single level) list.,two pointers approach,Muneeb Zia,Educative
+DSA,Given an array/string print all possible palindromes.,,,Educative
+DSA,"Find the count of distinct number of pairs in an array whose product is equal to a number k. note: (a, b) == (b, a)",,,Educative
+DSA,Given a linked list reverse linked list in k chunks.,,"Muneeb Zia
+",Educative
+DSA,Reverse k sorted linkedlists,,Wasiq Malik,Educative
+DSA,Online tech screen (swe),,,Educative
+DSA,"In a binary tree connect left nodes to the neighbour right  nodes at the same level. e.g.
+input tree
+     a
+     / \ 
+   b   c.
+   / \   \
+ d   e   f
+
+output tree
+        a--->null
+        / \
+     b-->c-->null
+      / \     \
+   d-->e-->f-->null",,Rahim ul Haq,Educative
+DSA,"Given two arrays, find all pairs whose sum is x. e
+input : 
+arr1[] = {1, 2, 4, 5, 7}
+arr2[] = {5, 6, 3, 4, 8}
+x = 9
+output : 
+1 8
+4 5
+5 4",,Rahim ul Haq,Educative
+DSA,Find the nth fibonacci,"//space optimized dp
+iint GetFibonacci(int n) {
+        if(n==0){
+                return n;
+        }
+        if(n==1 || n==2){
+                return 1;
+        }
+        int a1=1;
+        int a2=1;
+        for(int i=3;i<=n;i++){
+                a1=a1+a2;
+                swap(a1,a2);
+        }
+        return a2;}",Muhammad Ahmad,Educative
+DSA,Find the 3rd largest from bst in o(lgn) time and o(1) space,3 pointers approach,Muhammad Ahmad,Educative
+DSA,"Return the triplet whose sum is maximum in an array"" with ""return the triplet(consecutive) whose sum is maximum in an array",,,Educative
+DSA,Reverse last n nodes in link list,,,Educative
+DSA,Delete last occurrence of an item(number) from a singly linked list,,,Educative
+DSA,"Given an integer n, return its corresponding excel column string. a dictionary of alphabet is also provided. i.e; {1:""a"", 2:""b"", 3:""c"", 4:""d"", ...., 26:""z""}. sample tests: for n=1 => output: a, for n=2 => output: b, for n=26 => output: z, for n=27 => output: aa, for n=52 => output: az, for n=703 => output: aaa and so on.",,,Educative
+DSA,Array and string manipulation  eg,,,Esketchers
+DSA,Handling 2 d array,,,Esketchers
+DSA,Find the count of specific number with minimum time complexity,,,Esketchers
+DSA,Q9: given an array of five positive integers. calculate the mininum and maximum sum of 4 out of 5 integers. calculate s in minimum time complexity,,,Esketchers
+DSA,Diff b/w stack and linked list,,,Esketchers
+DSA,Diff b/w graph and tree,,,Esketchers
+DSA,What is recursion and what we need to make sure before implementing it,,,Esketchers
+DSA,What we need to do before merge sort,,,Esketchers
+DSA,What is quick sort,,,Esketchers
+DSA,Diff b/w tuple and attribute,,,Esketchers
+DSA,Q8: print 2dimensional array of nxn size using one loop and one variable,,,Esketchers
+DSA,Arrays of integers  are given  find the 2nd array elements t are not in 1st array,,,Focusteck
+DSA,Dsa ma sa linklist aur array ma difference aur uske bubble sort poocha,,,Focusteck
+DSA,"Jese agar cat string hai to array me cate, cast, acat waghera hain..",,,Focusteck
+DSA,Aapne check krna k array me koi cycle ban rai hai ya ni..,,,Focusteck
+DSA,Given an integer array find if the array has cycle in it,,,Focusteck
+DSA,Given list of string find the one with maximum size,,Mubarak Ahmad,Focusteck
+DSA,"Or second question  k ek array me strings pri hain or apne check krna k hr string me koi bi alphabet delete, update ya add kr k hmari relavent string bnti hai ya ni..",,,Focusteck
+DSA,"Write a recursive function to print the zig zag traversal of array 
+input :  5 7 2 1 4
+output : 5 4 7 1 2
+i.e print in pairs 1st and last, 2nd and second last and so on,",,,Foomotion
+DSA,Def speedometer(number):,,,Foomotion
+DSA,"A meter counts the distance covered but a fault with digit 4, so it misses any number with digit 4 in it",,,Foomotion
+DSA,A distance on meter is given find actual distance,,,Foomotion
+DSA,Q3. write a method togenerate a random number without using any built in random generator method,,,Foomotion
+DSA,Ds ki types aur bst aur graph kya hotay hain. bst ma insertion krwao code likh k.,,,Foomotion
+DSA,"Given bst ko check kro valid ha ya nhi, fer apna code dry run kr k btao.",,,Foomotion
+DSA,"Red black tree, sparse matrix, dp ka pta ha?",,,Foomotion
+DSA,"Naam ma headquaters likha ha, laikin andr siraf 4,5 loog bey hotay hain.",,,Foomotion
+DSA,Q1. check if given number is an armstrong or not. armstrong is a number in which sum of each number raise to power total count of numbers present in it equals itself e.g 371=3^3+7^3+1^3,,,Foomotion
+DSA,"A list of odd numbers is given 2 times. only 1 number occurs 1 time, find t number",,,Foomotion
+DSA,Reverse a linked list using recursison,,,Foomotion
+DSA,"Number of stairs is given, a person can move to 1 step of 2 steps at a time, we have to find combinitions of how many ways a person can climb up",,,Foomotion
+DSA,Delete middle of linked list,,,Foomotion
+DSA,Linkedlist insertion at any position,,,Hazelsoft
+DSA,"Run/space time complexity of merge, insertion",,,INNOVICSOFT
+DSA,Mern stack mn kiun kya,,,Ismi Technology
+DSA,Can we make stack with queue or queue with stack .,,,MergeStack
+DSA,How to check given   input list is circular linked list,,,MergeStack
+DSA,Linked list,,,MergeStack
+DSA,Binary search tree,,,MergeStack
+DSA,Binary tree,,,MergeStack
+DSA,How to implement stack,,,MergeStack
+DSA,Stack and queue,,,MergeStack
+DSA,Define dsa,,,MergeStack
+DSA,Binary search tree ( properties of bst),,,MergeStack
+DSA,Find if the linked list is circular or not ( just explanation,,,MergeStack
+DSA,Dsa basics:,,,MergeStack
+DSA,Find median in array,,,MergeStack
+DSA,Basic dsa,,,MergeStack
+DSA,Anagram without sorting,,,MergeStack
+DSA,Stack and queur real timr example,,,MergeStack
+DSA,"Q1: given an integer k and an array, split the array into two parts such t each part's sum equals to k otherwise return -1.",,,MindStorm
+DSA,Program to reverser array,,,Nestosh
+DSA,Bubble sort program,,,Nestosh
+DSA,Program to implement queue using array,,,Nestosh
+DSA,"Implement stack using two queue no limit in time complexity but space complexity must be o(1). in s question you are asked to implement pop,push,peek/top methods",,,OCloud Solutions
+DSA,Print binary search tree in level order,,,OCloud Solutions
+DSA,Link list are merged at  a point forming y.find where are they merging.(available on geeks for geeks),,,OCloud Solutions
+DSA,String 123456.write a prog t gives sum in single digit using recursion,,,OCloud Solutions
+DSA,Program to find the height of the binary tree through recurrsion and iterative method,,,OCloud Solutions
+DSA,Difference between binary tree & binary search tree,,,OCloud Solutions
+DSA,Count the length of linked list,,,OCloud Solutions
+DSA,Print in order travel of given tree,,,OCloud Solutions
+DSA,Queue,,,OCloud Solutions
+DSA,Bst vs avl,,,OCloud Solutions
+DSA,Reverse singly linked list by using extra space and not using extra space,,,OCloud Solutions
+DSA,Program to find in order traversal result on tree using iterative and recursive function,,,OCloud Solutions
+DSA,Find the point where two singly linked lists intersected,,,OCloud Solutions
+DSA,Reverse a linked list,,,OCloud Solutions
+DSA,Height of bst iterative and recursive both,,,OCloud Solutions
+DSA,Heigh of a binary tree,,,OCloud Solutions
+DSA,"From a given tree, start and end level print out the nodes in level order from left to right in the given start and end levels.",,,OCloud Solutions
+DSA,"Write a program to calculate the power of a number. where n represent the number, m represents the power, and power can be negative.
+examples:
+n=4, m=3  64
+n=4, m=-3  0.0156version-i:    write a program with time complexity o(n).
+variation-ii: write a program with time complexity o(logn)",,,OCloud Solutions
+DSA,Hashing,,,OCloud Solutions
+DSA,Mapping,,,OCloud Solutions
+DSA,Hashmaps,,,OCloud Solutions
+DSA,Binary tree vs avl,,,OCloud Solutions
+DSA,Stack,,,OCloud Solutions
+DSA,Name some data structures,,,PakWheels
+DSA,Array based problem solving question,,,PakWheels
+DSA,"Question: list all courses in order
+# output: 
+#  'data structures',
+#  'computer networks',
+#  'computer architecture',
+#  'software design',
+#  'algorithms',
+#  'foundations of computer science',
+#  'operating systems'",,,PakWheels
+DSA,Reverse a linklist,,,PakWheels
+DSA,Mid of a linklist,,,PakWheels
+DSA,"Array or linkedlist m searching ki time complexity, agr koi random value search krni hai",,,Qbatch
+DSA,Data structures ki definition,,,Qbatch
+DSA,How to get value of rd last element of linkedlist,,,Qbatch
+DSA,How to make a queue without using stack,,,Qbatch
+DSA,Can graph have cycles,,,Qbatch
+DSA,Graph vs tree,,,Qbatch
+DSA,Array vs linkedlist,,,Qbatch
+DSA,Difference between linear and non linear data structures,,,Qbatch
+DSA,Types,,,Qbatch
+DSA,Definition of data structures,,,Qbatch
+DSA,Bst ki characteristics,,,Qbatch
+DSA,Pseudocode to detect a cycle in a graph?,,,SSI
+DSA,Difference between implementing an adjacency list with a vector of vector and a vector of the list?,,,SSI
+DSA,Pseudocode of removing duplicates from a linked list?,,,SSI
+DSA,Difference between hashmap and treemap?,,,SSI
+DSA,Applications of dfs and bfs?,,,SSI
+DSA,What is dfs and bfs?,,,SSI
+DSA,Map many to many relations without a junction table?,,,SSI
+DSA,Best sorting algo in worst case? -> time complexity?,,,SSI
+DSA,Find largest difference in an array only from left to right,,,SSI
+DSA,"Find largest difference in an array (can be from left to right or right to left) eg in s array, maxdifference = 9 ->10-1=9     array: 2, 9, 6, 3, 5, 10, 1",,,SSI
+DSA,Find min and max of array,,,SSI
+DSA,Worst case insertion in hash vs array,,,SSI
+DSA,Hash vs array,,,SSI
+DSA,Linkedlist vs array,,,SSI
+DSA,Bfs vs dfs,,,SSI
+DSA,Explain dfs algo,,,SSI
+DSA,Explain bfs algo,,,SSI
+DSA,Explain quick sort algo,,,SSI
+DSA,Q9: given an array of five positive integers. calculate the mininum and maximum sum of 4 out of 5 integers. calculate s in minimum time complexity,,,Smaritan Technologies
+DSA,Q8: print 2dimensional array of nxn size using one loop and one variable,,,Smaritan Technologies
+DSA,"Return the sum of duplicate number and missing number from an unsorted list of integers from 1 to len(array) i.e. [1,2,2,4] will return 2 + 3 = 5",,,Tajir
+DSA,Mcqs thy 2 coding questions thy or asan thy wo like do arrays ko merge krna  ascending  order mey,,,Tajir
+DSA,Diff between stack and array,,,Tbox Solutionz
+DSA,Bst insertion removal complexity,,,TechnoCares
+DSA,Which sorting algorithm is best and why,,,TechnoCares
+DSA,Binary search,,,TechnoCares
+DSA,In a new list in ascending order until we have one sorted list.,,,Technosoft
+DSA,"Sorted order. to do s, we compare the first element of each sublist and merge them together",,,Technosoft
+DSA,"The ""conquer"" step of the merge sort algorithm involves merging the sublists back together in a",,,Technosoft
+DSA,By recursively dividing the list into halves until each sublist contains only one element. s,,,Technosoft
+DSA,"Before performing a merge sort, the input list needs to be split into smaller sublists. s is done",,,Technosoft
+DSA,Q10) what we need to do before merge sort?,,,Technosoft
+DSA,"Elements is required. linked lists, on the other hand, can perform these operations efficiently by simply",,,Technosoft
+DSA,"Insertion and deletion: insertion and deletion operations in arrays can be expensive, as shifting all the",,,Technosoft
+DSA,"In a linked list requires traversing the list from the beginning, resulting in a linear access time in the",,,Technosoft
+DSA,Secondary keys improve performance in searching and sorting but are not required to be unique.,,,Technosoft
+DSA,"Even_numbers = list(filter(lambda x: x % 2 == 0, numbers))",,,Technosoft
+DSA,Stack and queues,,,Technosoft
+DSA,What is push and pop.,,,Technosoft
+DSA,What is enqueue and dequeue.,,,Technosoft
+DSA,Stack vs heap,,,Technosoft
+DSA,Stack vs queue,,,Technosoft
+DSA,"Even_numbers = list(filter(is_even, numbers))",,,Technosoft
+DSA,"Size flexibility: arrays have a fixed size, while linked lists can grow or shrink dynamically by adding or",,,Technosoft
+DSA,"Memory allocation: arrays are allocated as contiguous blocks of memory, while linked lists use dynamic",,,Technosoft
+DSA,Functionality using if and elif statements or a dictionary-based approach. use dict.,,,Technosoft
+DSA,"Through a set of best practices. xp emphasizes test-driven development (tdd), continuous integration",,,Technosoft
+Web/Network,Java script m elements kin kin treeqo s get kar sakty,,,Technosoft
+DSA,"Mac addresses operate at the data link layer of the network stack for local network communication,",,,Technosoft
+DSA,Q9) array vs link list?,,,Technosoft
+DSA,"Stacks are implemented using arrays or linked lists, while linked lists are implemented using",,,Technosoft
+DSA,While a linked list is a data structure t represents a sequence of elements.,,,Technosoft
+DSA,"A stack is an abstract data type t represents a last-in, first-out (lifo) collection of elements,",,,Technosoft
+DSA,Q8) stack vs link list?,,,Technosoft
+DSA,Time complexity,,,Technosoft
+DSA,"Before implementing recursion, it is important to ensure the following:",,,Technosoft
+DSA,Function t uses recursion is called a recursive function.,,,Technosoft
+DSA,Q7) what is recursion and what we need to make sure before implementing it,,,Technosoft
+DSA,"Unlike a tree, a graph can have cycles, multiple roots, and multiple paths between nodes.",,,Technosoft
+DSA,"A graph, on the other hand, is a collection of vertices (nodes) and edges t connect pairs of",,,Technosoft
+DSA,Q8) diff b/w graph and tree in 4 lines,,,Technosoft
+DSA,Stack heap queue,,,Technosoft
+DSA,Dsa me bs basic pucha*,,,Technosoft
+DSA,"Suppose a 2d array which represents an image and each value of array 0(white) to 255(black) represents a pixel of the image. if the value of any pixel of image is 0 or 255, the image is said to be burn-out. write a function t takes t array by reference and x% change in the value of pixel.
+-if the x% is negative n decrease the value of each pixel by t x%
+-if the x% is positive n increase the value of each pixel by t x%.
+- make sure t pixel value resides between 0 and 255.
+-function will return true if the image is burn-out.",,,Technosoft
+DSA,"Return a dictionary of words t would be in t string there can be multiple answers, give one",,,Technosoft
+DSA,"And dictionary of words: [""the"",""quick"",""fox""]",,,Technosoft
+DSA,"Discussion about a problem and it's solution the problem was you are given a dictionary of words and a string without spaces like ""thequickfox""",,,Technosoft
+DSA,Real life example of stack,,,Technosoft
+DSA,Stack vs heap,,,Technosoft
+DSA,Hashtable,,,Technosoft
+DSA,Array vs linklist,,,Technosoft
+DSA,Stack vs queue,,,Technosoft
+DSA,And he was saying t k second technical interview will be more about problem solving and data structures,,,Technosoft
+DSA,And search,,,Technosoft
+DSA,Without using divide,,,Tintash
+DSA,"Given a string, return a dictionary containing number of instances of each word",,,Tintash
+DSA,Validate whether two binary trees are mirror of each other,,,Tintash
+DSA,Check and remove cycle in link list,,,Tintash
+DSA,Why there is stackoverflow exception,,,Tintash
+DSA,Which sorting algorithm costs less if array is partially sorted?,,,Tintash
+DSA,Time complexity of bfs,,,Tintash
+DSA,What are different sorting algo,,,Tintash
+DSA,"Explain merge sort, what is its time complexity, adn why is its time complexity nlogn",,,Tintash
+DSA,Implement queue using stacks,,,Tintash
+DSA,"Trees, different types of trees",,,Tintash
+DSA,Searching an element in bst,,,Tintash
+DSA,What are graphs,,,Tintash
+DSA,Difference bw tree and graph,,,Tintash
+DSA,Traversing graphs using bfs and dfs,,,Tintash
+DSA,Array vs linked list,,,Tintash
+DSA,"Given a array of strings find longest common prefix ([""flower"",""flow"",""flight""] => ""fl"")",,,Tintash
+DSA,Find kth maximum element from array. what is the time complexity of the algorithm you presented?,,,Tintash
+DSA,Given productivity on scale 1-100 of persons form a team such t the difference between the sum of collective productivity of teams has minimum difference. read input from file and take team size from user.,,,Tintash
+DSA,"Read csv file with student details, sort it by any column t user specifies, and return ids",,,Tintash
+DSA,Which sorting algorithm performs minimum number of swaps?,,,Tintash
+DSA,Find if two binary trees are mirror of each other,,,Tintash
+DSA,Array vs heap,,,Tintash
+DSA,Write insert function for bst,,,Tintash
+DSA,Find the average of an array excluding the max and min of the array.,,,VentureDive
+DSA,Find longest continuous subconsequence in an array of numbers,,,Viteace
+DSA,Array say maximum find,,,Viteace
+DSA,Array say maximum find,,,Viteace
+DSA,Diff b/w stack and heap,,,Xavor
+DSA,Diff b/w arraylist and array,,,Xavor
+DSA,When memory allocated on stack and heap,,,Xavor
+DSA,Diff btw arrays and linkedlist,,,folio3
+DSA,Given 2 arrays find duplicate elements in them,,,folio3
+DSA,Arrays are not sorted.,,,goSaas
+DSA,"In all cases. o(n2) , nlgn and o(n)",,,goSaas
+DSA,Maximum sub array problem to find maximum sum.,,,goSaas
+DSA,Two arrays a and b. a is subset of b. there's only one element t is not in a but in b. find t element.,,,goSaas
+DSA,Binary trees,,,i2c
+DSA,Hashmap,,,i2c
+DSA,"Arraylist and hashmap,treemap",,,i2c
+DSA,Implementation of array list by using arrays,,,i2c
+DSA,What is hashmap,,,i2c
+DSA,Binary tree,,,i2c
+DSA,Time complexities and implementations,,,i2c
+DSA,Find 2nd highest value from array,,alishan rao,i2c
+DSA,Reverse a string which data structure used write pseudocode,,Qasim raza,i2c
+DSA,Convert above problem into recursive,,Qasim raza,i2c
+DSA,Which algo is used to sort a linear unsorted array,Selection sort,Atteq ur Rehman,i2c
+DSA,Code to find second highest in array,,,i2c
+DSA,Stack vs heap,,,i2c
+DSA,"What is array,list, binary tree,stack",,hussain raza,i2c
+DSA,Linked list vs array,,,i2c
+DSA,Code to find a cycle in linked list,,,i2c
+DSA,Stack vs heap,,,i2c
+DSA,"Given an integer array (unsorted, not unique) find out the pairs which would make 14 if added together and once they are used they can not be used again array=[1, 2, 7, 7, 13, 13]
+now, 1 plus 13 would make 14 s is one pair
+we can not use the first 1 again for the last 13 and we can not use the 13 earlier we used
+(i wrote the code with time complexity o(n^2)
+ me to optimize it)",,Aamir Saleem,i2c
+DSA,Write a function to remove duplicates and return array and its complexity,,majid aziz,i2c
+DSA,"An input array is given, you have to output an array containing the number(s) which has occured maximum times in the array",,,i2c
+DSA,In what situations link list and array and trees are used,,,i2c
+DSA,Occurrence of a char in a string can be found by which data structure optimally,,,i2c
+DSA,Find middle element from single linked list by traversing only once,,,i2c
+Database,Simple pf ka aik program ata or 4 sql ki join ki queries or written questions hotay 8 or 9(jo k sqa k topics ki basic definitions hoti) baki  mcqs hotay basic sqa concepts k. t's it..,,,7 Vals
+Database,What is indexing in database,,,7 Vals
+Database,Benefits of indexing,,,7 Vals
+Database,Searching algorithm used in indexing,,,7 Vals
+Database,Any disadvantage of indexing,,,7 Vals
+Database,"Difference between join and subquery, which is fast",,,7 Vals
+Database,Write a query to display all doctors with 5 or more appointments,,,7 Vals
+Database,Left outer join,,,7 Vals
+Database,Indexes,,,7 Vals
+Database,Stored procedures,,,7 Vals
+Database,Database:,,,7 Vals
+Database,Why can't access linkedlist 5th index while can do it in array,,,Arbisoft
+Database,Normalization. when denormalization is required? when normalization is enough?,,,Arbisoft
+Database,Indexing in db,,,Arbisoft
+Database,Normalization and types,,,Arrivy
+Database,Indexing and its types,,,Blackstack
+Database,Sql injection,,,Blackstack
+Database,Nosql,,,Blackstack
+Database,Sql vs nosql,,,Blackstack
+Database,Er diagram database,,,BrainX
+Database,"Normalization, nosql, transactions, roll back, stored procedures, left join, self join, non-equi join, left outer join",,,BrainX
+Database,Sql/nosql difference,,,BrainX
+Database,Normalization,,,BrainX
+Database,"There is array and sum value you have to return index of values which have equal to
+sum. and how will you reduce to o(n)?",,,BrainX
+Database,"Join the meeting room with your correct name, otherwise we won’t know who",,,CQTechnologies
+Database,What is indexing?,,,Celestial Technology
+Database,What should we use indexing and when we dont?,,,Celestial Technology
+Database,Basic select / where query,,,Cinnova
+Database,"What is a database?(organized collection of data or information t can be accessed, updated, and managed)",,,Cinnova
+Database,Which type of data can be stored in the database? (all of the above),,,Cinnova
+Database,Which command is used to remove a relation from an sql? (drop table),,,Cinnova
+Database,For designing a normal rdbms which of the following normal form is considered adequate? (3nf),,,Cinnova
+Database,What is normalization? and why do it?,,,Cinnova
+Database,"Database indexing. python mixins, python decorators. one-to-one, one-to-many, many-to-many",,,Codefulcrum
+Database,All types of joins explain krein with sql queries as an example,,,Codefulcrum
+Database,Sql queries questions,,,Codefulcrum
+Database,Self join ki query,,,Copy of Qbatch
+Database,Array ka size 10 hai 11th index pr value kese insert hogi,,,Copy of Qbatch
+Database,Indexing or uski types detail m,,,Copy of Qbatch
+Database,Join ki types. normalization,,,Copy of Qbatch
+Database,Unique vs primary key,,,Copy of Qbatch
+Database,Foreign key duplicate ho skti ya ni,,,Copy of Qbatch
+Database,"Indexing,where we apply it on row or column and on which bases.",,,Devsinc
+Database,Normalization,,,Devsinc
+Database,Right outer join using left outer join.,,,Devsinc
+Database,Join query on 3 tables,,,Devsinc
+Database,Join vs subquery,,,Devsinc
+Database,Why indexing? make an index? which column do you prefer for indexing?,,,Devsinc
+Database,Indexs and its drawbacks,,,Devsinc
+Database,What is transaction,,,Devsinc
+Database,Draw association(erd) between entities of given scenario,,,Devsinc
+Database,Can we replace right join with left join,,,Devsinc
+Database,Find max sum in array and print its index,,,Devsinc
+Database,"You receive a sorted array. i.e: 1,3,5,6,7,9 and a target = 8 you need to return the indexes of the number which sum up to target number in o(n) time and o(1) space.",,,Devsinc
+Database,You have to transfer data from 2 databases a and b to a fixed size array. you have to figure out which data comes from which database,,,Devsinc
+Database,"I have a sorted array. i have an element k which i want to search in it. apply bst and search t element and print the index at which t element is placed. 
+
+here main twist was printing index and not bst.",,,Devsinc
+Database,Write query to return 2nd last record of table,,,Devsinc
+Database,Cluster or non cluster index,,,Devsinc
+Database,Define indexing? table has million of record with index? does indexing helpful in t,,,Devsinc
+Database,"I have a sorted array. i have an element k which i want to search in it. apply bst and search t element and print the index at which t element is placed. 
+
+here main twist was printing index and not bst.",,,Devsinc
+Database,Transaction,,,Devsinc
+Database,"Difference between sql and no-sql databases, when to use sql, when to use no-sql, advantages and disadvantages?",,Maria Rafique,EMPG
+Database,Write a program to find the two numbers in an array which adds upto the given target and return their indexes,,,EMPG
+Database,Erd(fixtures and teams) n write queries on t erd,,,EMPG
+Database,Clustered and unclustered indexing,,,EMPG
+Database,Scenerios (if s happens  change in schema etc),,,EMPG
+Database,Query related to t schema,,,EMPG
+Database,Schema of instagram,,,EMPG
+Database,Schema of instagram,,,EMPG
+Database,"First, 2nd and 3rd form of normalization",,,EMPG
+Database,Can there exist a situation where denormalization is required instead of normalization,,,EMPG
+Database,Why normalization is necessary?,,,EMPG
+Database,Normalization,,,EMPG
+Database,Query to find the customer having maximum order in march,,Maria Rafique,EMPG
+Database,Schema of an e-commerce website,,Maria Rafique,EMPG
+Database,"What is indexing, it's types and why we use it?",,,EMPG
+Database,Erd/schema,,,EMPG
+Database,Indexing,,,EMPG
+Database,"There is an 2d array (like maze) which have some blocked indexes ,you have to find path to  specific value k in array",,,Educative
+Database,Input is an array. length of the array represents the count of sticks. each index represents the length of the sticks. return how many unique triangles can be formed using it side note: a triangle can only be formed when one length is  less n the sum of other two (c<a+b),,,Educative
+Database,"What are ddl, dml, dql with example",,,Esketchers
+Database,"Q6 write a query to display product name and category name where product id is 1. tables name are product, category and product category",,,Esketchers
+Database,"Q7: design database of university its primary keys foreign keys of student, teachers and courses and also write usecases",,,Esketchers
+Database,Normalization (advatages disadvantaged),,,Esketchers
+Database,Sql injection,,,Esketchers
+Database,"Use stored procedure, not dynamic sql.",,,Esketchers
+Database,How to prevent sql injection,,,Esketchers
+Database,"A successful sql injection attack can result in unauthorized access to sensitive data, such as passwords, credit card details, or personal user information.",,,Esketchers
+Database,"Sql injection (sqli) is a cyberattack t injects malicious sql code into an application, allowing the attacker to view or modify a database.",,,Esketchers
+Database,Th: sql injection attack:,,,Esketchers
+Database,Greater overall database organization.,,,Esketchers
+Database,Higher database security.,,,Esketchers
+Database,More flexible database design.,,,Esketchers
+Database,Benefits of data normalization,,,Esketchers
+Database,Provides data consistency win the database.,,,Esketchers
+Database,Moat expensive function in sql,,Mubarak Ahmad,Focusteck
+Database,For database if you are familiar with mongo db to us ma sa bhi question pochay ga,,Mubarak Ahmad,Focusteck
+Database,Shyd ye  k ek array hai jiske hr index pe next index ka address pra hwa hai..,,,Focusteck
+Database,Oop dsa or database k..,,,Focusteck
+Database,Iske bad db ma se groupby ka sawal poocha aur iski query likhwi,,,Focusteck
+Database,Can you describe a time when you had to persuade someone to see ngs from your point of view?,,,General Questions
+Database,"Db queries (outter join, sub query)",,,Hazelsoft
+Database,"Inner join, left outer join queries",,,INNOVICSOFT
+Database,Normalization in database,,,INNOVICSOFT
+Database,Transaction kya hy,,,Ismi Technology
+Database,Query likhwai usi mn sy 1,,,Ismi Technology
+Database,Normalization 1st - 3rd form,,,NETSOL
+Database,Database: one to may relationship,,,NETSOL
+Database,Query optimization,,,NETSOL
+Database,"Db (index's there advantages and disadvantages, diff b/w trigger and stored procedure)",,,NETSOL
+Database,Sql: why indexing is used? benfit of indexing,,,NETSOL
+Database,Sql: at which column index should be applied?,,,NETSOL
+Database,Sql query to find names of emplyees of a specific department,,,Nestosh
+Database,Why we use indexing?,,,OCloud Solutions
+Database,"Given table, apply query",,,OCloud Solutions
+Database,Transaction dependency,,,OCloud Solutions
+Database,Sql query to fetch names of the department where greater number of employees work. if a department have same name number of employees  print names in alphabetical order,,,OCloud Solutions
+Database,"Tables: employee, department
+write a query to get the manager’s name with the highest employee and if 2 managers have the same number of employees  return the first comes in alphabetically of their names.",,,OCloud Solutions
+Database,Stored procedure ? why? efficient,,,OCloud Solutions
+Database,Write a query to get the department with zero employees count.,,,OCloud Solutions
+Database,"Normalize a database, make erd",,,PakWheels
+Database,Or aik erd bnwai  ...  theoretical kuch b ni pucha,,,PakWheels
+Database,"Sql and nosql databases, difference bw them",,,PakWheels
+Database,Foreign key duplicate ho skti ya ni,,,Qbatch
+Database,Indexing,,,Qbatch
+Database,Normalization,,,Qbatch
+Database,Array ka size 10 hai 11th index pr value kese insert hogi,,,Qbatch
+Database,Unique vs primary key,,,Qbatch
+Database,Join ki types. normalization,,,Qbatch
+Database,Self join ki query,,,Qbatch
+Database,Indexing ki hoti hai kyun use hoti hai,,,Qbatch
+Database,Indexing or uski types detail m,,,Qbatch
+Database,Can we create an index on primary key?,,,SSI
+Database,What is indexing and why we use indexing?,,,SSI
+Database,What are stored procedures?,,,SSI
+Database,What are the benefits of stored procedures?,,,SSI
+Database,Difference between stored procedures and triggers?,,,SSI
+Database,Disadvantages of indexing?,,,SSI
+Database,Sql vs no sql,,,SSI
+Database,What is normalization? and state 3 rule of normalization?,,,SSI
+Database,"When is indexing suitable, vs when not?",,,SSI
+Database,Indexing,,,SSI
+Database,"Q6 write a query to display product name and category name where product id is 1. tables name are product, category and product category",,,Smaritan Technologies
+Database,"Q7: design database of university its primary keys foreign keys of student, teachers and courses and also write usecases",,,Smaritan Technologies
+Database,Design database of tajir app,,,Tajir
+Database,Diff between dbms and rdbms,,,Tbox Solutionz
+Database,What is sql,,,Tbox Solutionz
+Database,Extension of nosql,,,Tbox Solutionz
+Database,What format data is stored in no sql,,,Tbox Solutionz
+Database,Sql/rdb questions (5),,,Techlogix
+Database,Write a sql query to display frequency of values of a column having frequency greater n 1,,,TechnoCares
+Database,What is left and right outer join,,,TechnoCares
+Database,"Access time: array elements can be accessed in constant time with an index, while accessing an element",,,Technosoft
+Database,"Database events, such as data modification, insertion, or deletion. the trigger can be set to execute",,,Technosoft
+Database,Either before or after the database event occurs.,,,Technosoft
+Database,Indexing in sql.,,,Technosoft
+Database,Difference between inner join and outer join.,,,Technosoft
+Database,Delete the whole table from sql.,,,Technosoft
+Database,Remove a single row from sql table.,,,Technosoft
+Database,How to delete a column from sql table,,,Technosoft
+Database,What are acid properties,,,Technosoft
+Database,What ara transaction in database,,,Technosoft
+Database,"Primary key enforces data integrity, while secondary keys optimize database operations.",,,Technosoft
+Database,Q) sql queries type?,,,Technosoft
+Database,The primary key.,,,Technosoft
+Database,"The primary key, meaning t it is not fully dependent on the primary key.",,,Technosoft
+Database,"Dependency, and to improve data integrity. there are several normalization types, including:",,,Technosoft
+Database,Q151) normalization?,,,Technosoft
+Database,When to use sql and when to use mongodb.,,,Technosoft
+Database,How to map many to many in database,,,Technosoft
+Database,Normalization,,,Technosoft
+Database,Clustered indexing,,,Technosoft
+Database,Indexing,,,Technosoft
+Database,A database query is slow. what could be the reasons?,,,Technosoft
+Database,"Suppose two tables, employee and department. write a query t counts the number of employees in each department. if a department has no employee  its count should be shown 0.",,,Technosoft
+Database,Nosql and sql characteristics in mcqs,,,Technosoft
+Database,Department with highes sum of salaries wrt employee table and department table using join,,,Technosoft
+Database,Query to show names of active female employees  earning more n 20k,,,Technosoft
+Database,Indexing in db,,,Technosoft
+Database,How we can optimize a query?,,,Technosoft
+Database,What the consistency in acid do give a real life example where consistency property is appying,,,Technosoft
+Database,What is transaction,,,Technosoft
+Database,Query from many to many table like fetch all the enrolled courses of a student,,,Technosoft
+Database,Fill factor in indexing,,,Technosoft
+Database,Acid properties?,,,Technosoft
+Database,What is transaction?,,,Technosoft
+Database,Behavior of left outer join,,,Tintash
+Database,Left outer join query on tables,,,Tintash
+Database,Acid properties,,,Tintash
+Database,Design schema for food panda,,,Tintash
+Database,Design schema for car booking app,,,Tintash
+Database,"Patient, doctor, appointment schema + sql queries on t",,,Tintash
+Database,What is primary key?,,,Tintash
+Database,Draw erd for a restaurant,,,Tintash
+Database,Write a query on above designed database,,,Tintash
+Database,"Problem: given an array, calculate and store (product of all entries of array except ith index) at ith index",,,Tintash
+Database,What is normalization,,,Tintash
+Database,"Your dream 5 companies, if any? are you too specific about the company you want to join?",,,Tintash
+Database,Types of normalization,,,Tintash
+Database,"Why we use database instead of files, benefits of database, cost of database and vice versa.",,,Tintash
+Database,Can we run sql queries on nosql databases,,,Tintash
+Database,"What are dml/ddl keywords, separrate them",,,Tintash
+Database,Find the index of last occurance of a target number from the given array.,,,VentureDive
+Database,Sql query to get a row from table. (exact yaad nhi he).,,,VentureDive
+Database,Difference between sql and no sql,,,Viteace
+Database,What is indexing,,,Viteace
+Database,Or same agar b ke end se search karna ke kya a uska friend hai tu tb kya query ho g,,,Viteace
+Database,Say agar mene search karna hai ke kya a b ka friend hai ? tu what query will i use.,,,Viteace
+Database,Difference between stored procedures and triggers,,,Viteace
+Database,Advantage and disadvantages of indexing,,,Viteace
+Database,Unique vs primary key - indexing,,,Xavor
+Database,Normalization in detail,,,folio3
+Database,"Customer,orders, order details are the tables write a query to give ordersdate and customer names between 1st feb 2022 and 1st dec 2022",,,folio3
+Database,Given an array(sorted or unsorted) and a target! return indexes which will sum to target in o(n),,,folio3
+Database,If you have large database and there are so many joins and sunbqueries there are indexing too in it and now you have to write a querry ...lkin query ase likhni h k hme fast retrieval ho ske...tu kase likhenge possible solutions btae...,,,folio3
+Database,Diff between user defined func and stored procedure,,,folio3
+Database,Diff between view and stored procedure and when to use them,,,folio3
+Database,Stored procedure with e.g,,,folio3
+Database,Indexing in detail(type ) benifits etc,,,folio3
+Database,Rotation of linkedlist in o(k). do rotation even if the index is greater. keep repeating it.,,,goSaas
+Database,Write a query on it,,,i2c
+Database,Cluster indexing,,,i2c
+Database,What is primary key?,,,i2c
+Database,What is composite primary key?,,,i2c
+Database,Database*,,,i2c
+Database,"Db: normal forms, er diagram, er schema (tables wala), sql query with joins",,,i2c
+Database,Ask you to create its erd,,,i2c
+Database,How to fast querying in database,,,i2c
+Database,Normalization acid,,,i2c
+Database,Index in db,,,i2c
+Database,Primary key vs unique key,,,i2c
+Database,Normalization disadvantages,,,i2c
+Database,Indexing disadvantages,,,i2c
+Database,Normalization,,,i2c
+Database,What is indexing and its disadvantages,,hussain raza,i2c
+Database,Indexing,,,i2c
+Database,Left join,,,i2c
+Database,Draw many to many relation simple erd,,,i2c
+Database,Indexing,,,i2c
+Database,What advantages and disadvantages  of indexing,,,i2c
+Database,Write db query,,,i2c
+Database,Draw erd for a library system where students can issue books,,,i2c
+Database,Queries to write wrt to the erd and situations,,,i2c
+Database,Indexing and why indexing (how memory would be managed) is it expensive... why..,,,i2c
+Database,Advantages and disadvantages of indexing,,,i2c
+Database,"Write db query : what is the result of select * from a,b where a has 10 rows and b has 20 rows",Ans=200 Rows (cartesian Product),alishan rao,i2c
+Database,Stored procedures,,,i2c
+Database,Indexing and types,,majid aziz,i2c
+Database,Unique vs primary key,,majid aziz,i2c
+Database,Write a query to get a list of employees working in a given department,,majid aziz,i2c
+Database,Db schema and keys related questions,,Qasim raza,i2c
+General Coding,If return type is change is the function still overridden,,,7 Vals
+General Coding,Run time vs compile time error,,,7 Vals
+General Coding,If return type is change is the function still overloaded,,,7 Vals
+General Coding,Is size of 'char pointer' and 'int pointer' same?,,,Arbisoft
+General Coding,Find the count of substrings in a string t's palindrome,,,Arrivy
+General Coding,Why main function is static in java,,,BinaryBrix
+General Coding,Find middle of linklist using 1 loop,,,Blackstack
+General Coding,String palindrome,,,Blackstack
+General Coding,Dangling pointer,,,BrainX
+General Coding,Times. we will extract them in the sequence and order of the string as,,,CQTechnologies
+General Coding,You can use vscode or ide for code hinting. you are not allowed to use google,,,CQTechnologies
+General Coding,String.,,,CQTechnologies
+General Coding,B. tests: write a function named pentwotimes(s);,,,CQTechnologies
+General Coding,D. tests: make a function named largestconsec(arr) and print the 2 lines below,,,CQTechnologies
+General Coding,"E. tests: test (input, expected output)",,,CQTechnologies
+General Coding,I. you can change the input and match the expected output for only these,,,CQTechnologies
+General Coding,I. there is only one palindrome in the string provided. you should not seek,,,CQTechnologies
+General Coding,"Ii. the function name should not be changed, else the question will go",,,CQTechnologies
+General Coding,Existed in the string).,,,CQTechnologies
+General Coding,Make a function named missing(arr) and print these 5 lines below.,,,CQTechnologies
+General Coding,Ii. input parameter string: “psxxxszzzpz”. here “pssp” is the correct answer.,,,CQTechnologies
+General Coding,"Given an input parameter of a string, find characters t are not repeated more n",,,CQTechnologies
+General Coding,What is the main function of the command interpreter?(to get and execute the next user-specified command),,,Cinnova
+General Coding,What does the following piece of code do?,,,Cinnova
+General Coding,Event loop,,,Cinnova
+General Coding,Check if string is anagram,,,Codefulcrum
+General Coding,String - common letters find,,,Denv Tech
+General Coding,String is pallindrome or not,,,Denv Tech
+General Coding,Write a function such t if we pass 100 it returns 101 and if we pass 101 it returns 100 without if else and ternary operator,,,Devsinc
+General Coding,Memory leakage vs dangling pointer,"https://aticleworld.com/dangling-pointer-and-memory-leak/#:~:text=Generally%2C%20daggling%20pointers%20arise%20when,to%20deallocate%20the%20allocated%20memory.",,Devsinc
+General Coding,Swap two integers without using 3rd variable,,,Devsinc
+General Coding,Friend function ? why we use friend function?,,,Devsinc
+General Coding,"Func a(x):
+         x = x + 10
+func b(&x):
+       x = x + 15
+
+driver code:
+x = 10
+funca(x)
+print(x)
+funcb(&x)
+print(x)
+
+what will the two print statements print?",,,Devsinc
+General Coding,"Func a(int a, float b)
+func a(float a, int b)
+
+what is happening here? what if i call func a(1,1). which function will get called?
+correct answer is upper func a will get executed.",actually this will give error becasue compiler has ambiguity deciding because both parameters match both intances of overloaded functions,,Devsinc
+General Coding,"Function overloading and function overriding
+- can we achieve function overloading by just changing the return type?",,,Devsinc
+General Coding,Can we access non static data members in static function,,,EMPG
+General Coding,What is static member function and static data member,,,EMPG
+General Coding,What is function overriding,,,EMPG
+General Coding,A function which returns 3 if receives 4 and returns 4 if receives 3.,,Maria Rafique,EMPG
+General Coding,A function to calculate the square root of a number,,Maria Rafique,EMPG
+General Coding,Write a program to detect a loop in a linkedlist,,,EMPG
+General Coding,Operator overloading vs function overloading,,,EMPG
+General Coding,What is function overloading,,,EMPG
+General Coding,Anagram code,,,EMPG
+General Coding,Write a function t will rotate left a linkedlist by n,,,Educative
+General Coding,"Given a string we have to return first non repeating character e.g. input: 'educative' output: d, input: 'banana' output: b",,,Educative
+General Coding,"Given a string of ternery operator, check it is valid or not. e.g. ""a?b:c"" (true) ""a?b?c:e:f?g"" (false) a?b?c:d:e(true)","Time O(n), Space O(1) try to focus on operators only",Muneeb Zia,Educative
+General Coding,"A string is given containing parenthesis, valid or invalid, you have to return the max sum of consecutive valid braces",,,Educative
+General Coding,"Write a function t finds out if a given number is strong or not, a number is strong if the sum of the factorial of its digits is equal to the number itself, e.g 145 is a strong number because 1!+4!+5!=145",,,Educative
+General Coding,Given a string we have to return frequency of every word in string,,,Educative
+General Coding,Remove all consecutive duplicates from a string for example abxzzzxyz = > abyz....... s is because when z is removed it will become abxxyz and now xx is removed and abyz is left so no consecutive char is left in s string,Stack,Zaid Tariq,Educative
+General Coding,Full loop assessment,,,Educative
+General Coding,Write function t take n as a parameter and return prime numbers equal to n.,,,Educative
+General Coding,"Find the nearest multiple to x in the table of n. for example n= 4, x = 9, output = 8, handle negative inputs as well",,,Educative
+General Coding,The pointer,,,Esketchers
+General Coding,Output=423507,,,Esketchers
+General Coding,Q10: replace a digit in a number without using string or character typecasting,,,Esketchers
+General Coding,"Given two strings find if a string can be equals to
+other string by inserting, deleting one character only.",,,Focusteck
+General Coding,Apne btana kia scene hai hr string ka 0(n) me,,,Focusteck
+General Coding,"Given a string ""[(){}]"" tell whether its a balanced brackets or not",,,Foomotion
+General Coding,Find longest palindromic subsequence or a sequence in a string,,,Foomotion
+General Coding,"Q2) recode parenthesis mismatch program, so t it will take half of the time compared to the given example.",,,INNOVICSOFT
+General Coding,Code kr k do,,,Ismi Technology
+General Coding,Code kr k do,,,Ismi Technology
+General Coding,Pass by value kya hy pass by reference kya hy,,,Ismi Technology
+General Coding,Code krdo,,,Ismi Technology
+General Coding,Wo btaya code kro esko,,,Ismi Technology
+General Coding,Uska code,,,Ismi Technology
+General Coding,Code krdo eska,,,Ismi Technology
+General Coding,Kehta 1 loop mn kro,,,Ismi Technology
+General Coding,Longest non repeating substring (no code just logic),,,MergeStack
+General Coding,Find the longest substring of a given string such t the substring does not have any repeating characters.,,,MergeStack
+General Coding,No code just logic),,,MergeStack
+General Coding,String palindrome,,,MergeStack
+General Coding,Pass by reference and value,,,MergeStack
+General Coding,Prime number code,,,MergeStack
+General Coding,What is event loop?,,,MergeStack
+General Coding,Event loop,,,MergeStack
+General Coding,Find if string 2 is an anagram of string 1 or not.,,,MergeStack
+General Coding,Final output = **/,,,MindStorm
+General Coding,Output = 45*7*76/4,,,MindStorm
+General Coding,"Given a string of integers, if two odd consecutive number exist add a * between them. if two even consecutive number exists add a / sign.",,,MindStorm
+General Coding,"Pf(pointer, swap and other common interview questions)",,,NETSOL
+General Coding,Reverse string,,,NETSOL
+General Coding,Program to ellaboate overloadind and overridding,,,Nestosh
+General Coding,Program for pallindrome,,,Nestosh
+General Coding,Program to ellaboate interhirance,,,Nestosh
+General Coding,Program to swap to swap to variable without using rd variable,,,Nestosh
+General Coding,Function to find reverse of number( you can't convert number into string),,,OCloud Solutions
+General Coding,Write a recursive function t will iterate until an input number's length gets 1,,,OCloud Solutions
+General Coding,Reverse string without effecting special character,,,OCloud Solutions
+General Coding,Reverse string without moving special charaters,,,OCloud Solutions
+General Coding,Find loop in linklist and remove it,,,OCloud Solutions
+General Coding,"Program to reverse the string while the special characters holds the position for example: input ab@k,w output wk@b,a",,,OCloud Solutions
+General Coding,"Can we do all these with the same function? (yes, patch)",,,Qbatch
+General Coding,Swap two numbers without using rd variable,,,Qbatch
+General Coding,How to find out the datatype of a variable?,,,SSI
+General Coding,Can we create a synchronous function using promises?,,,SSI
+General Coding,C++ is a compile time language and python is an interpreting language. explain it,,,Slashnext
+OOP,"Do teen sawal he yaad hain boht pehle diya 
+supervised learning
+curse of dimensionality
+naives bayes
+python simple code
+mostly objective he 
+difference between rnn and cnn
+linear regression (random forest)
+ml engineer ma yaad hai
+inn concepts se mostly mcqs the
+roc curve
+language models konsy achay like bert lstm etc",,"Count Sort ka Question
+Reverse an Integer without converting it into a string
+Remove duplicate from a python list in O(n)
+Array indexing ka tough mcq aya tha  
+
+ Array indexing example
+output of a[0] - 4[a] + (4+2)[a]
+Is terha ka objective",Slashnext
+General Coding,Q10: replace a digit in a number without using string or character typecasting,,,Smaritan Technologies
+General Coding,Output=423507,,,Smaritan Technologies
+General Coding,Write a function to multiply two matrices together,,,Tajir
+General Coding,Count the non-palindromic letter in a string e.g. abba = 0 abcdba = 2,,,Tajir
+General Coding,"Write a program, you are given an integer, return true if t integer ispalindrome and false otherwise.",,,Tbox Solutionz
+General Coding,Write code for factorial using iterative and recursive approach,,,TechnoCares
+General Coding,What is function overloading,,,TechnoCares
+General Coding,St interview me code ni likhwaya koi,,,Technosoft
+General Coding,A code to flip aray (left to right) no pseudocode allowed,,,Technosoft
+General Coding,"An atm machine dispenses 50, 20 and 10 dollars notes and max limit is 500, write a code to print number of each note required for the entered amount and the total number of notes should be least possible",,,Technosoft
+General Coding,A proper code will be given and you'll be needed to point out errors and give solution,,,Technosoft
+General Coding,A pseudo code will be given and you will need to mention errors and solutions,,,Technosoft
+General Coding,"Explain code for generating a password according to user requirement, if user want an 
+alphabet,digit and special character in password and also gives pssword length",,,Technosoft
+General Coding,"Switch_case(3) # output: ""you chose case 3""",,,Technosoft
+General Coding,Function points (fp),,,Technosoft
+General Coding,Use lowercase letters and underscores for variable and function names.,,,Technosoft
+General Coding,Error finding,,,Technosoft
+General Coding,Cohesion (code example),,,Technosoft
+General Coding,Coupling (code example),,,Technosoft
+General Coding,Aggregation (example in real life + code implementation ),,,Technosoft
+General Coding,Composition (example in real life + code implementation ),,,Technosoft
+General Coding,Association (example in real life + code implementation ),,,Technosoft
+General Coding,Maintainable code,,,Technosoft
+General Coding,Lines of code (loc),,,Technosoft
+General Coding,Explain method overloading and overriding with code example,,,Technosoft
+General Coding,One stackframe is allocated to a function of program or the complete program,,,Tintash
+General Coding,Runtime and compile time errors?,,,Tintash
+General Coding,"Shallow copy vs deep copy, write its code",,,Tintash
+General Coding,Dry run a recursive code,,,Tintash
+General Coding,What languages you can code in,,,Tintash
+General Coding,"Input: [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]",,,Tintash
+General Coding,Find runtime and compile time errors in a given code.,,,Tintash
+General Coding,Check wether a string is palindrome or not (asked 4 different methods),,,Tintash
+General Coding,Swap the values of two variables without using 3rd variable.,,,VentureDive
+General Coding,Say there is a social app and you have created a friendship function,,,Viteace
+General Coding,Check if string is palindrom,,,Viteace
+General Coding,Reverse a string,,,Viteace
+General Coding,String say character a ki occurnce,,,Viteace
+General Coding,String say character a ki occurnce,,,Viteace
+General Coding,Dono me code re use ability hai how do they differ,,,Viteace
+General Coding,Longest subsequence ka code likh ke daina  (proper code),,,Viteace
+General Coding,Function overloading and overriding me difference,,,Viteace
+General Coding,"Reverse an integar.
+example:
+input-> 567
+output-> 765",,Arshad Majeed ,Xavor
+General Coding,Given a string remove duplicates,,,Xavor
+General Coding,Compile time binding,,,Xavor
+General Coding,There were three coding problems. have to do code in google docs file which is shared by screen with him.,,,goSaas
+General Coding,Language doesn't matter. do puesdo code and dry run and explain.,,,goSaas
+General Coding,How to avoid implementation of a abstract function,,hussain raza,i2c
+General Coding,Reverse a string,,,i2c
+General Coding,String vs string builder,,,i2c
+General Coding,Code to find count of each character in string,,,i2c
+General Coding,Problem solving: chess men queen ki movement pe code likhwaya  (he was checking ke saray edge cases handle ho rahe ya nahi),,,i2c
+General Coding,Explain composition and aggregation with code.,,,i2c
+General Coding,String pool,,,i2c
+General Coding,Critical section and its details (does it contain the shared resources only or it has code also),,,i2c
+General Coding,How can we protect critical section write code of it,,,i2c
+General Coding,Pass by value vs pass by reference,,,i2c
+General Coding,Given a function and some variables where they are stored and how they stored (if you answer s may be a follow-up question would be why they are stored like s),,Aamir Saleem,i2c
+General Coding,Static variable and method,,,i2c
+General Coding,What is exception handling write code of it,,hussain raza,i2c
+General Coding,Pass by reference and pass by value,,,i2c
+General Coding,Null pointer,,,i2c
+General Coding,Function overloading in details,,Majid aziz,i2c
+General Coding,How to find loop in singly linkedlist,,,i2c
+General Coding,What type of memories are generated in a program and what are their purpose,,,i2c
+General/Unclassified,Interview,,,7 Vals
+Database,Why subquery? write using joins,,,7 Vals
+Database,Joins,,,7 Vals
+General/Unclassified,Nd interview,,,7 Vals
+OOP,Parent p = new child() s is upcasting or downcasting,,,7 Vals
+OOP,What is upcasting and downcasting,,,7 Vals
+General/Unclassified,Can static members call regular members,,,7 Vals
+General/Unclassified,What are static vairables,,,7 Vals
+General/Unclassified,If return type is changed is it still overriding?,,,7 Vals
+General/Unclassified,What is virtual keyword,,,7 Vals
+General/Unclassified,Why c++,,,7 Vals
+General/Unclassified,Which language you prefer?,,,7 Vals
+General/Unclassified,Aggregation vs composition,,,7 Vals
+General/Unclassified,Questions hotay total-!,,,7 Vals
+General/Unclassified,Problem solving questions,,,7 Vals
+General/Unclassified,Vals sqa test,,,7 Vals
+General/Unclassified,Question no. 3,,,7 Vals
+General/Unclassified,Question no. 2,,,7 Vals
+General/Unclassified,Question no. 1,,,7 Vals
+OOAD,"Given a case study doctor and patient exists, an appointment a doctor can have many patients and a patients can have many doctors",,,7 Vals
+General/Unclassified,Display name and id of doctor who has no appointment,,,7 Vals
+General/Unclassified,What is your role in competitive programming,,,7 Vals
+HR/Behavioral,I mentioned about my competitve programming interest,,,7 Vals
+General/Unclassified,Arbisoft online technical interview (30+ mints),,,Arbisoft
+General/Unclassified,Ood ka sawal jo attempt kia  test ma,,,Arbisoft
+General/Unclassified,Databse definition,,,Arrivy
+General/Unclassified,Nd max,,,Arrivy
+General/Unclassified,Normalisation,,,Arrivy
+Database,Transactions in databases,,,Arrivy
+Database,Homogeneous and heterogenous databases,,,Arrivy
+General/Unclassified,Sdlc and stlc,SQA Interview,,Arrivy
+HR/Behavioral,Intro,,,Arrivy
+General/Unclassified,Facade,,,Arrivy
+General/Unclassified,Test cases for login  and whatsapp recording button,SQA Interview,,Arrivy
+General/Unclassified,Basic concept of automation,SQA Interview,,Arrivy
+General/Unclassified,Why sqa,SQA Interview,,Arrivy
+General/Unclassified,Limitations of automation,SQA Interview,,Arrivy
+General/Unclassified,Alpha beta testing,SQA Interview,,Arrivy
+General/Unclassified,Scrum,SQA Interview,,Arrivy
+General/Unclassified,Test scenarios,SQA Interview,,Arrivy
+General/Unclassified,Unit testing,SQA Interview,,Arrivy
+General/Unclassified,Integration testing,SQA Interview,,Arrivy
+General/Unclassified,Black box testing,SQA Interview,,Arrivy
+General/Unclassified,Test case,SQA Interview,,Arrivy
+General/Unclassified,Validation and. verification,SQA Interview,,Arrivy
+General/Unclassified,Regression and retesting,SQA Interview,,Arrivy
+General/Unclassified,Sanity,SQA Interview,,Arrivy
+General/Unclassified,Smoke,SQA Interview,,Arrivy
+General/Unclassified,White box testing,SQA Interview,,Arrivy
+General/Unclassified,Load and stress testing,SQA Interview,,Arrivy
+General/Unclassified,Traceability matrix,SQA Interview,,Arrivy
+General/Unclassified,Semester projects,SQA Interview,,Arrivy
+HR/Behavioral,Intro,,,Ashlar
+General/Unclassified,Real life examples from win the room,,,Ashlar
+General/Unclassified,"And use simple words rather n too technical terms, like you're explaining to a layman",,,Ashlar
+General/Unclassified,Analytical questions,,,Astera
+Database,Outter joins,,,BinaryBrix
+General/Unclassified,Lru page replacement algo,,,BinaryBrix
+General/Unclassified,Some aptitude questions,,,Bitlatic
+Database,Joins,,,Blackstack
+General/Unclassified,Balls weight problem,,,Blackstack
+General/Unclassified,Short the length of rope without cutting it,,,Blackstack
+General/Unclassified,L 5l jug problem,,,Blackstack
+General/Unclassified,"Two ropes, one rope takes 1 hour to burn completlely, you have to measure exactlt 45minutes",,,Blackstack
+General/Unclassified,"Containers with wrong tags, you can check only one, make the tags correct",,,Blackstack
+General/Unclassified,Analytical(alot),,,Blackstack
+General/Unclassified,Brainx 1st technical interview,interviewer: Zubair,,BrainX
+General/Unclassified,Write four types of keys and explain them,,,BrainX
+General/Unclassified,Crud queries,,,BrainX
+General/Unclassified,"Manufacture produce 27 balls in 1 hour, if there is 45 manufactures how many
+ball they will make in 40 minutes.",,,BrainX
+General/Unclassified,Palindrom problem,,,BrainX
+General/Unclassified,Find duplicate number problem.,,,BrainX
+General/Unclassified,Infix and postfix conversion,,,BrainX
+General/Unclassified,Balls and one ball wight is more. find high weight ball in less terms?,,,BrainX
+General/Unclassified,Anagram,,,BrainX
+General/Unclassified,Interviewer may auto exit/part you if time is over. do not be surprised.,,,CQTechnologies
+General/Unclassified,You are not supposed to ask any questions from the interviewer about test. if,,,CQTechnologies
+General/Unclassified,"Wrong. : const myfunction = () => { return [1,2,3] }",,,CQTechnologies
+General/Unclassified,Console.log(pentowtimes(“aaaaaaaa”)),,,CQTechnologies
+General/Unclassified,Algo - 20 -,,,CQTechnologies
+General/Unclassified,You do not need to submit the answers anywhere. we will observe the,,,CQTechnologies
+General/Unclassified,Recording of your screen to assess.,,,CQTechnologies
+General/Unclassified,You can leave the meeting room once you have completed the test. the,,,CQTechnologies
+General/Unclassified,"Ii. if a character repeats more n 2 times, it should be ignored (like it never",,,CQTechnologies
+General/Unclassified,For more n one. get / use the first one you find.,,,CQTechnologies
+General/Unclassified,"Some is unclear, you should figure it out. if someng is incorrect in the question,",,,CQTechnologies
+General/Unclassified,You can report it to the whatsapp number you got the invitation from.,,,CQTechnologies
+General/Unclassified,C. constraints:,,,CQTechnologies
+General/Unclassified,Console.log(pentowtimes(“psxxyyyyyxszzzpzyyyy”)),,,CQTechnologies
+General/Unclassified,Iii. if s is “psxxyyyyyxszzzpzyyyy” - the printed value should be “pssp”,,,CQTechnologies
+General/Unclassified,Print it in console.log(pentowtimes(s)) for each of the bellow.,,,CQTechnologies
+General/Unclassified,Cfc” because it is also a palindrome. so you should return “cfc” as a,,,CQTechnologies
+General/Unclassified,I.e do s,,,CQTechnologies
+General/Unclassified,Console.log(pentowtimes(“abaacbfc,,,CQTechnologies
+General/Unclassified,Questions,,,CQTechnologies
+General/Unclassified,Algo - 25 -,,,CQTechnologies
+General/Unclassified,Notfound” if not.,,,CQTechnologies
+General/Unclassified,A. e.g,,,CQTechnologies
+General/Unclassified,I. input : “abaacbfcb” here ‘a’ and ‘b’ are repeated more n 2 times. so,,,CQTechnologies
+General/Unclassified,"We will ignore them. however, ‘c’ ‘f’ ‘c’ are not repeated more n 2",,,CQTechnologies
+General/Unclassified,"Times, extract them in the same sequence and return if they are pelendrom. return",,,CQTechnologies
+General/Unclassified,Disqualified.,,,CQTechnologies
+General/Unclassified,"Iv. test( [5,2] , [3,4] )",,,CQTechnologies
+General/Unclassified,"Console.log(missing([2,5] )) should print [3,4]",,,CQTechnologies
+General/Unclassified,"Iii. test( [2,5] , [3,4] )",,,CQTechnologies
+General/Unclassified,"Console.log(missing([1,7,3,5,2] )) should print [4, 6]",,,CQTechnologies
+General/Unclassified,"Console.log(missing([1,6,3,5,2])) should print [4]",,,CQTechnologies
+General/Unclassified,"I. test( [1,6,3,5,2] , [4] )",,,CQTechnologies
+General/Unclassified,"Ii. test( [1,7,3,5,2] , [4, 6] )",,,CQTechnologies
+General/Unclassified,"Console.log(largestconsec([2,1,0,20,8] )) should print 28",,,CQTechnologies
+General/Unclassified,Consecutive numbers.,,,CQTechnologies
+General/Unclassified,A. e.g:,,,CQTechnologies
+General/Unclassified,"I. [2,0,1,100,200,10,7,2,300,2,10] here 100,200,10 = 310 is the correct",,,CQTechnologies
+General/Unclassified,Largest sum.,,,CQTechnologies
+General/Unclassified,"Ii. [2,1,0,20,7] = 0+20+7 = 27 is the answer t you should return.",,,CQTechnologies
+General/Unclassified,B. assumptions:,,,CQTechnologies
+General/Unclassified,"V. test( [99999997, 99999999] , [99999998] )",,,CQTechnologies
+General/Unclassified,C. constraints:,,,CQTechnologies
+General/Unclassified,Result to be incorrect,,,CQTechnologies
+General/Unclassified,"Console.log(missing([5,2])) should print [3,4]",,,CQTechnologies
+General/Unclassified,"I. [2,0,1,110,200,10,7,2,300,2,10] = 320",,,CQTechnologies
+General/Unclassified,"Console.log(largestconsec([2,0,1,110,200,10,7,2,300,2,10])) should print",,,CQTechnologies
+General/Unclassified,"Ii. [2,1,0,20,8] = 28",,,CQTechnologies
+General/Unclassified,D. constraints.,,,CQTechnologies
+General/Unclassified,Ii. it will not have negative numbers.,,,CQTechnologies
+General/Unclassified,You are.,,,CQTechnologies
+General/Unclassified,C. notes and provisions,,,CQTechnologies
+General/Unclassified,"A. examples - [1,6,3,5,2]. here [4] is missing. [2,5] here 3 and 4 are missing so",,,CQTechnologies
+General/Unclassified,Share your “full screen”. not just a tab or application but “full desktop”.,,,CQTechnologies
+General/Unclassified,Do not turn off screen share at any point.,,,CQTechnologies
+General/Unclassified,Algo - 20 -,,,CQTechnologies
+General/Unclassified,"Console.log(missing([99999997, 99999999]) should print [99999998]",,,CQTechnologies
+General/Unclassified,Test time: 1 hour (starting from the time of your booking (not the time of your,,,CQTechnologies
+General/Unclassified,"Your screen will be recorded. if you do anyng contrary, you may get",,,CQTechnologies
+General/Unclassified,Ii. if s is “aaaaaaaa” - the printed value should be “notfound”,,,CQTechnologies
+General/Unclassified,I. if s is “abaacbfcb” - the printed value should be “cfc”,,,CQTechnologies
+General/Unclassified,"Def solution(s):
+    max_sum = 0
+    current_sum = 0
+    positive = false
+    n = len(s)
+    for i in range(n):
+        item = s[i]
+        if item < 0:
+            if max_sum < current_sum:
+                max_sum = current_sum
+                current_sum = 0
+        else:
+            positive = true
+            current_sum += item
+    if (current_sum > max_sum):
+        max_sum = current_sum
+    if (positive):
+        return max_sum
+    return -1",,,Careem Codility
+General/Unclassified,Middlewares?,,,Celestial Technology
+Database,Mongodb vs mysql which one is better in your opinion and why?,,,Celestial Technology
+General/Unclassified,Nd interview:,,,Celestial Technology
+General/Unclassified,Hr kasi sath  interview,,,Celestial Technology
+General Coding,Asynchronous functions?,,,Celestial Technology
+General/Unclassified,What is jsx?,,,Celestial Technology
+General/Unclassified,What is nodejs?,,,Celestial Technology
+General/Unclassified,Nodejs:,,,Celestial Technology
+Database,All types of joins,,,Cinnova
+General/Unclassified,Association / composition / aggregation,,,Cinnova
+General/Unclassified,Postorder traversal,,,Cinnova
+General/Unclassified,What is redux,,,Cinnova
+General/Unclassified,What is the full form of cocomo? (constructive cost estimation model),,,Cinnova
+General/Unclassified,Express routers,,,Cinnova
+OS,Which of the following part of a processor contains the hardware necessary to perform all the operations required by a computer?(data path),,,Cinnova
+General/Unclassified,Test questions,,,Codefulcrum
+General/Unclassified,Basic questions,,,Codefulcrum
+General/Unclassified,"Dangling pointers, memory leak",,,Copy of Qbatch
+General/Unclassified,Put patch post m diff,,,Copy of Qbatch
+Database,Db joins - queries,,,Denv Tech
+General/Unclassified,Transitive dependency,,,Devsinc
+General/Unclassified,Bridge entity,,,Devsinc
+General/Unclassified,How to apply constraints,,,Devsinc
+General/Unclassified,How to implement manay to many relationship,,,Devsinc
+General/Unclassified,"Diff between drop, truncate, delete",,,Devsinc
+General/Unclassified,Triggers vs procedures,,,Devsinc
+General/Unclassified,"Using given table, find the count of employees each manager is handling",,,Devsinc
+General/Unclassified,Views,,,Devsinc
+General/Unclassified,Difference between put and patch.,,,Devsinc
+General/Unclassified,Difference between put and patch.,,,Devsinc
+General/Unclassified,Devsinc 2nd technical interview:,,,Devsinc
+General/Unclassified,Store procedures,,,Devsinc
+General/Unclassified,Triggers,,,Devsinc
+General/Unclassified,Views,,,Devsinc
+General/Unclassified,Walmart,,,Devsinc
+General/Unclassified,"Pre order,inorder,post order,level order",,,Devsinc
+General/Unclassified,"Difference between get and post,",,,Devsinc
+General/Unclassified,"Can we do get, post, put, delete using post only?",,,Devsinc
+General/Unclassified,"Inorder, postorder, preorder",,,Devsinc
+General/Unclassified,"Blue pills 2 red pills, blind man has to eat one of them every day and night how will he identify them",,,Devsinc
+General/Unclassified,"Factory 10 machines making coins of 10g each, 1 machine is making coins of 9g, identify t machine with the help of a weight machine but can check reading on weight machine once",,,Devsinc
+General/Unclassified,Analytical:,,,Devsinc
+General/Unclassified,Func t return 3 on 2 and vice versa,,,Devsinc
+General/Unclassified,D matrix diagonal print,,,Devsinc
+General/Unclassified,Pick 1 heavy ball from 8 balls in 2 attempts,,,Devsinc
+General/Unclassified,Two trains are moving towards each other with a speed of 200km/h.  there is a distance of 400km between them. there is a bird on the front side of first train  which move towards second train and return back when the bird reached the front of the second train. the bird speed is 393.75km/h. what will be the total distance covered by the bird when both trains will collide. another case: distance between them is 200km,,,Devsinc
+General/Unclassified,Difference between put and patch.,,,Devsinc
+General/Unclassified,"You have to correctly label, 3 wrongly labeled bags in 1 try (pick 1 ball from any bag).1 of them(m) has mix red or black balls, one has only red(r) and one has only black(b) balls.",,,Devsinc
+General/Unclassified,"One candy costs one rupees. if you return three wrappers, you'll get an extra candy. how many candies you get for 15 rupees",,,Devsinc
+General/Unclassified,Two trains are moving towards each other with a speed of 80km/h.  there is a distance of 160km between them. there is a bird on the front side of first train  which move towards second train and return back when the bird reached the front of the second train. the bird speed is 70km/h. what will be the total distance covered by the bird when both trains will collide.,,,Devsinc
+General/Unclassified,You have given 25 horses and have to find top 3 in minimum races.only five horses can participate in a race.,,,Devsinc
+General/Unclassified,"You have two candles, each can burn on both ends. each candle take 60 minutes to burn when burn from one side only, similarly it takes 30 minutes if burn from both sides. estimate 45 minutes by using 2 such candles. you have no time, or any scale or measure.",,,Devsinc
+General/Unclassified,Measure 4 l water from a jar of 3l and 5l.,,,Devsinc
+General/Unclassified,"Time is 3:15 ,tell the angle between minute needle and hour needle.","total clock angle =360. so every hour is of 30degree. each hour consist of 4*15, so for  each 15 min the angle is 7.5degree",,Devsinc
+General/Unclassified,"You have 4 tablets, 2 of one type and 2 of other, your task is to eat 2 tablets of one type each. how is t possible?","Divide each tablet into half, and eat 4 halves",,Devsinc
+General/Unclassified,Divide a cake into 8 equal pieces in 3 cuts,,,Devsinc
+General/Unclassified,"One candy costs one rupees. if you return three wrappers, you'll get an extra candy. how many candies you get for 15 rupees",,,Devsinc
+General/Unclassified,Anagram problem in o(n),,,Devsinc
+General/Unclassified,Rd interview,,,EMPG
+General/Unclassified,Transitive dependency,,,EMPG
+General/Unclassified,What is dependency injection,,,EMPG
+General/Unclassified,Crud queries,,,EMPG
+General/Unclassified,Normalisation,,,EMPG
+General/Unclassified,Implementation of cyclic dependency,,,EMPG
+General/Unclassified,What is cyclic dependency and give its example,,,EMPG
+General/Unclassified,Partial dependency,,,EMPG
+Database,Joins,,,EMPG
+General/Unclassified,What is dependency injection why we use s,,,EMPG
+General/Unclassified,Rd/final technical interview (with rohail akram),,,EMPG
+General/Unclassified,Normal forms,,,EMPG
+General Coding,Define frnd functions why we use s,,,EMPG
+General Coding,What are frnd functions how they are used,,,EMPG
+General/Unclassified,What are props?,,Maria Rafique,EMPG
+General/Unclassified,Mutual exclusion,,,EMPG
+General/Unclassified,"Assessment of decision making -> choice of subjects in matric, intermediate -> reason of resign from internship",,,EMPG
+General/Unclassified,Composition vs aggregation,,,EMPG
+General/Unclassified,Adapter pattern,,,EMPG
+General/Unclassified,Context switching,,,EMPG
+General/Unclassified,Aik probability k sawal th,,,EMPG
+General/Unclassified,Find the sum of numbers which are arithmetically correct,,,EMPG
+General/Unclassified,Parentheses valid check,,,EMPG
+General/Unclassified,Composition vs aggregation,,,EMPG
+General/Unclassified,Shared resources,,,EMPG
+General/Unclassified,Interview 2:,,,Educative
+General/Unclassified,Interview 3:,,,Educative
+General/Unclassified,Interview 4:,,,Educative
+General/Unclassified,St interview qs,,,Educative
+General/Unclassified,Several other medium and hard level leetcode problems,,,Educative
+General/Unclassified,Find all the possible paths in maze from source to destination.,,,Educative
+General Coding,Given two strings find they if are anagrams,,Wasiq Malik,Educative
+General/Unclassified,Return the count of maximum nodes in a root to leaf path,,,Educative
+General/Unclassified,It was around 2 hour long interview with ceo technosoft,,,Esketchers
+Database,Joins inner vs outer,,,Esketchers
+General/Unclassified,Q4: what is denormalization and what are its advantages?,,,Esketchers
+Database,Joins,,,Esketchers
+General/Unclassified,What are triggers,,,Esketchers
+General/Unclassified,Result = result + remainder * multiply;,,,Esketchers
+General/Unclassified,Else // else remain as such,,,Esketchers
+General/Unclassified,Result = result + d2 * multiply;,,,Esketchers
+General/Unclassified,If (remainder == d1),,,Esketchers
+General/Unclassified,Replaced.if yes  replace,,,Esketchers
+General/Unclassified,They'll ask you to score your top 3 technologies/languages and  questioning will be accordingly,,,Esketchers
+General/Unclassified,Send by another student **,,,Esketchers
+General/Unclassified,Return result;,,,Esketchers
+General/Unclassified,Result = result + x * multiply;,,,Esketchers
+General/Unclassified,Else // else remain as such,,,Esketchers
+General/Unclassified,Result = result + d2 * multiply;,,,Esketchers
+General/Unclassified,If (x == d1),,,Esketchers
+General/Unclassified,Replaced.if yes  replace,,,Esketchers
+General/Unclassified,X = x / 10; // update the value,,,Esketchers
+General/Unclassified,Multiply *= 10;,,,Esketchers
+General/Unclassified,Hundred place and so on.,,,Esketchers
+General/Unclassified,Update and move forward from unit place to,,,Esketchers
+General/Unclassified,Check whether it is equal to the digit to be,,,Esketchers
+General/Unclassified,"Int replacedigit(int x, int d1, int d2)",,,Esketchers
+General/Unclassified,"Cout << arr[row][col] << "" "";",,,Esketchers
+General/Unclassified,Int col = i % columns;,,,Esketchers
+General/Unclassified,"Example input=replace(423567,6,0)",,,Esketchers
+General/Unclassified,"Int result = 0, multiply = 1;",,,Esketchers
+General/Unclassified,While (x / 10 > 0) {,,,Esketchers
+General/Unclassified,Check whether it is equal to the digit to be,,,Esketchers
+General/Unclassified,Int remainder = x % 10;,,,Esketchers
+General/Unclassified,Place digit,,,Esketchers
+General/Unclassified,Shape *sh=new circle() ;,,,Esketchers
+General/Unclassified,Is it valid statement? and explain why?,,,Esketchers
+General/Unclassified,Take remainder of number starting from the unit,,,Esketchers
+General/Unclassified,"What, need, role of each member",,,Esketchers
+General/Unclassified,Pickling in python,,,Esketchers
+Database,Be sure about the version of dbs etc you are using,,,Esketchers
+General/Unclassified,What is number and why do we use it,,,Esketchers
+General/Unclassified,Filtering in python,,,Esketchers
+General/Unclassified,How can we measure the efficiency of two algos.....,,,Esketchers
+General/Unclassified,What is the most important stage of waterfall model,,,Esketchers
+General/Unclassified,Diff b/w 2nd nf and 3rd nf,,,Esketchers
+General/Unclassified,"Br, tb, td,",,,Esketchers
+General/Unclassified,Diff b/w aggregation and association,,,Esketchers
+General/Unclassified,Diff b/w primary and secondary key at least 2 to 3,,,Esketchers
+General/Unclassified,How can we implement the switch structure of c++ in python,,,Esketchers
+HR/Behavioral,Hiw will you tell your grand mather you are doing software engineering on phone call provided she has no education and she is using nokia 3310 mobile,,,Esketchers
+General/Unclassified,What is agile and xp,,,Esketchers
+General/Unclassified,Pb-8 in python,,,Esketchers
+General/Unclassified,"Accessors, mutators, add operator",,,Esketchers
+General/Unclassified,Send by another student **,,,Esketchers
+General/Unclassified,Find and replace specific number,,,Esketchers
+General/Unclassified,Finding min max,,,Esketchers
+General/Unclassified,How to optimise a querry,,,Esketchers
+General/Unclassified,Queries,,,Esketchers
+General/Unclassified,Diff b/w === and ==,,,Esketchers
+General/Unclassified,Better and quicker execution.,,,Esketchers
+General/Unclassified,Reduces redundant data.,,,Esketchers
+General/Unclassified,Shape * s = new circle();,,,Esketchers
+General/Unclassified,Input validation,,,Esketchers
+General/Unclassified,Solutions* :,,,Esketchers
+General/Unclassified,Int row = i / columns;,,,Esketchers
+General/Unclassified,For(int i = 0; i < rows * columns; i++),,,Esketchers
+General/Unclassified,Er diagram,,,Esketchers
+OS,"Threads, binary seamaphors",,,Esketchers
+General/Unclassified,Diff b/w post and get requests,,,Esketchers
+General/Unclassified,Uske baad technical interview hwa  jisme sarey basics concepts they,,,Focusteck
+General/Unclassified,Or bi koi technical question they yaad niphir finally ceo k sath interview  or google se offer agyi mjhe 80k ki,,,Focusteck
+General Coding,Aggregate functions,,Mubarak Ahmad,Focusteck
+General/Unclassified,What is closure,,Mubarak Ahmad,Focusteck
+General Coding,Given 2 strings find if they are anagrams,,Mubarak Ahmad,Focusteck
+Database,Joins konsay hotay hain. joins k nuqsanat.,,,Foomotion
+General/Unclassified,Generally asked questions in interview,,,General Questions
+General/Unclassified,How do you work in a team?,,,General Questions
+General/Unclassified,What is your approach to problem-solving?,,,General Questions
+General/Unclassified,Can you describe a time when you had to adapt to change?,,,General Questions
+General/Unclassified,Do you have any questions for us?,,,General Questions
+General/Unclassified,Some other questions,,,General Questions
+General/Unclassified,Can you tell us about a time when you went above and beyond for a customer or colleague?,,,General Questions
+General/Unclassified,How do you stay organized and manage your time effectively?,,,General Questions
+General/Unclassified,What is your leadership style?,,,General Questions
+General/Unclassified,What do you nk are the most important qualities for success in s role?,,,General Questions
+General/Unclassified,What kind of work environment do you thrive in?,,,General Questions
+Database,How do you handle constructive feedback or criticism?,,,General Questions
+General/Unclassified,Can you tell us about a time when you had to make a tough decision?,,,General Questions
+General/Unclassified,What are some of your favourite books or resources for professional development?,,,General Questions
+General/Unclassified,How do you handle conflicts with coworkers or supervisors?,,,General Questions
+General/Unclassified,Can you give an example of a time when you had to nk creatively to solve a problem?,,,General Questions
+General/Unclassified,How do you stay up-to-date with industry trends and advancements?,,,General Questions
+General/Unclassified,Can you give an example of a time when you had to handle a difficult situation?,,,General Questions
+General/Unclassified,What motivates you?,,,General Questions
+General/Unclassified,How do you prioritize your work?,,,General Questions
+General/Unclassified,Why do you want to work for s company?,,,General Questions
+General/Unclassified,Why are your achievements?,,,General Questions
+General/Unclassified,How do you handle stress and pressure?,,,General Questions
+General/Unclassified,Ado.net,,,Hazelsoft
+General/Unclassified,The interview was 3 hours long in my case.,,,Ismi Technology
+General/Unclassified,Kiun hoga,,,Ismi Technology
+General/Unclassified,Shallow copy kya hy deep copy kya hy,,,Ismi Technology
+General/Unclassified,Us py 2 scenario bna k dye kehta ab kya hoga shallow copy ya deep copy,,,Ismi Technology
+General/Unclassified,Exception handling kya hota,,,Ismi Technology
+General/Unclassified,Bnana chaye aesy ya nai ye pocha,,,Ismi Technology
+General/Unclassified,Wo btaya,,,Ismi Technology
+General/Unclassified,Critical section problem kya hy,,,Ismi Technology
+General/Unclassified,"Kya solution hy,",,,Ismi Technology
+Database,Db py agya,,,Ismi Technology
+General/Unclassified,St normally kya hy,,,Ismi Technology
+General/Unclassified,Nd kya hy,,,Ismi Technology
+General/Unclassified,Rd kya hy,,,Ismi Technology
+General/Unclassified,Wo account sy paisy deduct ho gye hn 2sry mn abi add nai hwy.. kya hoga es case mn,,,Ismi Technology
+General/Unclassified,Wo kya,,,Ismi Technology
+General/Unclassified,Usk bad composition,,,Ismi Technology
+General/Unclassified,Wo kya,,,Ismi Technology
+General/Unclassified,Us ka btaya,,,Ismi Technology
+General/Unclassified,Usko bad is a has a relationship kya hota,,,Ismi Technology
+General/Unclassified,Us py koe 5 6 discussion ki btaya uska sara,,,Ismi Technology
+General/Unclassified,Ye tu already bny hwy,,,Ismi Technology
+General/Unclassified,Uski koe example or btao,,,Ismi Technology
+General/Unclassified,Java or cpp mn kya difference hy,,,Ismi Technology
+General/Unclassified,Es py  4 5 discussion hoe,,,Ismi Technology
+General/Unclassified,Elective courses ap chose krty ho ya university,,,Ismi Technology
+General/Unclassified,"Jdk kya hy, jre kya hy, jvm kya hy",,,Ismi Technology
+General/Unclassified,Kon kon sy courses hn,,,Ismi Technology
+HR/Behavioral,Mery sy pocha study last semester chl rha,,,Ismi Technology
+General/Unclassified,Wo btaya,,,Ismi Technology
+General/Unclassified,Kehta aesa kiun,,,Ismi Technology
+General/Unclassified,Es mn aesi kya features hn,,,Ismi Technology
+General/Unclassified,Wo kr di,,,Ismi Technology
+General/Unclassified,Kehta apka keo question,,,Ismi Technology
+General/Unclassified,Us mn sy  kery nikaly us ny,,,Ismi Technology
+General/Unclassified,The end,,,Ismi Technology
+General/Unclassified,Wo thk hy,,,Ismi Technology
+General/Unclassified,Btaya k esko yun kr skty hn  hm,,,Ismi Technology
+OS,Us py scenario dya k agr mn 10 threads bnaon or 1 core system py chlata hun tu kya faida hy,,,Ismi Technology
+OS,Threads ko synchronized kesy krty hn java mn,,,Ismi Technology
+General/Unclassified,Linear vs non linear ds,,,MergeStack
+General/Unclassified,What is opp,,,MergeStack
+General/Unclassified,What does usestate() and useeffect() hooks do?,,,MergeStack
+General/Unclassified,What are states?,,,MergeStack
+General/Unclassified,"In s case, is overriding possible or not?",,,MergeStack
+General/Unclassified,Coding problems:,,,MergeStack
+General/Unclassified,Contiguous memory,,,MergeStack
+General/Unclassified,Overlook scope?same or different,,,MergeStack
+General Coding,Strings anagram,,,MergeStack
+Web/Network,Is nodejs single threaded or multithreaded?,,,MergeStack
+General/Unclassified,You need to compute minimum moves for charlie such t it first eats all the food before going to home,,,MindStorm
+General/Unclassified,"For example [foof],[ocooh],[oooo],[fooo]",,,MindStorm
+General/Unclassified,Amswer is 11.,,,MindStorm
+General/Unclassified,Q3; you need to compute maximum free time in between the given time slots.,,,MindStorm
+General/Unclassified,For example,,,MindStorm
+General/Unclassified,H for home,,,MindStorm
+General/Unclassified,F for food,,,MindStorm
+General/Unclassified,"Am-10:00am),(10:30am-12pm),(12pm-2:30pm)]",,,MindStorm
+General/Unclassified,The maximum time slot is 30 minutes.,,,MindStorm
+.net,What does a garbage collection do in c#,,,MindStorm
+General/Unclassified,"For example str=""457764""",,,MindStorm
+General/Unclassified,C stands for charlie (dog),,,MindStorm
+General/Unclassified,Given a 4x4 matrix,,,MindStorm
+Database,Joins and it's types as well,,,NETSOL
+General Coding,"Writing queries, aggregate functions, having clause, group by",,,NETSOL
+General/Unclassified,"Primary, foreign, composite keys ma difference with example.",,,NETSOL
+General/Unclassified,"Uml, has a relationship, is a relationship, aggregation vs containership",,,NETSOL
+General/Unclassified,"Sdlc, waterfall model, prototyping model",,,NETSOL
+General/Unclassified,How to resolve many to many relationship,,,NETSOL
+General/Unclassified,"Analytical: there are three buttons in a room, you have to tell t which button turned on the light in room. you can only enter the room once.",,,NETSOL
+General/Unclassified,Basic analytical quetion,,,Nestosh
+Database,Joins,,,OCloud Solutions
+General Coding,Recusive functions se two question,,,OCloud Solutions
+General/Unclassified,"Person a takes 1 minute to cross the bridge, person b takes 2 minutes to cross the bridge, person c takes 5 minutes to cross the bridge, person d takes 8 minutes to cross the bridge, and 2 people can cross the bridge at a time and they have only one torch to see the way. what will be the minimum time to cross all the people across the bridge?",,,OCloud Solutions
+General/Unclassified,The sum of the ages of 5 children is 50 and the gap between their ages is 3 years  find out the age of the youngest child.,,,OCloud Solutions
+General/Unclassified,A candidate got 75% of validated votes. if the 15% are invalid votes and the total votes are 560000.  find out the count of the validated votes the candidate gets.,,,OCloud Solutions
+General/Unclassified,Assesment test qs,,,OCloud Solutions
+General/Unclassified,Probability:,,,OCloud Solutions
+General/Unclassified,Analytical,,,OCloud Solutions
+Database,Limit - db,,,OCloud Solutions
+General/Unclassified,You have 5l jug and 3l jug and plenty of water. no measuring scale. you have to exactly fill 4l water.,,,OCloud Solutions
+General/Unclassified,If the cost of a chip is $43 after 20% discount what was the actual cost?,,,OCloud Solutions
+General/Unclassified,O clouds assessment test questions:,,,OCloud Solutions
+General/Unclassified,Assesment test qs,,,OCloud Solutions
+General/Unclassified,Sand puzzle one empty in 7 minutes 2nd in 11 minute measure 15 minute,,,OCloud Solutions
+General/Unclassified,Binary representation of given number,,,OCloud Solutions
+General/Unclassified,Sand puzzle,,,OCloud Solutions
+General/Unclassified,Analytical question regarding sandtimer,,,OCloud Solutions
+General/Unclassified,"Age of a person a b c, is type ka  easy sa",,,OCloud Solutions
+General/Unclassified,Math percentage question,,,OCloud Solutions
+General/Unclassified,Solution:,,,OCloud Solutions
+General/Unclassified,Analytical reasoning questions,,,OCloud Solutions
+General/Unclassified,"Level order bfs, dfs ,etc",,,OCloud Solutions
+General/Unclassified,Stats,,,OCloud Solutions
+General/Unclassified,Porbability,,,OCloud Solutions
+General/Unclassified,A man has sell 40% of apples and he still has 420 apples left what is the total no of apples?,,,OCloud Solutions
+General/Unclassified,"Jug prob find 4 liter water with 3,5 liter jug",,,OCloud Solutions
+General/Unclassified,Return if a no is even odd without any if...ternary or comparison operation,,,OCloud Solutions
+General/Unclassified,If cost of a prod after 42% discount is 24$ finds its real cost,,,OCloud Solutions
+General/Unclassified,Covert decimal number to binary,,,OCloud Solutions
+General/Unclassified,Façade pattern,,,OCloud Solutions
+General/Unclassified,"Calculate the sum of given number and sum must be single digit e.g.if number is 342567  sum is 3+4+2+5+6+7=27 as sum not single digit,  2+7=9",,,OCloud Solutions
+General/Unclassified,Find the manager name with greatest no of employees and if 2 manager have same the print first with alphabetical orde,,,OCloud Solutions
+General/Unclassified,Find department name who and no employees,,,OCloud Solutions
+General/Unclassified,Socket?,,,OCloud Solutions
+General/Unclassified,Find  count prime numbers from 1 -100,,,OCloud Solutions
+General/Unclassified,Bottles of milk one is poisonous strategy to find one( geeks for geeks rat poisonous bottles problem),,,OCloud Solutions
+General/Unclassified,If 30 person do a work in 24 days  how many persons will be needed to do the work in 20 days,,,OCloud Solutions
+General/Unclassified,Assesment test qs,,,OCloud Solutions
+General/Unclassified,Inorder traversal using 1.recurssion 2.iteration,,,OCloud Solutions
+General/Unclassified,You have two sand boxes one can measure 11 minutes and one can measure 7 minutes. you are required to measure 15 minutes using these two,,,OCloud Solutions
+General/Unclassified,Find dept having more  no of employees,,,OCloud Solutions
+OS,What are threads,,,OCloud Solutions
+OS,What are threads,,,OCloud Solutions
+General/Unclassified,Count leaf nodes ( iterative as well as recursive),,,OCloud Solutions
+General/Unclassified,St interview,,,PakWheels
+General/Unclassified,First technical interview pakwheels,,,PakWheels
+General/Unclassified,Create possible tables for a book store,,,PakWheels
+General/Unclassified,Exception handling(try catch). asked about finally block,,,PakWheels
+General/Unclassified,Theoretical,,,PakWheels
+General/Unclassified,What do you know about company,,,PakWheels
+General/Unclassified,Coding,,,PakWheels
+General/Unclassified,Valid parentheses problem,,,PakWheels
+General/Unclassified,Prefered technologies to work,,,PakWheels
+General/Unclassified,Strategy,,,PakWheels
+General/Unclassified,Analytical,,,PakWheels
+General/Unclassified,Analytical question,,,PakWheels
+General/Unclassified,"Rope puzzle(one rope take 1 hr to burn, burn 2 of them in exactly 45 mints)",,,PakWheels
+General/Unclassified,"Water bucket puzzle(having 5 and 3 litter buckets with unlimited water, measure 4 litter)",,,PakWheels
+Database,Joins,,,Qbatch
+General/Unclassified,Group by kb use krty hn,,,Qbatch
+Database,Queries thein,,,Qbatch
+General/Unclassified,Phir aap nay jin questions kay jawab first interview main ghalat diyay y wo sab dubara poochay ga,,,Qbatch
+General/Unclassified,Qbatch 2nd interview ceo questions,,,Qbatch
+Database,Having or where m diff,,,Qbatch
+General/Unclassified,"Dangling pointers, memory leak",,,Qbatch
+OOP,Composition,,,Qbatch
+General/Unclassified,Why choose qbatch,,,Qbatch
+DSA,Pre vs post order traversals,,,Qbatch
+Web/Network,Autication vs authorization,,,Qbatch
+Web/Network,Put patch post m diff,,,Qbatch
+General/Unclassified,"You have 8 balls, 7 of same weight and 1 is lighter. you have a weight balancing machine too. find the lighter one in 3 attempts and  in 2 attempts.",,,Qbatch
+General/Unclassified,Cookies session,,,Qbatch
+General/Unclassified,Get put post delete,,,Qbatch
+General/Unclassified,States,,,Qbatch
+General/Unclassified,Components,,,Qbatch
+General/Unclassified,Types of states,,,Qbatch
+General/Unclassified,Disadvantages of normalizaton?,,,SSI
+General/Unclassified,What are triggers?,,,SSI
+General/Unclassified,What is 3rd normal form?,,,SSI
+General/Unclassified,What is sequence?,,,SSI
+General/Unclassified,What is referential integrity?,,,SSI
+General/Unclassified,What is cascade?,,,SSI
+General/Unclassified,"How do we measure the volume of the cylinder? what is the surface area of the cylinder, what is a cuboid?",,,SSI
+General/Unclassified,In which region russia falls?,,,SSI
+General/Unclassified,Name five countries in europe.,,,SSI
+General/Unclassified,Why sky is blue?,,,SSI
+General/Unclassified,"How many ballons would fit in s room, if given the volume of it and room. note: placing balloons onto top of each other left some space, how would you manage t in your calculations.",,,SSI
+General/Unclassified,What is gdp,,,SSI
+General/Unclassified,"Who is the president of pakistan, and the finance minister.",,,SSI
+General/Unclassified,"What are blockchain, cryptocurrency, and cloud computing",,,SSI
+General/Unclassified,What is defer?,,,SSI
+General/Unclassified,What are promises?,,,SSI
+General/Unclassified,Kia pointers ka size same hota,,first interview,Slashnext
+General/Unclassified,Q4: what is denormalization and what are its advantages?,,,Smaritan Technologies
+General/Unclassified,Is it valid statement? and explain why?,,,Smaritan Technologies
+General/Unclassified,Shape *sh=new circle() ;,,,Smaritan Technologies
+General/Unclassified,"Example input=replace(423567,6,0)",,,Smaritan Technologies
+General/Unclassified,Tajir interview*,,,Tajir
+Database,Postgresql advantages,,,Tajir
+General/Unclassified,"For example, first one is 2 x 3 and second one is 3 x 3",,,Tajir
+General/Unclassified,First matrix must be m x n and the second matrix is n x k,,,Tajir
+General/Unclassified,Design tajir app.,,,Tajir
+General/Unclassified,How did you get to know tajir?,,,Tajir
+General/Unclassified,At least one row of either matrix has be to negative numbers,,,Tajir
+General/Unclassified,Result will always be m x k,,,Tajir
+HR/Behavioral,Future plans,,,Tajir
+General/Unclassified,How data will be recieved from servers,,,Tajir
+General/Unclassified,Diff between framework and library,,,Tbox Solutionz
+General/Unclassified,Programming  / coding (1),,,Techlogix
+Database,How many type of joins give name,,,TechnoCares
+General/Unclassified,What is transitive dependency,,,TechnoCares
+General/Unclassified,Surrogate key,,,TechnoCares
+General/Unclassified,What is agregation and composition,,,TechnoCares
+General/Unclassified,What is suurogate key,,,TechnoCares
+General/Unclassified,Q13) what is triggered?,,,Technosoft
+Database,"Joins in db, left right, show sample using some dummy tables and data",,,Technosoft
+General/Unclassified,"But, company achi nahi hay kuch (as per my perspective)
+bahir se ghr hay, andar office","
+
+recently aik incident hua jahan haseeb larke k naam hay ushe dusre din hi nikaal diya
+","mujhe offer ki, mene zayada demand ki to kahte email karengein, and then they went ghost mode",Technosoft
+Database,What is equivalent of table in mongodb,,,Technosoft
+General/Unclassified,Valid and invalid queries in mcqs,,,Technosoft
+General/Unclassified,Easy interview,,,Technosoft
+General/Unclassified,Technosoft 2nd interview,,,Technosoft
+General/Unclassified,Or baki k sawal jo 2022 wali interview guide me likhe hain wo,,,Technosoft
+General/Unclassified,Technosoft 1st interview,,,Technosoft
+General/Unclassified,Pointers to link elements together.,,,Technosoft
+General/Unclassified,Updating pointers.,,,Technosoft
+General Coding,Functional requirements describe what a software application or system must do to satisfy its,,,Technosoft
+General Coding,Non-functional requirements are the criteria used to judge the operation of a system or,,,Technosoft
+General/Unclassified,It guarantees t all packets will be delivered in the correct order and without errors.,,,Technosoft
+General/Unclassified,Kch new questions thy 2 3,,,Technosoft
+General/Unclassified,Jo sheet me questions add hn wohi puchy,,,Technosoft
+General/Unclassified,Linear non linear,,,Technosoft
+General/Unclassified,Q2) what is python enhancement proposal?,,,Technosoft
+General/Unclassified,Q16) what is the most important stage of waterfall model,,,Technosoft
+General/Unclassified,Difference between composition and association (example and implementation),,,Technosoft
+General/Unclassified,Rashid naam  unka head hr wo,,,Technosoft
+General/Unclassified,Analytical question puchy 2,,,Technosoft
+General/Unclassified,Cut a cake into 8 pieces with with 3 cuts or second 6 balls of same weight except,,,Technosoft
+General/Unclassified,Except one,,,Technosoft
+General/Unclassified,Basic machine learning senario based mcqs,,,Technosoft
+General/Unclassified,Agile development,,,Technosoft
+General/Unclassified,Scrum,,,Technosoft
+General/Unclassified,Likhwaya tu kuch nahi,,,Technosoft
+General/Unclassified,Basic questioning hoyi,,,Technosoft
+General/Unclassified,Scrum,,,Technosoft
+General/Unclassified,Agile,,,Technosoft
+General/Unclassified,Difference between span and div,,,Technosoft
+General/Unclassified,Waterfall model vs agile model,,,Technosoft
+General/Unclassified,Type of scopes in javasscript,,,Technosoft
+General/Unclassified,How to make website responsive,,,Technosoft
+General/Unclassified,Will uselayouteffect will run before rendering the first element on screen or after rending the whole screen?,,,Technosoft
+General/Unclassified,"Redux ( actions, reducers, store)",,,Technosoft
+General/Unclassified,What is cmmi.,,,Technosoft
+General/Unclassified,How you will describe am / pm to a 5 years old child?,,,Technosoft
+General/Unclassified,"Cases = {1: ""you chose case 1"", 2: ""you chose case 2"", 3: ""you chose case 3"" }",,,Technosoft
+General/Unclassified,"Ci), pair programming, and refactoring.",,,Technosoft
+General/Unclassified,"Creating programs and applications t people can use on their phones and computers, and t it",,,Technosoft
+HR/Behavioral,Short intro hua and   about the frameworks i'm familiar with.,,,Technosoft
+General/Unclassified,"Test is divided into three sections:
+sqa test, 1 analytical test, 1 personality test
+there were many questions in the sqa test including ngs like:
+- test instagram app,  if you were to add a new feature in abc app, what would you add.... , - scenario based questions,..... - problem identification on the question paper",,,Technosoft
+General/Unclassified,Edges t connect child nodes to parent nodes.,,,Technosoft
+General/Unclassified,Removing nodes.,,,Technosoft
+General/Unclassified,While ip addresses operate at the network layer for global network communication.,,,Technosoft
+General/Unclassified,Where vs having clause,,,Tintash
+Database,Joins,,,Tintash
+General/Unclassified,What is table?,,,Tintash
+General/Unclassified,How many keys?,,,Tintash
+General/Unclassified,Normaliztion,,,Tintash
+General/Unclassified,Why use foreigh keys,,,Tintash
+General/Unclassified,What are different types of keys,,,Tintash
+General/Unclassified,Bridge entity alternative,,,Tintash
+General/Unclassified,Linear vs non linear datastructures,,,Tintash
+Database,Different types of databases,,,Tintash
+Database,Why use databases and not store data in files,,,Tintash
+General/Unclassified,Must read normalizations examples,,,Tintash
+General Coding,Implement undo redo functionality,,,Tintash
+General Coding,Implement undo redo functionality,,,Tintash
+General/Unclassified,Pre-order/post-order traversal,,,Tintash
+HR/Behavioral,Introduction,,,Tintash
+General/Unclassified,"Do you have concepts of theory of automata [answered: no, otherwise they ask every fuckin concept]",,,Tintash
+General/Unclassified,What technical elective courses have you studies so far,,,Tintash
+General/Unclassified,What are different architectures you are familiar with,,,Tintash
+General/Unclassified,Which language has more grip on memory,,,Tintash
+General/Unclassified,What are caching policies,,,Tintash
+General/Unclassified,Give 2 return 5 and vice versa,,,Tintash
+General/Unclassified,Machines of gold,,,Tintash
+General/Unclassified,Is there any group member t is irritating? how do you handle him?,,,Tintash
+General/Unclassified,If you are given a chance to change one ng in pakistan  what will t be? what's the solution you have?,,,Tintash
+General/Unclassified,Personalitites t inspired you to do programming? their name and reason!,,,Tintash
+OS,What are threads,,,Tintash
+General/Unclassified,What is asynchronous programming,,,Tintash
+OS,Why we use threads,,,Tintash
+General/Unclassified,"Longest sequence [1,2,3,4,0,1,2,3,4,5,6,7,8,9,1,2,3] is say longest find karny hongay sequence theek or",,,Viteace
+General/Unclassified,Below ques are asked in a single interview,,,Viteace
+General/Unclassified,Why is it used,,,Viteace
+Database,And  db questions,,,Viteace
+General/Unclassified,Or har friendship pe kitne record add hn g,,,Viteace
+General/Unclassified,How will u fetch data using these colums,,,Viteace
+General/Unclassified,What will be the columns,,,Viteace
+General/Unclassified,How many tables will be created,,,Viteace
+General/Unclassified,Phir aik coding q,,,Viteace
+General/Unclassified,"Longest sequence [1,2,3,4,0,1,2,3,4,5,6,7,8,9,1,2,3] is say longest find karny hongay sequence theek or",,,Viteace
+General/Unclassified,Question problem solving,,,Viteace
+General/Unclassified,Phir jin languages ko parha hai usme se most comfortable kn si thy,,,Viteace
+General/Unclassified,Main part of interview,,,XIQ
+General/Unclassified,"Mujhy interviewer ne, streaming platform ka recommendation system bnany ko kaha, uspe main qs y",,,XIQ
+General/Unclassified,"Run time pe 1 problem detay iska solution devise kero, kis trah kero gy.",,,XIQ
+General/Unclassified,Features selection or feature engineering,,,XIQ
+General/Unclassified,"Recommendation approaches (the more the better, har 1 ka pros/cons bhi poch rahy thy)",,,XIQ
+General/Unclassified,"A) iskay related 1 specific q , kis trah ki problems me precision behtar hoti or kab recall",,,XIQ
+General/Unclassified,Evaluation metrics like precision recall,,,XIQ
+General/Unclassified,"Agar apki cv pe unky related koi specific projects hyn to usko pora details me pochtat, meny time series forecasting with fb prophet ki  usme detailed pocha.",,,XIQ
+General/Unclassified,Data preprocessing techniques,,,XIQ
+HR/Behavioral,Introduction,,,Xavor
+General/Unclassified,What will be  angle b/w hands of clock when it's 3:25,,,Xavor
+General/Unclassified,Activity lifecycle?,,Arshad Majeed ,Xavor
+General/Unclassified,What are intents?,,Arshad Majeed ,Xavor
+General/Unclassified,Types of intents?,,Arshad Majeed ,Xavor
+General/Unclassified,Explain different types of layouts in android?,,Arshad Majeed ,Xavor
+General/Unclassified,What are broadcast receivers?,,Arshad Majeed ,Xavor
+General/Unclassified,What is android gradle?,,Arshad Majeed ,Xavor
+General/Unclassified,What is android manifest file?,,Arshad Majeed ,Xavor
+General/Unclassified,Interviewer: usman majied,,,folio3
+General/Unclassified,Folio3 interview 1 questions,,,folio3
+Database,Joins outter inner equi natural,,,folio3
+General/Unclassified,Views,,,folio3
+General/Unclassified,Triggers with e.g,,,folio3
+General/Unclassified,Hacker rank),,,folio3
+HR/Behavioral,Intro,,,folio3
+General/Unclassified,Slowest key press,,,folio3
+General/Unclassified,Balance parenthesis,,,folio3
+General/Unclassified,Four pillars in detail with real word example,,,folio3
+OOP,Multivel inheritence,,,folio3
+General/Unclassified,Dependency injection,,,folio3
+General/Unclassified,Partial dependency,,,folio3
+General/Unclassified,Transitive dependency,,,folio3
+General/Unclassified,Dependency injection,,,folio3
+General/Unclassified,Diamond problem,,,folio3
+General/Unclassified,Cake k 8 pieces krne 3 cuts me,,,folio3
+General/Unclassified,Synchronization,,,goSaas
+General/Unclassified,Cut cake into 8 pieces with 3 cuts,,,i2c
+General/Unclassified,Identify a coin with less weight from the given 7 coins.,,,i2c
+General/Unclassified,Analytical questions*,,,i2c
+Database,Update delete insert joins ye queries ayin theen.,,,i2c
+General/Unclassified,Your cgpa?,,,i2c
+General/Unclassified,Have you studied sqa?,,,i2c
+General/Unclassified,Sqa questions*,,,i2c
+General/Unclassified,Difference between quality assurance and quality control?,,,i2c
+General/Unclassified,What is agile?,,,i2c
+General/Unclassified,What is scrum?,,,i2c
+General/Unclassified,Usually sprint kitny arse ka hota hai?,,,i2c
+General/Unclassified,Give me an example of a bug with high severity and low priority?,,,i2c
+General/Unclassified,Write two test cases for led?,,,i2c
+General/Unclassified,What is adhoc testing?,,,i2c
+General/Unclassified,What is grey box testing?,,,i2c
+General/Unclassified,Who does grey box testing?,,,i2c
+General/Unclassified,What is views?,,,i2c
+General/Unclassified,What is bug severity and bug priority?,,,i2c
+General/Unclassified,Interviewer *asma ilyas only* at *i2c* for *sqa*,,,i2c
+General/Unclassified,Interviewer husnain raza,,,i2c
+General/Unclassified,Groupby having where clause,,,i2c
+General/Unclassified,"Sari degree ki cheezen puch lien mujh se, interview asan , but it was lengthy:",,,i2c
+General/Unclassified,Normalisation,,Atteq ur Rehman,i2c
+General/Unclassified,How to remove  transitive depencency,,,i2c
+General/Unclassified,Many to many relationship,,,i2c
+General/Unclassified,Triggers,,,i2c
+General/Unclassified,What will happen in 3nf,,Atteq ur Rehman,i2c
+General/Unclassified,Remove transitive dependency,,,i2c
+General/Unclassified,Having clause,,,i2c
+Database,Joins,,,i2c
+General/Unclassified,Make a table in non normalised form,,,i2c
+General/Unclassified,How to remove many to many,,,i2c
+General/Unclassified,Husnain raza,,,i2c
+General/Unclassified,I2c 1st technical interview,,,i2c
+General/Unclassified,Pillars  with example,,,i2c
+General/Unclassified,Disadvantages od normalisation,,,i2c
+General/Unclassified,Synchronisation,,,i2c
+General/Unclassified,Tryst   catch in detail,,,i2c
+General/Unclassified,Exception handling,,,i2c
+General/Unclassified,Final block,,,i2c
+General/Unclassified,Why final? scenario,,,i2c
+General/Unclassified,Garbage collecter,,,i2c
+General/Unclassified,Normalisation,,,i2c
+Database,Mongodb vs mysql (where would you use which one?),,,i2c
+General/Unclassified,Many to many rel and its example.,,,i2c
+Database,Difference between implementation of joins,,,i2c
+General/Unclassified,What is entity,,,i2c
+General/Unclassified,What would you do if there are multiple copies of a same book how would you differentiate in tables,,,i2c
+General/Unclassified,Normal forms (generally asked),,,i2c
+General/Unclassified,Where and having clause difference,,,i2c
+Database,Joins and types,,majid aziz,i2c
+Database,Types of relationships in db,,,i2c
+General Coding,Strings,,,i2c
+General Coding,Difference between functional and non functional testing?,,,i2c
+General Coding,How would you test led non functionally?,,,i2c
+General Coding,Difference between functional specification document and requirement specification document?,,,i2c
+General/Unclassified,Aggregation vs composition) implement the examples of each,,,i2c
+General/Unclassified,Composition and aggregation,,alishan rao,i2c
+General/Unclassified,White box testing,,,i2c
+General/Unclassified,Greybox testing,,,i2c
+General/Unclassified,Load testing,,,i2c
+General/Unclassified,Implementation of adapter,,,i2c
+General/Unclassified,Sigalton pattern,,,i2c
+General/Unclassified,Black box testing,,,i2c
+General/Unclassified,Algorithums,,Atteq ur Rehman,i2c
+General/Unclassified,Advantages and dis-advantages of java,,,i2c
+General/Unclassified,Web app and web services,,,i2c
+General/Unclassified,Platform independent,,,i2c
+General/Unclassified,Difference between knn and kmean,,,i2c
+General/Unclassified,Static import,,,i2c
+General/Unclassified,Multi structured,,Atteq ur Rehman,i2c
+General/Unclassified,Write queries according to the given scenarios,,,i2c
+General/Unclassified,Composition and aggregation,,Atteq ur Rehman,i2c
+Database,Ngs required for connection with db in java,,,i2c
+Database,Ngs to be handle during db interaction,,,i2c
+General/Unclassified,Problems critical section race condition,,,i2c
+General/Unclassified,What is critical section,,,i2c
+General/Unclassified,Syncronization and how it is achieved,,,i2c
+General/Unclassified,What is your solution and how do you nk your solution would work,,,i2c
+OOP,Upcasting and downcasting,,,i2c
+General/Unclassified,Black box,,,i2c
+General/Unclassified,White box,,,i2c
+General/Unclassified,What is agile,,,i2c
+General/Unclassified,What is starvation,,,i2c
+General/Unclassified,When software is opened what 3 types of memories are made,,,i2c
+General/Unclassified,Solid principle,,,i2c
+General/Unclassified,Diff b/w mac ad ip,,,i2c
+General/Unclassified,How synchronisation works,,,i2c
+General/Unclassified,Two airplanes a and b with the speed of 500 and 700km/h  go from lhr to karachi and karachi to lhr respectively at one point they are parallel at t point which one will be closer to lhr,,,i2c
+General/Unclassified,Queen problem,,Aamir Saleem,i2c
+General/Unclassified,"Unit testing and with some examples how did you implement it in your assignments, projects",,Aamir Saleem,i2c
+OS,Muti threading,,,i2c
+OS,Threads,,,i2c
+General/Unclassified,Multithreading,,,i2c
+OS,Threads,,alishan rao,i2c
+General/Unclassified,Deadlocks,,,i2c
+OS,How multi threading works,,,i2c
+OS,Threads,,,i2c
+OS,Multi threading,,,i2c
+General/Unclassified,How to avoid deadlocks,,,i2c
+OS,Threads why use?,,,i2c
+OS,How to implement threads,,,i2c
+OS,How to make threads in java,,hussain raza,i2c
+General/Unclassified,Preprocessor directives,,,i2c
+General/Unclassified,Algo: dynamic programming ki use/need,,,i2c
+OS,Multi threading,,Aamir Saleem,i2c
+General/Unclassified,Type of memory during java programm execution,Heap memory and stack memory,,i2c
+OS,What are threads,,hussain raza,i2c
+HR/Behavioral,Query from fyp,,,7 Vals
+HR/Behavioral,How you rate yourself in oop,,,7 Vals
+HR/Behavioral,Fyp schema,,,7 Vals
+HR/Behavioral,"Fyp full idea, stack used etc",,,7 Vals
+HR/Behavioral,Introduce yourself,,,7 Vals
+HR/Behavioral,Introduction and fyp idea and motivation,,,Arbisoft
+HR/Behavioral,Introduce yourself,,,Arbisoft
+HR/Behavioral,Restful services are being used in your fyp?,,,Arbisoft
+HR/Behavioral,Fyp erd,,,Arrivy
+HR/Behavioral,Fyp and semester projects in detail,,,Arrivy
+HR/Behavioral,Questions about each and everyng mention in ur resume (including projects u mention),,,Arrivy
+HR/Behavioral,Fyp detail discussion,,,Arrivy
+HR/Behavioral,Discussion about fyp,,,Ashlar
+HR/Behavioral,Discussion about all projects mentioned in your resume,,,Ashlar
+HR/Behavioral,Goals in life,,,Bitlatic
+HR/Behavioral,Skills t you consider your strength(non-tech),,,Bitlatic
+HR/Behavioral,Fyp questions,,,Bitlatic
+HR/Behavioral,Fyp stack related questions,,,Blackstack
+HR/Behavioral,Fyp erd,,,Blackstack
+HR/Behavioral,"Q1) array a consisting of n integers is given. a slice of t array is a pair of integers (p, q) such t 0 ≤ p ≤ q < n. a slice (p, q) of an array a is called non-negative if all the elements a[p], a[p+1], ..., a[q−1], a[q] are non-negative. the sum of a slice (p, q) of array a is the value a[p] + a[p+1] + ... + a[q−1] + a[q]. for example, the following array a: a[0] = 1 a[1] = 2 a[2] = -3 a[3] = 4 a[4] = 5 a[5] = -6 has non-negative slices (0, 0), (1, 1), (0, 1), (3, 3), (4, 4) and (3, 4). the sum of slice (0, 1) is a[0] + a[1] = 1 + 2 = 3. the sum of slice (3, 4) is a[3] + a[4] = 4 + 5 = 9. the sum of slice (4, 4) is a[4] = 5. 
+
+  you are given an implementation of a function: def solution(a) t, given an array a consisting of n integers, returns the maximum sum of any non-negative slice in s array. the function returns −1 if there are no non-negative slices in the array. for example, given the following array a: a[0] = 1 a[1] = 2 a[2] = -3 a[3] = 4 a[4] = 5 a[5] = -6 the function should return 9, as explained above.     
+
+        the attached code is still incorrect for some inputs. despite the error(s), the code may produce a correct answer for the example test cases. the goal of the exercise is to find and fix the bug(s) in the implementation. you can modify at most three lines. assume t: n is an integer win the range [0..1,000]; each element of array a is an integer win the range [−1,000..1,000]. in your solution, focus on correctness. code is given below..",,,Careem Codility
+HR/Behavioral,Hooks you used in fyp?,,,Celestial Technology
+HR/Behavioral,Give an example from your experience where you have used conposition and inheritence in any of your project.,,,Celestial Technology
+HR/Behavioral,Expected salary wagera,,,Celestial Technology
+HR/Behavioral,Is kai elawa fyp ka thora bohat poocha,,,Celestial Technology
+HR/Behavioral,Koi sai 2 design patterns jo use kie hon kisi bhe project mia,,,Celestial Technology
+HR/Behavioral,Define agile scrum methodology.(project management t emphasizes incremental progress),,,Cinnova
+HR/Behavioral,Your role in fyp,,,Cinnova
+HR/Behavioral,Draw schema of a subsystem of fyp (scenario given),,,Cinnova
+HR/Behavioral,Find maximum salary for each department,,,Devsinc
+HR/Behavioral,Maximum salary,,,Devsinc
+HR/Behavioral,Find query for nth max salary from employee table,"SELECT salary
+FROM employees
+ORDER BY salary DESC
+LIMIT n-1, 1;",,Devsinc
+HR/Behavioral,Rd max salary,,,Devsinc
+HR/Behavioral,Find 3rd highest salary,,,Devsinc
+HR/Behavioral,Th max salary? why did you use distinct in query? any other way to find 4th max?,,,Devsinc
+HR/Behavioral,Fyp schema,,,EMPG
+HR/Behavioral,All discussion on fyp,,,EMPG
+HR/Behavioral,Coding question(related to fyp),,,EMPG
+HR/Behavioral,Fyp idea,,,EMPG
+HR/Behavioral,Expectation from your first company (other n salary),,,EMPG
+HR/Behavioral,"Fyp discussion ->  3rd party integrations in fyp, github workflow",,,EMPG
+HR/Behavioral,Short and long term goals asked,,,EMPG
+HR/Behavioral,Situational question related to change in web tech stack in market and how to adapt t change win the project and team t is skilled in old tech stack,,,EMPG
+HR/Behavioral,Query on fyp erd,,Rohail Akram,EMPG
+HR/Behavioral,Create erd for fyp,,Rohail Akram,EMPG
+HR/Behavioral,Fyp/your role,,,EMPG
+HR/Behavioral,Draw erd of your fyp,,,EMPG
+HR/Behavioral,Fyp related,,,EMPG
+HR/Behavioral,Functional points in project,,,Esketchers
+HR/Behavioral,What are the non-functional requirements of a project give some examples,,,Esketchers
+HR/Behavioral,How can we measure the size of project,,,Esketchers
+HR/Behavioral,Detailed discussion on fyp.,,,Esketchers
+HR/Behavioral,One sql query(fyp sa hi related ek simple table ki example di  or us pa run karni ),,Mubarak Ahmad,Focusteck
+HR/Behavioral,Fyp sa related question y,,Mubarak Ahmad,Focusteck
+HR/Behavioral,Saal me kia teer maar lo ge.. salary expectations kia hain..,,,Focusteck
+HR/Behavioral,What are some of your hobbies or interests outside of work?,,,General Questions
+HR/Behavioral,What are your salary expectations?,,,General Questions
+HR/Behavioral,What are your strengths and weaknesses?,,,General Questions
+HR/Behavioral,Can you tell us a little bit about yourself?,,,General Questions
+HR/Behavioral,What are your short-term and long-term career goals?,,,General Questions
+HR/Behavioral,Fyp related questions,,,INNOVICSOFT
+HR/Behavioral,Ap kya kr rhy fyp mn role,,,Ismi Technology
+HR/Behavioral,Fyp stack discussion,,,MergeStack
+HR/Behavioral,Nd highest salary in the database,,,NETSOL
+HR/Behavioral,Question about fyp,,,OCloud Solutions
+HR/Behavioral,Db query to find salary dept wise,,,OCloud Solutions
+HR/Behavioral,Select employees with no salary,,,OCloud Solutions
+HR/Behavioral,Find 4rth max salary,,,OCloud Solutions
+HR/Behavioral,Sql query to fetch names of employees who don't have any salary in the salary table,,,OCloud Solutions
+HR/Behavioral,Queries from given salary employee and department tables,,,OCloud Solutions
+HR/Behavioral,Find the rd highest salary (database question),,,OCloud Solutions
+HR/Behavioral,"Largest salary query -> sort, limit",,,OCloud Solutions
+HR/Behavioral,Give employees with no salaries (from two different tables salary and employee),,,OCloud Solutions
+HR/Behavioral,General discussion about fyp and languages you've worked with,,,PakWheels
+HR/Behavioral,About fyp and your role,,,PakWheels
+HR/Behavioral,How to retrieve second highest salary,,,Qbatch
+HR/Behavioral,Goal in life,,,Qbatch
+HR/Behavioral,Goal in long-term career,,,Qbatch
+HR/Behavioral,Expected salary,,,Qbatch
+HR/Behavioral,Goal in 5 years,,,Qbatch
+HR/Behavioral,What's your fyp? your role in your fyp?,,,Qbatch
+HR/Behavioral,Phir aapke fyp project kay bare main discussion hogi aur ussi main say questions,,,Qbatch
+HR/Behavioral,"Tell me about yourself, your interests (technical and generally)",,,SSI
+HR/Behavioral,Find no of employees having: salary greater n 5000 and having same name,,,SSI
+HR/Behavioral,Find no of employees having salary greater n 5000,,,SSI
+HR/Behavioral,Find most recent salary of employees (they have salaries updating..),,,SSI
+HR/Behavioral,Fyp discussion and your contribution in the project. a couple of questions on t.,,,Tajir
+HR/Behavioral,Your weaknesses.,,,Tajir
+HR/Behavioral,You role in your fyp.,,,Tajir
+HR/Behavioral,Fyp discussion,,,Tbox Solutionz
+HR/Behavioral,Write a sql query to find rd maximum salary,,,TechnoCares
+HR/Behavioral,Fyp stack discussion,,,TechnoCares
+HR/Behavioral,Questions related to stacks you mentioned on your resume,,,Technosoft
+HR/Behavioral,Q3) how can we measure the size of project,,,Technosoft
+HR/Behavioral,Model. s is because s stage sets the foundation for the entire project and ensures t all,,,Technosoft
+HR/Behavioral,"Stakeholders have a clear understanding of the project scope, objectives, and deliverables.",,,Technosoft
+HR/Behavioral,Q12) what are the functional and non-functional requirements of a project give,,,Technosoft
+HR/Behavioral,Where do you see yourself in the future? any goals you want to accomplish?,,,Tintash
+HR/Behavioral,"Any regrets you have regarding your fyp? is there anyng in your fyp t you want to change if you are 
+taken back at the time of making fyp group",,,Tintash
+HR/Behavioral,What are your weakness? your strengths?,,,Tintash
+HR/Behavioral,How did you selected the fyp group? is it just a group of friends or any particular reason?,,,Tintash
+HR/Behavioral,Introduce yourself,,,Tintash
+HR/Behavioral,Explain architecture being used in your fyp,,,Tintash
+HR/Behavioral,"Explain fyp, what is your role and role of other members, what work have you done so far",,,Tintash
+HR/Behavioral,Is there any major conflict with your teammates you have faced during your fyp.,,,Tintash
+HR/Behavioral,"Tell me about your fyp, your role, your teammate's role, which technology stack you choose and why?
+confict while selecting technology.",,,Tintash
+HR/Behavioral,"You are organizing the tournament of n number of players where each player skill set is ranked between 1 and 100 (inclusive). your goal is to create teams of equal numbers of players where the skill set of all players in the single team should be an arithmetic sequence with common difference value being 1. for example (2,3,4) is the valid team, and (5,6,8) is not.",,,Tintash
+HR/Behavioral,Db: find 2nd highest salary in a table,,,Viteace
+HR/Behavioral,Detail fyp discussion,,,Viteace
+HR/Behavioral,"Fyp discussion (why s, what do you hope to achieve, jo results atay usko evaluate kesay kro gy)",,,XIQ
+HR/Behavioral,Do you have any in experience in flutter?,,Arshad Majeed ,Xavor
+HR/Behavioral,Architecture of fyp,,Arshad Majeed ,Xavor
+HR/Behavioral,"Fyp(your role , blockchain konsi use kr rhy , iske alternative kon konsy)",,,Xavor
+HR/Behavioral,Libraries used in fyp,,Arshad Majeed ,Xavor
+HR/Behavioral,Introduce yourself?,,,i2c
+HR/Behavioral,What is your fyp?,,,i2c
+HR/Behavioral,Your role in fyp?,,,i2c
+HR/Behavioral,Starts with db of your fyp.,,,i2c
+HR/Behavioral,Implementation of multi threading (in my case i had to implement on my fyp),,,i2c
+HR/Behavioral,Db query to find second highest salary,,Qasim raza,i2c
+HR/Behavioral,Why do your want to persue career in sqa?,,,i2c
+HR/Behavioral,Weekness and strengths,,,i2c
+HR/Behavioral,Your fyp? role in fyp? why s idea?,,,i2c
+HR/Behavioral,Pillars  with real life (map on yourself)example,,alishan rao,i2c
+OOP,Give real life example of polymorphism,,,7 Vals
+OOP,Overloading and overriding,,,7 Vals
+OOP,What is polymorphism,,,7 Vals
+OOP,Encapsulation and write a code,,,7 Vals
+OOP,What is singleton pattern? write its code,,,7 Vals
+OOP,Oop :,,,7 Vals
+OOP,Polymorphism,,,7 Vals
+OOP,How to prevent a class from further inheritance,,,7 Vals
+OOP,Overloading and overriding,,,7 Vals
+OOP,Can a child class points to its parent or a parent class points to its child e.g. a a = new b() or b b = new a() a is parent b is child,,,7 Vals
+OOP,Pillars of oop,,,7 Vals
+OOP,What do you want to ask?,,,Arbisoft
+OOP,How to check number is even/odd without using mod or & operator?(agenda is to see what you do when your implied solution fails and you have to find a solution out of box),,,Arbisoft
+OOP,Fibbonacci,,,Arbisoft
+OOP,Which class area fun will be called and why,,,Arbisoft
+OOP,Shape* s=new circle();,,,Arbisoft
+OOP,Polymorphism,,,Arbisoft
+OOP,Deep copy vs shallow copy,,,Arbisoft
+OOP,Why copy constructor used,,,Arbisoft
+OOP,"Inheritance (super vs sub class)
+polymorphism
+constructor vs estructor 
+(real world examples)",,,Arbisoft
+OOP,"File handling, append and write mode. difference, how to use them in java?",,,Arbisoft
+OOP,Multilevel or multiple inheritance,,,Arbisoft
+OOP,Inheritances ki types,,,Arbisoft
+OOP,Design patterns,,,Arrivy
+OOP,Coding illustration of basic oop concepts,,,Ashlar
+OOP,Basic oop (what and why) and real life examples,,,Ashlar
+OOP,"Interface, static, abstract classes can not instantiate an object.",,,BinaryBrix
+OOP,"Inheritance and its types
+multi-level and multiple",,,Blackstack
+OOP,Polymorphism,,,Blackstack
+OOP,"Diamond problem (what is it, how to solve)",,,Blackstack
+OOP,Find all employees having same manager_id,,,BrainX
+OOP,If child class provide definition to abstract function it would be overriding or overloding?,,,BrainX
+OOP,"Inheritance, inheritance types, diamond problem, abstract functions, abstract class, interface, friend function, friend class, polymorphism, overriding, overloading, constructor vs destructor, copy constructor, shallow and deep copy",,,BrainX
+OOP,How to avoid memory leakage,,,BrainX
+OOP,"Pointer vs reference, memory leakage, dangling pointer, access modifiers, static vs dynamic meory allocation",,,BrainX
+OOP,And 5 litre jug problem (measure 4 litre water),,,BrainX
+OOP,Find difference of sum of left and right diagonal of 3x3 matrix in o(n),,,BrainX
+OOP,Problems:,,,BrainX
+OOP,"If rd is inheriting from two classes and parent classes have same name function 
+how to tackle t?",,,BrainX
+OOP,Inheritance types? multi level vs multiple?,,,BrainX
+OOP,What cohesion does?,,,BrainX
+OOP,Can we private constructor in class and benfit of it.,,,BrainX
+OOP,Static keyword,,,BrainX
+OOP,Polymorphism real world expample,,,BrainX
+OOP,Abstraction vs encapsulation,,,BrainX
+OOP,Which class constructor will be called in inheritance,,,BrainX
+OOP,Virtual functions,,,BrainX
+OOP,What is diamong problem? how to solve it,,,BrainX
+OOP,Dynamic binding,,,BrainX
+OOP,Funtion overloading/overriding,,,BrainX
+OOP,Pillars of oop,,,BrainX
+OOP,"Difference between let,var,const?",,,Celestial Technology
+OOP,Hoisting?,,,Celestial Technology
+OOP,Clousure?,,,Celestial Technology
+OOP,Callbacks?,,,Celestial Technology
+OOP,If we have callbacks  why promisses?,,,Celestial Technology
+OOP,Async await?,,,Celestial Technology
+OOP,What are hooks?,,,Celestial Technology
+OOP,Useeffect hook?,,,Celestial Technology
+OOP,What are sideeffects?,,,Celestial Technology
+OOP,What are props?,,,Celestial Technology
+OOP,What is redux?,,,Celestial Technology
+OOP,Express:,,,Celestial Technology
+OOP,Features of express?,,,Celestial Technology
+OOP,Usestate hook?,,,Celestial Technology
+OOP,Some basic concepts like,,,Celestial Technology
+OOP,Db basic concepts.,,,Celestial Technology
+OOP,Physical or logical arrangement of network is __________ (topology),,,Cinnova
+OOP,Pillars of oop,,,Cinnova
+OOP,"Given a scenario, explain what relationship holds there (1-many etc)",,,Cinnova
+OOP,Types of relationships in db,,,Cinnova
+OOP,Which network topology requires a central controller or hub? (star),,,Cinnova
+OOP,Specification is also known as srs document.(black box),,,Cinnova
+OOP,Smallest unit of data in computer(bits),,,Cinnova
+OOP,Public class array,,,Cinnova
+OOP,System.out.println(root.data());,,,Cinnova
+OOP,Func(root.right());,,,Cinnova
+OOP,Func(root.left());,,,Cinnova
+OOP,Public void func(tree root),,,Cinnova
+OOP,What is software engineering?(application of engineering principles to the design a software),,,Cinnova
+OOP,System.out.println(arr[4]);,,,Cinnova
+OOP,System.out.println(arr[2]);,,,Cinnova
+OOP,"Int []arr = {1,2,3,4,5};",,,Cinnova
+OOP,Public static void main(string args[]),,,Cinnova
+OOP,Explain inheritance with code example using constructors,,,Codefulcrum
+OOP,"Oop, the difference between array, linkedlist.",,,Codefulcrum
+OOP,Is a/has a relation,,,Copy of Qbatch
+OOP,Group by kb use krty hn,,,Copy of Qbatch
+OOP,Having or where m diff,,,Copy of Qbatch
+OOP,Cookies session,,,Copy of Qbatch
+OOP,Overriding overloading,,,Copy of Qbatch
+OOP,Interface ki implementation diamond problem ko solve krny k liy,,,Copy of Qbatch
+OOP,Abstraction or encapsulation m diff,,,Copy of Qbatch
+OOP,Abstract class vs interfaces,,,Copy of Qbatch
+OOP,Autication vs authorization,,,Copy of Qbatch
+OOP,Queries thein,,,Copy of Qbatch
+OOP,Overloading vs overriding,,,Denv Tech
+OOP,Polymorphism,,,Denv Tech
+OOP,Static - inheritence..,,,Denv Tech
+OOP,Abstraction vs encap,,,Denv Tech
+OOP,Total types of inheritance,,,Denv Tech
+OOP,Final are overloaded or overridden,"overloaded but can not overidden. The final keyword is a non-access modifier used for classes, attributes and methods, which makes them non-changeable (impossible to inherit or override).
+
+The final keyword is useful when you want a variable to always store the same value, like PI (3.14159...).
+
+The final keyword is called a ""modifier"".",,Devsinc
+OOP,Static are overloaded or overridden,A static can be method or variable. A self key world is use for if you want to acces static variable in class. A static member method can be access out side class without creating object of that class.Static methods in C++ can be overloaded but they cannot be overridden.,,Devsinc
+OOP,Abstraction and interface,Both are use as blueprint.In abstraction we have abstract class and inside abstract class we can difine abstract methods which can be accessed in drive class. we  can't make properties in interface. we cannot make object of interface as we can not make object of abstract class. in absctract we have to minimum one method abstract but in interface we have to abststact all methods.,,Devsinc
+OOP,"Four pillars of oop ,differnce between encapsulation and abstraction,give examples by writing code.",,,Devsinc
+OOP,"Run time and compile time polymorphism,overloading and overriding,using virtual keyword what we achieve,run time or compile time polymphsim.",compile time mn overloading and runtime mn overriding.,,Devsinc
+OOP,Factory and singleton,,,Devsinc
+OOP,Design patterns,,,Devsinc
+OOP,Types of polymorphism,,,Devsinc
+OOP,Difference between abstraction & encapsulation,,,Devsinc
+OOP,Real life examples of oop's pillars,,,Devsinc
+OOP,Why inheritence?,,,Devsinc
+OOP,Why inheritence?,,,Devsinc
+OOP,Why oop?,,,Devsinc
+OOP,Types of polymorphism?,,,Devsinc
+OOP,"Use of ""virtual"" keyword?",,,Devsinc
+OOP,Defines pillars of oop by an example?,,,Devsinc
+OOP,What is singleton pattern? how do you implement it?,,,Devsinc
+OOP,Desgin patterns?,,,Devsinc
+OOP,Multiple inheritance is not supported by every language! why? diamond problem?,,,Devsinc
+OOP,Types of inheritence,,,Devsinc
+OOP,Do an inplace swap,,,Devsinc
+OOP,Real life examples of oop's pillars,,,Devsinc
+OOP,Pillars of oop,,,Devsinc
+OOP,"Diamand problem. if java doesnot allow multiple inheritence,  how diamond problem arise",,Muhammad waqas,Devsinc
+OOP,Diamand problem,,,Devsinc
+OOP,"Purpose of virtual =0.
+abstract & interface difference
+static variable and static function",,,Devsinc
+OOP,"Four pillars of oop, describe each",,,Devsinc
+OOP,What is oop. and what is class and instance.,,,Devsinc
+OOP,Operator overloading and operator overriding,,,Devsinc
+OOP,"Assignment and copy constructor.,constructor and destructor.",,,Devsinc
+OOP,Can we achieve overloading in child class,,,Devsinc
+OOP,"You have to design a class of queue using stacks, how will enqueue/push and dequeue/pop work?",,,Devsinc
+OOP,Shallow vs deep copy,,,Devsinc
+OOP,Print even or odd without using the modulo operator. can use if statement.,,,Devsinc
+OOP,Diff b/w abstraction and encapsulation,,,EMPG
+OOP,Access modifier/ specifier,,,EMPG
+OOP,Type of inheritance,,,EMPG
+OOP,Inheritance,,,EMPG
+OOP,Difference b/w overloading and overriding,,,EMPG
+OOP,Overriding,,,EMPG
+OOP,Static and dynamic polymorphism,,,EMPG
+OOP,Polymorphism,,,EMPG
+OOP,Oop pillars in details,,,EMPG
+OOP,Difference between proxy and prototype design pattern,,,EMPG
+OOP,Dynamic vs static binding,,,EMPG
+OOP,Singleton pattern,,,EMPG
+OOP,What is copy constructor,,,EMPG
+OOP,Design patterns,,,EMPG
+OOP,Jo framework use kiya ous may use hony waly design patterns,,,EMPG
+OOP,Can we overload a constructor and destructor?,,,EMPG
+OOP,Difference between private and protected,,,EMPG
+OOP,What is virtual table in oop?,,,EMPG
+OOP,What are templates,,,EMPG
+OOP,Find an object from an array of object and delete it without affecting the order of object in array,,,EMPG
+OOP,Diff b/w abstract class and interface,,,EMPG
+OOP,Diffference between class and struct,,,EMPG
+OOP,Can we declare a static class,,,EMPG
+OOP,Difference between private and protected,,,EMPG
+OOP,Can we overload constructor and destructor,,,EMPG
+OOP,Aggregation,,,EMPG
+OOP,Association,,,EMPG
+OOP,Abstraction vs encapsulation,,,EMPG
+OOP,What are pillars of oop,https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219,,EMPG
+OOP,Oop basic questions,,,EMPG
+OOP,Composition vs inheritance,,,EMPG
+OOP,Types of inheritance,,,EMPG
+OOP,Define multiple and multilevel inheritance,,,EMPG
+OOP,What is virtual table in oop,,,EMPG
+OOP,Class vs struct,,,EMPG
+OOP,What are templates,,,EMPG
+OOP,What is copy constructor,,,EMPG
+OOP,Dynamic vs static binding,,,EMPG
+OOP,What is interface class,,,EMPG
+OOP,What is abstract class,,,EMPG
+OOP,What is virtual vs pure virtual function,,,EMPG
+OOP,What is diamond problem and how we can solve it,,,EMPG
+OOP,What is virtual keyword why we use it .,,,EMPG
+OOP,What happens when we make them private,,,EMPG
+OOP,Can we make constructor and destructor private,,,EMPG
+OOP,Describe public private and protected inheritance,,,EMPG
+OOP,Static vs dynamic polymorphism,,,EMPG
+OOP,What is polymorphism and give its real life example,,,EMPG
+OOP,What is operator overloading,,,EMPG
+OOP,"In a square grid of 10x10, you have to find a path from 0,0 to 9,9 x2",,,Educative
+OOP,Find the nth number in fibonnaci sequence.,,,Educative
+OOP,Q2: what is singleton design pattern and how do we implement it?,,,Esketchers
+OOP,"Because c++ is a polymorphic language, s does now point to an object of type circle. if shape has virtual functions t are overloaded by circle, calls to those functions on s will be redirected to the overloading circle implementation.",,,Esketchers
+OOP,Q3: explain observer design pattern,,,Esketchers
+OOP,Polymorphism,,,Esketchers
+OOP,Parent class child class,,,Esketchers
+OOP,Class,,,Esketchers
+OOP,The singleton pattern is a design pattern t restricts the instantiation of a class to one object.,,,Esketchers
+OOP,Diff b/w inheritance and polymorphism and their benefits,,,Esketchers
+OOP,Diff b/w encapsulation and abstraction,,,Esketchers
+OOP,Phir 2 technical questions they..,,,Focusteck
+OOP,Real life example of polymorphism,,Mubarak Ahmad,Focusteck
+OOP,Queries bi likhwai theen..,,,Focusteck
+OOP,Agar bnti hai to btana kis operation se bni hai,,,Focusteck
+OOP,Written test me 30-35 mcq they or 2 technical questions they..,,,Focusteck
+OOP,State and props and difference between them,,Mubarak Ahmad,Focusteck
+OOP,Coding question,,,Focusteck
+OOP,Assessment questions,,,Focusteck
+OOP,Phir analytical bi poochey,,,Focusteck
+OOP,Woi jug wala question k paani bharna waghera,,,Focusteck
+OOP,"Inheritance, polymorphism, encapsulation, abstractions ka baray ma pocha",,Mubarak Ahmad,Focusteck
+OOP,K apne ye q kiya apne approach sai  ya galat  waghera..,,,Focusteck
+OOP,Having and where ka different,,Mubarak Ahmad,Focusteck
+OOP,There were 2 coding question have to attempt one of them,,Mubarak Ahmad,Focusteck
+OOP,Types of polymorphism and their example,,Mubarak Ahmad,Focusteck
+OOP,To  k user koi input dega say n = 5 or aapne triangle print krna aese,,,Focusteck
+OOP,Aur phir oop ma access modifiers poche aur poocha agr 1 class ki privage members ko access krna ho to kese krte access,,,Focusteck
+OOP,"Interview ma sawal thy k oop kiu bnai , zaroorat kiya .",,,Foomotion
+OOP,Abstraction aur incapsulation ka faraq btao. private memeber ko access krwao (getter setter).,,,Foomotion
+OOP,Oop k basic sawal,,,Hazelsoft
+OOP,Static binding vs dynamic binding,,,INNOVICSOFT
+OOP,"Room mn 4 chairs rakhni hn usko kesy maintain krein gy, kya 4 objects bnayen gy furniture class k...",,,Ismi Technology
+OOP,Kehta room mn furniture rakhna hy uski class ka code,,,Ismi Technology
+OOP,Kehta room bnana hy eski classes btao,,,Ismi Technology
+OOP,Inheritance kya hota,,,Ismi Technology
+OOP,Usk bad wo oop py agya,,,Ismi Technology
+OOP,Cpp mn multiple inheritance hy java mn kiun nai,,,Ismi Technology
+OOP,Overloading or override kya hy,,,Ismi Technology
+OOP,Multiple and multilevel inheritance,,,MergeStack
+OOP,"Inheritance,and types",,,MergeStack
+OOP,Very generic oop questions,,,MergeStack
+OOP,Oop basics concepts:,,,MergeStack
+OOP,"Explain public , protected and private inheritance?",,,MergeStack
+OOP,We have a class company and another class school. so both of these classes have same method.,,,MergeStack
+OOP,Class vs object,,,MergeStack
+OOP,Encapsulation example,,,MergeStack
+OOP,Abstraction,,,MergeStack
+OOP,Inheritance and types,,,MergeStack
+OOP,Abstract class vs interface class,,,MergeStack
+OOP,Overloading and overriding,,,MergeStack
+OOP,Objective,,,MindStorm
+OOP,Other mcqs were easy related to basic oop concepts,,,MindStorm
+OOP,"Oop concepts(polymorphism along with code examples, overriding overloading",,,NETSOL
+OOP,"Oop: final keyword, finally keyword",,,NETSOL
+OOP,Oop: what to write in class so t it cant be inherited,,,NETSOL
+OOP,Difference between abstract class and interface,,,NETSOL
+OOP,Object oriented design,,,NETSOL
+OOP,Design pattern and singleton design pattern,,,NETSOL
+OOP,Pillers of oop,,,NETSOL
+OOP,"Design patterns (waterfall model, protyping, spiral model)",,,NETSOL
+OOP,"Interfaces, abstract class, interfaces vs abstract class",,,NETSOL
+OOP,"Program to store objects of a class in array and  find t object whose type = ""product"" and have lowest price value",,,Nestosh
+OOP,Difference between public & protected inheritance,,,OCloud Solutions
+OOP,How we limit to create not more n 10 objects,,,OCloud Solutions
+OOP,Factory pattern real life example,,,OCloud Solutions
+OOP,Difference between factory & abstract factory pattern,,,OCloud Solutions
+OOP,Purpose of abstract class,,,OCloud Solutions
+OOP,D/w overloading & overidding,,,OCloud Solutions
+OOP,Type of inheritance,,,OCloud Solutions
+OOP,How to implement abstraction and polymorphisam . some basic oops questions,,,OCloud Solutions
+OOP,Basic oop questions,,,PakWheels
+OOP,Abstract classes,,,PakWheels
+OOP,Abstraction & encapsulation,,,PakWheels
+OOP,Overloading & overwriting,,,PakWheels
+OOP,Design patterns,,,PakWheels
+OOP,Interface ki implementation diamond problem ko solve krny k liy,,,Qbatch
+OOP,Abstraction or encapsulation m diff,,,Qbatch
+OOP,Abstract class vs interfaces,,,Qbatch
+OOP,Overriding overloading,,,Qbatch
+OOP,Why oop?,,,Qbatch
+OOP,Pillars of oop,,,Qbatch
+OOP,How do we achieve encapsulation and abstraction?,,,Qbatch
+OOP,How do we achieve inheritance?,,,Qbatch
+OOP,Can we make an object of abstract class?,,,Qbatch
+OOP,Abstract class vs interface,,,Qbatch
+OOP,Overloading vs overriding,,,Qbatch
+OOP,Static vs dynamic binding,,,Qbatch
+OOP,Polymorphism types,,,Qbatch
+OOP,Diamond problem and its solution,,,Qbatch
+OOP,Is a/has a relation,,,Qbatch
+OOP,Association,,,Qbatch
+OOP,Aggregation,,,Qbatch
+HR/Behavioral,Intro,,,Qbatch
+OOP,Aik scenario  student aur courses kay table bananay y to beech main bridge table banana,,,Qbatch
+OOP,Why qbatch should hire you,,,Qbatch
+OOP,"Create a uml class diagram for a hospital t manages patients, appointments and treatment plans",,,Revolving Games
+OOP,Difference between abstract class and interface?,,,SSI
+OOP,"If you are in a desert, create a uml diagram (showing the four pillars of oop) of whatever you see.",,,SSI
+OOP,How will you explain oop to someone new to programming?,,,SSI
+OOP,"Polymorphism in detail incl overloading, overriding concepts",,,SSI
+OOP,Inheritance vs composition (diff in relation bw classes in both),,,SSI
+OOP,Abstract vs interface,,,SSI
+OOP,Object vs class,,,SSI
+OOP,Can we create member variables in interfaces?,,,SSI
+OOP,Can we define methods in abstract class?,,,SSI
+OOP,What is abstraction?,,,SSI
+OOP,"If a parent class has protected member variables and a child class inherits it and  another class inherits the child class, so can the grandchild class will be able to access the grandparent memebers?",,,SSI
+OOP,What is the main technical difference between c++ and python,,,Slashnext
+OOP,Destructors in python,,,Slashnext
+OOP,Which operation of oop is not valid in python,,,Slashnext
+OOP,Mutable and immutable data types in python,,,Slashnext
+OOP,Difference between static and dynamic,,,Slashnext
+OOP,If you are an undergraduate they will briefly test you subject wise,,,Slashnext
+OOP,Oop pillars,,first interview,Slashnext
+OOP,Destructors q use krtay,,first interview,Slashnext
+OOP,Memory kitni type ki hoti,,first interview,Slashnext
+OOP,Bit and 32bit system main kia difference hota,,first interview,Slashnext
+OOP,Ml/ai,,Python Developer,Slashnext
+OOP,Which languages are static and which are dynamic .,,,Slashnext
+OOP,Sqa written test topics,,,Slashnext
+OOP,Topics :,,,Slashnext
+OOP,Q2: what is singleton design pattern and how do we implement it?,,,Smaritan Technologies
+OOP,Q3: explain observer design pattern,,,Smaritan Technologies
+OOP,Flask questions,,,Tajir
+OOP,Why you prefer tajir,,,Tajir
+OOP,What do you know about us?,,,Tajir
+OOP,How did you know about tajir?,,,Tajir
+HR/Behavioral,Introduction,,,Tajir
+OOP,Endpoints,,,Tajir
+OOP,What are routers,,,Tajir
+OOP,What are docker images,,,Tajir
+OOP,What is crud,,,Tbox Solutionz
+OOP,What does -m in commit command mean,,,Tbox Solutionz
+OOP,Diff between final and const,,,Tbox Solutionz
+OOP,How to access a private attribute of class,,,Tbox Solutionz
+OOP,What is multilevel inheritance,,,Tbox Solutionz
+OOP,Should multilevel inheritance be preferred,,,Tbox Solutionz
+OOP,What is encapsulation,,,Tbox Solutionz
+OOP,What is abstraction give real life example,,,Tbox Solutionz
+OOP,What is alternative of git,,,Tbox Solutionz
+OOP,What is polymorphism give example,,,Tbox Solutionz
+OOP,Remove a row from table,,,Tbox Solutionz
+OOP,How to insert data into table,,,Tbox Solutionz
+OOP,Basic commands in git and cloning,,,Tbox Solutionz
+OOP,What is git,,,Tbox Solutionz
+OOP,What is git hub,,,Tbox Solutionz
+OOP,Access modifier,,,Tbox Solutionz
+OOP,Sections,,,Techlogix
+OOP,Logical reasoning question (1),,,Techlogix
+OOP,Oop concepts questions (3),,,Techlogix
+OOP,"Print(cases.get(case, ""invalid case""))",,,Technosoft
+OOP,"Such as online gaming, streaming video, and voip (voice over ip).",,,Technosoft
+OOP,Controller by the manufacturer.,,,Technosoft
+OOP,Q6) how will you tell your grand mather you are doing software engineering on phone call,,,Technosoft
+OOP,Base case,,,Technosoft
+OOP,Computer networking to transmit data between two devices over a network,,,Technosoft
+OOP,Q) diff b/w === and ==,,,Technosoft
+OOP,Application and the network environment.,,,Technosoft
+OOP,Checking for equality.,,,Technosoft
+OOP,"Charts, while graphs are used for more general relationships between objects, such as social",,,Technosoft
+OOP,Def switch_case(case):,,,Technosoft
+OOP,"Coercion, meaning t it will attempt to convert one or both operands to a common type before",,,Technosoft
+OOP,Without type coercion.,,,Technosoft
+OOP,"Vertices, with no particular hierarchical structure or constraints on the edges.",,,Technosoft
+OOP,"Networks, road networks, and computer networks.",,,Technosoft
+OOP,Return num % 2 == 0,,,Technosoft
+OOP,Memory allocation and are not necessarily contiguous.,,,Technosoft
+OOP,Memory usage,,,Technosoft
+OOP,"Users or stakeholders such as user management, data management, workflow management",,,Technosoft
+OOP,"Software application such as usability, reliability, performance, security, and maintainability.",,,Technosoft
+OOP,Fourth normal form (4nf): addresses multi-valued dependencies by creating separate,,,Technosoft
+OOP,Eliminating redundancy and anomalies.,,,Technosoft
+OOP,"Boyce-codd normal form (bcnf): ensures t each determinant is a candidate key,",,,Technosoft
+OOP,"Non-key attribute depends on another non-key attribute, rather n depending directly on",,,Technosoft
+OOP,Attributes t depend on other non-key attributes. transitive dependency occurs when a,,,Technosoft
+OOP,Some examples,,,Technosoft
+OOP,Related data. partial dependency occurs when a non-key attribute depends on only part of,,,Technosoft
+OOP,Q14) primary vs secondary,,,Technosoft
+OOP,First normal form (1nf): ensures t each table cell contains atomic values and there are,,,Technosoft
+OOP,Second normal form (2nf): eliminates partial dependencies by creating separate tables for,,,Technosoft
+OOP,Rd normal form (3nf): eliminates transitive dependencies by removing non-key,,,Technosoft
+OOP,Tables for related data.,,,Technosoft
+OOP,Serialization or marshalling.,,,Technosoft
+HR/Behavioral,Provided she has no education and she is using nokia 3310 mobile?,,,Technosoft
+OOP,"I would explain to my grandmother t i am working with computers and software, which are like",,,Technosoft
+OOP,Advanced versions of the calculators she might be familiar with. i would tell her t my job involves,,,Technosoft
+OOP,Requires a lot of problem-solving and creativity.,,,Technosoft
+OOP,Def is_even(num):,,,Technosoft
+OOP,Worst case.,,,Technosoft
+OOP,"To explain it in a way t's relevant to her nokia 3310, i might say t my job is to make sure t",,,Technosoft
+OOP,"Numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",,,Technosoft
+OOP,Q8) how can we implement the switch structure of c++ in python,,,Technosoft
+OOP,Technology to make sure t everyng works together smoothly.,,,Technosoft
+OOP,Q17) filter in python?,,,Technosoft
+OOP,Playing games. i would tell her t i work with other people who are experts in different parts of phone,,,Technosoft
+OOP,"People can use their phones to do all kinds of ngs, like making calls, sending messages, and even",,,Technosoft
+OOP,Q11) pickling in python,,,Technosoft
+OOP,Progress towards the base case,,,Technosoft
+OOP,No repeating groups of data.,,,Technosoft
+OOP,"Pillars of oop or unka code likhwate like aggregation, compositions, dynamic poluphomism ka code likhein",,,Technosoft
+General Coding,How abstraction is different n the funcutins as functions are also abstracting information,,,Technosoft
+OOP,Difference between abstract classes and interfaces,,,Technosoft
+OOP,What design patterns you know,,,Technosoft
+OOP,What is the problem for which builder design pattern was created,,,Technosoft
+OOP,Design patterns,,,Technosoft
+OOP,Application of design patterns based on senarios,,,Technosoft
+OOP,Design patterns,,,Technosoft
+OOP,"Xp, on the other hand, is a specific agile methodology t focuses on delivering high-quality software",,,Technosoft
+OOP,Stories to prioritize work and keep the team focused on delivering value.,,,Technosoft
+OOP,Software. it values customer satisfaction and focuses on delivering value in short iterations. agile,,,Technosoft
+OOP,"Methods, such as scrum, kanban, and lean, often use visual boards, daily stand-up meetings, and user",,,Technosoft
+OOP,About company ------>,"SDM, k sth interview hota hay 1 to 1","
+wo apko thora bht help bhi krdete hain",Technosoft
+OOP,What is oop,,,Technosoft
+OOP,What is polymorphishm,,,Technosoft
+OOP,Explain inheritance with code examle,,,Technosoft
+OOP,Why we use inheritance in method overridding,,,Technosoft
+OOP,Inheritance in oop.,,,Technosoft
+OOP,Real life example of abstraction.,,,Technosoft
+OOP,Waterfall method,,,Technosoft
+OOP,Disadvantages of inheritance,,,Technosoft
+OOP,Overriding and overloading in oop.,,,Technosoft
+OOP,"Q1) what is accessors, mutators, add operator?",,,Technosoft
+OOP,Here are a few examples of pep 8 recommendations:,,,Technosoft
+OOP,Use four spaces for indentation.,,,Technosoft
+OOP,Design patterns,,,Technosoft
+OOP,Limit lines to 79 characters.,,,Technosoft
+OOP,Use whitespace to improve readability.,,,Technosoft
+OOP,Use case points (ucp),,,Technosoft
+OOP,Story points:,,,Technosoft
+OOP,Q4) what is agile and xp?,,,Technosoft
+OOP,Deliver high-quality software in a flexible and adaptive manner.,,,Technosoft
+OOP,"Agile is a methodology t emphasizes collaboration, communication, and frequent delivery of working",,,Technosoft
+OOP,Put imports at the top of the file.,,,Technosoft
+OOP,Detailed discussion on polymorphism,,,Technosoft
+OOP,Disadvantages of inheritance.,,,Technosoft
+OOP,Pillars of oop (real life example with implementation),,,Technosoft
+OOP,What is composition in oop.,,,Technosoft
+OOP,Dynamic polymorphism vs static polymorphism.,,,Technosoft
+OOP,Code of dynamic polymorphism,,,Technosoft
+OOP,Dom element,,,Technosoft
+OOP,Block level elements,,,Technosoft
+OOP,Association,,,Technosoft
+OOP,Aggregation,,,Technosoft
+OOP,"Many mcqs regarding oop, topics as follows",,,Technosoft
+OOP,Polymorphism,,,Technosoft
+OOP,"Cohesion, coupling, association, inheritance and its types,",,,Technosoft
+OOP,Possible ways of creating objects in inheritance,,,Technosoft
+OOP,Binding,,,Technosoft
+OOP,Generalization,,,Technosoft
+OOP,Pillars of oop,,,Technosoft
+OOP,Through how many ways classes can be related in oop,,,Technosoft
+OOP,Polymorphism (example in real life + code implementation ),,,Technosoft
+OOP,The difference between inline and block elements,,,Technosoft
+OOP,What is oop,,,Technosoft
+OOP,Why oop,,,Technosoft
+OOP,Polymorphism,,,Tintash
+OOP,Runtime vs static polymorphism,,,Tintash
+OOP,Why static classes,,,Tintash
+OOP,Difference bw static classes and functions,,,Tintash
+OOP,Overloading vs overriding,,,Tintash
+OOP,Private inheritance,,,Tintash
+OOP,Protected keyword,,,Tintash
+OOP,Overloading is static polymorphism?,,,Tintash
+OOP,Final vs constant keywords,,,Tintash
+OOP,Overloading vs overriding,,,Tintash
+OOP,Dry run the given oop code,,,Tintash
+OOP,Factory method,,,Tintash
+OOP,Static members,,,Tintash
+OOP,Singleton and factory pattern along with code,,,Tintash
+OOP,Define classes for animals in a zoo.,,,Tintash
+OOP,Pillars of oop x 2,,,Tintash
+OOP,Object vs class x 2,,,Tintash
+OOP,Oop real-world example,,,Tintash
+OOP,Polymorphism real-world example,,,Tintash
+OOP,Draw class diagram for a restaurant,,,Tintash
+OOP,Encapsulation vs abstraction...most important,,,Tintash
+OOP,Oop q,,,Viteace
+OOP,Difference between inheritance and polymorphism,,,Viteace
+OOP,Difference between static bindings and dynamic binding,,,Viteace
+OOP,Diff b/w abstract class and interface,,,Xavor
+OOP,How would you do multiple inheritance in c#,,,Xavor
+OOP,Pillars of oop,,,Xavor
+OOP,Design pattern konsa ata he (singleton ata  -> code likhwaya),,,Xavor
+OOP,Modify singleton code so t only 3 instances can be created.,,,Xavor
+OOP,Encapsulation kese achieve hoti he,,,folio3
+OOP,Types of polymorphism,,,folio3
+OOP,Oop vs functional programming,,,folio3
+OOP,Pillars of oop,,,folio3
+OOP,Singleton pattern with use case,,,folio3
+OOP,Their is an app whatsapp isme user ki profile h...ar dp hide krni h kase krenge... whatsapp ki all possible classes kia bnegi....contact details kase store hongi....in classes ka apa mai relation kia hoga one to many etc...ar chat history maintain kase krenge hr day ki...,,,folio3
+OOP,Virtual func and pure virtual functions,,,folio3
+OOP,Diff between abstarction and encapsulation,,,folio3
+OOP,Classes and objects,,,folio3
+OOP,Diff btw oop and structural programming,,,folio3
+OOP,Can abstract class extend single or multiple abstract classes?,,,goSaas
+OOP,Abstract vs interface,,,goSaas
+OOP,Pillars of oop,,,goSaas
+OOP,Solid principals,,,goSaas
+OOP,"Real world examples of objects, oop and four pillars",,,goSaas
+OOP,Object created without new keyword vs obj created with new keyword where will they be stored),,Aamir Saleem,i2c
+OOP,Find bugs in my code (inheritance and access specifiers),,,i2c
+OOP,Garbage collection,,Aamir Saleem,i2c
+OOP,Finally,,Aamir Saleem,i2c
+OOP,Exceptional handling,,,i2c
+OOP,Difference between cpp and java,,,i2c
+OOP,Copy constructor,,,i2c
+OOP,In case of multilevel inheritance how memory is managed in objects (if the grandchild class's obj is created what it would be holding in its memory),,Aamir Saleem,i2c
+OOP,Constructor calling order and why s happens,,,i2c
+OOP,In java how the garbage collector worksautomatically (how it de-allocates ),,,i2c
+OOP,Late and early binding,,Qasim raza,i2c
+OOP,Inheritance and abstraction,,Qasim raza,i2c
+OOP,Is a/ has a,,Qasim raza,i2c
+OOP,What method make classes to show different behaviour in polymorphism,,Majid aziz,i2c
+OOP,Polymorphism example using class diagram,,Majid aziz,i2c
+OOP,Polymorphism implementation,,Majid aziz,i2c
+OOP,Polymorphism,,Majid aziz,i2c
+OOP,Features of java,,Aamir Saleem,i2c
+OOP,Diamond problem's solution in java,,Aamir Saleem,i2c
+OOP,Destructor calling order,,,i2c
+OOP,Composition vs inheritance,,Aamir Saleem,i2c
+OOP,Memory leak,,,i2c
+OOP,"Polymorphism ,types and how it work",,,i2c
+OOP,Diamond problem and solution,,,i2c
+OOP,Pillers of oop and their benefits,,hussain raza,i2c
+OOP,What is oop,,hussain raza,i2c
+OOP,Write a class room and it's sub classes,,alishan rao,i2c
+OOP,Exception handling (implementation),,Aamir Saleem,i2c
+OOP,Is a relationship vs has a relationship,,,i2c
+OOP,Func overloading vs overriding (implement them),,Aamir Saleem,i2c
+OOP,"Which language supports multiple inheritance and which does not (why not, whats the solution, implement the solution)",,,i2c
+OOP,Obj vs .exe,,Aamir Saleem,i2c
+OOP,Pillars of oop,,Qasim raza,i2c
+OOP,Access specifiers ka farq,,,i2c
+OOP,Oop ka code kia  usme bugs btanay y,,,i2c
+OOP,Inheritance kio aggregate kio composition kio abstraction kio encapsulation kio polymorphism kio etc etc,,,i2c
+OOP,"Oop ke jitne bhi concepts he unki kio zaroorat pari, sab kis kis problem ka solution dete hen",,,i2c
+OOP,Object vs class,,Atteq ur Rehman,i2c
+OOP,Structured programming and object oriented programming,,Atteq ur Rehman,i2c
+OOP,Abstraction encapsulation,,Atteq ur Rehman,i2c
+OOP,Inheritance polymorphism,,Atteq ur Rehman       ,i2c
+OOP,Difference between abstraction and encapsulation how to implement,,Qasim raza,i2c
+OOP,Inheritance code given you have to tell the output,,Qasim raza,i2c
+OOP,Coupling and cohesion,,Qasim raza,i2c
+OOP,"What is design pattern ,its types",,,i2c
+OOP,Vtable and vptr,,,i2c
+OOP,Virtual vs pure virtual,,,i2c
+OOP,Interface,,,i2c
+OOP,Overriding,,,i2c
+OOP,Overloading,,,i2c
+OOP,What happen if we include two same header in main,,,i2c
+OOP,Macro,,,i2c
+OOP,Jvm and other java related terms,,,i2c
+OOP,Why people adopt java and why java is better,,,i2c
+OOP,Java vs c++,,,i2c
+OOP,Memory division and how many memory segments are available and their name,,,i2c
+OOP,Rizwan tariq sheikh,,,i2c
+OOP,Where is copy constructor called implicitly,,,i2c
+OOP,Copy constructor object is passed by value or reference why ?,,,i2c
+OOP,"What is jvm,jrd",,,i2c
+OOP,What is platform specific,,,i2c
+OOP,Cpp is not platform specific,,,i2c
+OOP,Final keyword,,,i2c
+OOP,Calling sequence of constructors,,,i2c
+OOP,Create a car class and define access specifier why private and public,,,i2c
+OOP,Why order of constructor calling is like s,,Qasim raza,i2c
+OOP,Constructor chaining,,Qasim raza,i2c
+OOP,Can we make constructor private how will we make object of such class,,,i2c
+OOP,Design patterns and implementation,,,i2c
+OOP,What does #ifndefine and #define in header file,,,i2c
+OOP,Shallow and deep copy,,,i2c
+OOP,Abstract classes code scenario based,,,i2c
+OOP,Pro tip: he will try to confuse you alot but if you know the answer  stick with it,,,i2c
+OOP,Memory areas of java,,,i2c
+OOP,Benefits,,,i2c
+OOP,Copy constructor,,,i2c
+OOP,Types of inheritance,,,i2c
+OOP,Static,,,i2c
+OOP,Do check the concept of inner classes for composition),,,i2c
+OOP,Walikumsalam,,,i2c
+OOP,Imran alam gilani,,,i2c
+OOP,Distributed computing: thori boht theory  basic si,,,i2c
+OOP,Sda: design patterns (singleton and factory),,,i2c
+OOP,"Java theory: garbage collection, jvm , jre, jdk, and how it's platform independent",,,i2c
+OOP,Aamir saleem,,,i2c
+OOP,Why object is receive as a reference to copy constructor,,,i2c
+OOP,Const,,,i2c
+OS,Where is stack located? program k sath? ya system k sath? ya os k sath?,,,Arbisoft
+OS,"Race condition, semaphore, mutex, deadlock",,,Arbisoft
+OS,Cpu scheduling is the basis of ___________(multiprogramming operating systems),,,Cinnova
+OS,"Give max count of numbers having increasing order.for example 1 3 6,2,5,0 os here 1 3 6 are in increasing roder small to larger ,so count is 3  again 2 and 5 are also in increasing order so count is 2, and 0 is single so count is 1, similary if we have array 2,2,2,2  again count is  1.so we return max count ,in above case it is 3.",,,Devsinc
+OS,Binary semaphore,,,EMPG
+OS,If a process is interrupted during execution where its state and variables moved to ______ ?,,,EMPG
+OS,Normalization is the process of organizing data in a database. s includes creating tables and establishing relationships between those tables according to rules designed both to protect the data and to make the database more flexible by eliminating redundancy and inconsistent dependency.,,,Esketchers
+OS,Q5: a customer paid a bill by checkingout on website. he is your website customer. and the status of payment become paid. there is no difficulty in the process. how to maintain data integrity.,,,Esketchers
+OS,Process or thread kya hn,,,Ismi Technology
+OS,Zombie process,,,OCloud Solutions
+OS,What is deadlock,,,OCloud Solutions
+OS,What is mutex and zombie process?,,,OCloud Solutions
+OS,What is deadlock,,,OCloud Solutions
+OS,Zombie process,,,OCloud Solutions
+OS,Mutex,,,OCloud Solutions
+OS,What is mutex,,,OCloud Solutions
+OS,"Given t courses are organized by prerequisites in the following array:				
+				
+prereq_courses = [				
+[""software design"", ""algorithms""],				
+[""foundations of computer science"", ""operating systems""],				
+[""computer networks"", ""computer architecture""],				
+[""computer architecture"", ""software design""],				
+[""algorithms"", ""foundations of computer science""],				
+[""data structures"", ""comput1er networks""]				
+]				
+				
+# question: find the first course				
+# output: 'data structures'",,,PakWheels
+OS,Semaphores in os,,,SSI
+OS,"Starting from oop to operating system, computer networks and db.",,,Slashnext
+OS,How is memory management different in c++ and python,,,Slashnext
+OS,Q5: a customer paid a bill by checkingout on website. he is your website customer. and the status of payment become paid. there is no difficulty in the process. how to maintain data integrity.,,,Smaritan Technologies
+OS,"Process is called the ""divide"" step of the merge sort algorithm.",,,Technosoft
+OS,Normalization is the process of organizing data in a database to reduce redundancy and,,,Technosoft
+OS,T can be stored on disk or transmitted over the network. the process of pickling is also known as,,,Technosoft
+OS,How many stackframes are created for a process,,,Tintash
+OS,"How data stored in ram, stack or queue??",,,Tintash
+OS,Mutex lock (os). how used in db. and also give a real world example apart from coding.,,,goSaas
+OS,Thread joining,,,i2c
+OS,Role of qa engineer in requirement gathering process?,,,i2c
+OS,Thread pool,,,i2c
+OS,Thread vs process,,,i2c
+OS,Process vs thread,,,i2c
+OS,Process vs thread,,,i2c
+OS,Deadlock and avoidance,,,i2c
+OS,Process vs thread,,,i2c
+OS,Thread related questions,,,i2c
+OS,"Os: multithreading, critical section",,,i2c
+Web/Network,Delete a node from linkedlist(only value) in o(1) time and only t node address is given no head no tail and s is singly linkedlist,,,7 Vals
+Web/Network,Https://leetcode.com/problems/word-search/,,,7 Vals
+Web/Network,"What is json, why do we use json?? and why they develop it?
+is javascript synchronous or asynchronous? and how asynchronous is handled?
+pass by value vs pass by reference
+status code when we'll do api call? (all 200-500 with explanation)
+get vs post request difference and which one to use when.
+scope (local vs global)
+difference between var and let in context of scoping",,,Arbisoft
+Web/Network,Api walay ki approach,,,Arbisoft
+Web/Network,React component life cycle,,,Arrivy
+Web/Network,Delete middle node from linked list,,,Blackstack
+Web/Network,Delete node with two children in bst,,,BrainX
+Web/Network,The browser's console in dev tools.,,,CQTechnologies
+Web/Network,"You should use javascript only. if you face any ide issues, you can simply use",,,CQTechnologies
+Web/Network,Main advantages of node over any other framework?,,,Celestial Technology
+Web/Network,For what kind of tasks node is best and for what kind of tasks we should not use node?,,,Celestial Technology
+Web/Network,As you said node is single threaded  how it is non-blocking?,,,Celestial Technology
+Web/Network,React:,,,Celestial Technology
+Web/Network,Why react?,,,Celestial Technology
+Web/Network,Main features of react?,,,Celestial Technology
+Web/Network,If we have props  why context api ?,,,Celestial Technology
+Web/Network,Request life cycle?,,,Celestial Technology
+Web/Network,Let vs var in js,,,Cinnova
+Web/Network,Why async there in js-> related to multithread concept qu,,,Cinnova
+Web/Network,Sync vs async in js,,,Cinnova
+Web/Network,Virtual dom in js,,,Cinnova
+Web/Network,Hooks in react,,,Cinnova
+Web/Network,Closures in js,,,Cinnova
+Web/Network,Is js a multithreading language?,,,Cinnova
+Web/Network,Tree m srf aik root node h .. ye bst hai ya ni,,,Copy of Qbatch
+Web/Network,Or cookies client side pr locally kahan store hoti hn,,,Copy of Qbatch
+Web/Network,Restful api,,,Copy of Qbatch
+Web/Network,There's a linked list whose head and tail is not known. i have a pointer pointing to any random node. delete t node. you can't traverse it.,,,Devsinc
+Web/Network,"There is a linkedlist consist of nodes. 
+struct node
+{
+        int data;
+        node * next;
+        node * bottom;
+}
+each node has 2 pointers, next pointer and bottom pointer.
+you are given a head of the linked list, you need to find the sum of data of all the nodes.
+e.g:
+1->1->1->1
+   |
+   1->1->1->1
+              |
+          1->1->1->1->-1
+         |
+         1->1
+         |
+         1
+         |
+         1->1->1
+            |
+            1",,,Devsinc
+Web/Network,"There is a linkedlist consist of nodes. 
+struct node
+{
+        int data;
+        node * ptr1;
+        node * ptr2;
+        node * ptr3;
+        node * ptr4;
+}
+each node has 4 pointers, meaning it can have maximum of 4 attached nodes. any of the pointers can be null.
+you are given a head of the linked list, you need to find the sum of data of all the nodes. (use only recursion)",,,Devsinc
+Web/Network,There's a linked list whose head and tail is not known. i have a pointer pointing to any random node. delete t node. you can't traverse it.,,,Devsinc
+Web/Network,Delete a node of bst.,,,Devsinc
+Web/Network,Delete middle node of linked list.,,,Devsinc
+Web/Network,Delete node,,,Devsinc
+Web/Network,Default port of http and https.,,,Devsinc
+Web/Network,Delete node whose whose address is given,,,Devsinc
+Web/Network,Return 2nd last node,,,Devsinc
+Web/Network,Return  nth to last node,,,Devsinc
+Web/Network,What is header in https request.,,,Devsinc
+Web/Network,Js single threaded/event loop,,,EMPG
+Web/Network,Node single threaded?,,,EMPG
+Web/Network,"What is react, and why react?",,Maria Rafique,EMPG
+Web/Network,"Consider a row of n coins of values v1 . . . vn, where n is even.
+ we play a game against an opponent by alternating turns. 
+in each turn, a player selects either the first or last coin from the row, 
+removes it from the row permanently, and receives the value of the coin.
+ determine the maximum possible amount of money we can definitely win if we move first.
+solutions: 
+- https://www.geeksforgeeks.org/optimal-strategy-for-a-game-set-2
+- https://www.geeksforgeeks.org/optimal-strategy-for-a-game-dp-31",,,Educative
+Web/Network,Find the rd highest node in bst using o(1) space and in o(n) time,,,Educative
+Web/Network,"Find the lowest common ansectors of two nodes having value n1 and n2 respectively.
+note: ansectors will also include the node itself + the chain of parents of the nodes.
+follow up: what if the duplicate nodes are present in the binary tree",,,Educative
+Web/Network,"Given a binary tree where each node can only have a digit (0-9) value, each root-to-leaf path will represent a number. find the total sum of all the numbers represented by all paths. e.g. a binary tree has following three paths 1) 1->7 2) 1->9->2 3) 1->9->9 n answer should be 17+192+199 = 408",,,Educative
+Web/Network,Given a bst. there is a next pointer in every node of the tree it should point to the right node in the same level and the last element of each level should point to null.,,Interviewer: Rahim ul haq,Educative
+Web/Network,"Given two binary trees, create a new tree t at every node contains sum of corresponding nodes of other two binary trees.",,,Educative
+Web/Network,"You have given a linklist, which contains even and odd value in data. write a function t reverse the consecutive even node whose value are even. and don't alter the odd node. for example, 1 2 3 4 6 8 9 10 12 7,  after reverse, linklist should be 1 2 3 8 6 4 9 12 10 7.",,,Educative
+Web/Network,"Given a binary tree every node of tree should have a property of siblings which will point to its next child.
+example
+   1
+2    3   output: 1->2->3->null",,"Mohammad Usman
+",Educative
+Web/Network,"Give a string containing valid xml/html code and convert it into a k -child tree.
+example
+""<html><body><a></a><a></a></body></html>""
+output: html
+               |
+            body
+           /       \
+          a       a",,"Mohammad Usman
+",Educative
+Web/Network,"Given a binary tree every node of tree should have a property of siblings which will point to its next child.
+example
+   1
+2    3   output: 1->2->3->null",,"Mohammad Usman
+",Educative
+Web/Network,"Give a string containing valid xml/html code and convert it into a k -child tree.
+example
+""<html><body><a></a><a></a></body></html>""
+output: html
+               |
+            body
+           /       \
+          a       a",,"Mohammad Usman
+",Educative
+Web/Network,"Given a binary tree, count the number of nodes whose average is equal to the average of t node value.",Recursion,Zaid Tariq,Educative
+Web/Network,"A binary tree is given, and we alter the node class, and add a new member ""node * next"" , you have to initilize s member with either null, or the the right node in same level",,,Educative
+Web/Network,Some questions from design pattern and javascript are also asked lekin maine javascript pe kaam nhi kya howa aur dp padhi nhi is lye further questioning nhi hoi,,,Esketchers
+Web/Network,Mac vs ip address,,,Esketchers
+Web/Network,Tcp udp,,,Esketchers
+Web/Network,Html tags,,,Esketchers
+Web/Network,"Or phir cto ne zero se interview lena start kiya oop, db, dsa k questions + database ki query  k table bnana jispe facebook ka friend request wala system save ho sara..",,,Focusteck
+Web/Network,How to clone a object in js (deep copy),,Mubarak Ahmad,Focusteck
+Web/Network,"Bst ma max kitny nodes hotay hain. inka kaam php aur ruby on rails ka ha, python node nhi krtay ye log bilkul b.",,,Foomotion
+Web/Network,"Q2. given two linked lists, add the second one in the middle node of first list. e.g 1-2-3; 4-5",,,Foomotion
+Web/Network,Given a linked list delete its middle node,,,Foomotion
+Web/Network,"Rest are the basic oop,db, dsa concepts",,,Foomotion
+Web/Network,Sql server,,,Hazelsoft
+Web/Network,"Q1) using singly linked list, you are on a node and you have to delete it but you don't have the address of prev node, how would you delete t node?",,,INNOVICSOFT
+Web/Network,How node handles multiple requests?,,,MergeStack
+Web/Network,Program to find nth last node of a linked list,,,OCloud Solutions
+Web/Network,Find middle node of link list in o(n),,,OCloud Solutions
+Web/Network,"Return the nth node from the last from a linkedlist using a single loop.
+void  func(linkedlist *list, int n);",,,OCloud Solutions
+Web/Network,"Solution:
+
+1) (75/100)*560000 = 420000
+2) 4 years   explanation: 4+7+10+13+16 = 50
+3) 
+persons a and b cross the bridge together with the torch, which takes 2 minutes.
+person a returns with the torch, which takes 1 minute.
+persons c and d cross the bridge together with the torch, which takes 8 minutes.
+person b returns with the torch, which takes 2 minutes.
+persons a and b cross the bridge together with the torch, which takes 2 minutes.
+therefore, the total time required to cross all people across the bridge is 2 + 1 + 8 + 2 + 2 = 15 minutes.
+
+4)
+public class app {
+
+    public static double power(int n, int m)  //logn time complexity
+    {
+        if (m == 0) {
+            return 1;
+        } else if (m < 0) {
+            return 1 / power(n, math.abs(m));
+        } else if (m % 2 == 0) {
+            double halfpower = power(n, m / 2);
+            return halfpower * halfpower;
+        } else {
+            return n * power(n, m - 1);
+        }
+    }
+
+    public static double powr(int n, int m)   //n time complexity
+    {
+        if(m==0)
+        {
+            return 1;
+        }
+        else if(m<0)
+        {
+            return 1/powr(n, math.abs(m));
+        }
+        else
+        {
+            return n*powr(n, m-1);
+        }
+    }
+
+    // public static double power(int n, int m)  //with loop
+    // {
+    //     double ans = 1;
+    //     if(m>=0)
+    //     {
+    //         for(int i=0;i<m;i++)
+    //         {
+    //             ans=n*ans;
+    //         }
+    //     }
+    //     else
+    //     {
+    //         m = math.abs(m);
+    //         for(int i=0;i<m;i++)
+    //         {
+    //             ans=n*ans;
+    //         }
+    //         ans = 1/ans;
+    //     }
+    //     return ans;
+    // } 
+    public static void main(string[] args) throws exception {
+        
+        int n=4;
+        int m=3; 
+
+        system.out.println(powr(n, m));  // 64
+
+        n=4;
+        m=-3; 
+
+        system.out.println(powr(n, m));   // 0.0156
+
+    }
+}
+
+6)
+public static void func(linkedlist<integer> list, int n) {
+    // initialize two pointers to the head of the list
+    node<integer> p1 = list.getfirst();
+    node<integer> p2 = list.getfirst();
+
+    // move the second pointer n positions ahead of the first pointer
+    for (int i = 0; i < n; i++) {
+        if (p2 == null) {
+            system.out.println(""the list is too short."");
+            return;
+        }
+        p2 = p2.getnext();
+    }
+
+    // move both pointers together until the second pointer reaches the end of the list
+    while (p2 != null) {
+        p1 = p1.getnext();
+        p2 = p2.getnext();
+    }
+
+    // the first pointer is now pointing to the nth node from the end of the list
+    system.out.println(""the "" + n + ""th node from the end of the list is "" + p1.getdata());
+}
+
+7)
+select manager, count(emp) as count from employees group by manager order by count desc, manager asc;
+
+8)
+select depname 
+from dep 
+where dno not in (select dno from emp group by dno having count(*) > 0);",,,OCloud Solutions
+Web/Network,Given a no n find the nth last node of link list (you have to it in single loop in o(n)) there can be many loops but you can use only one in s example,,,OCloud Solutions
+Web/Network,Tree m srf aik root node h .. ye bst hai ya ni,,,Qbatch
+Web/Network,How to submit a form in react (send data from form to database??),,,Qbatch
+Web/Network,Restful api,,,Qbatch
+Web/Network,Or cookies client side pr locally kahan store hoti hn,,,Qbatch
+Web/Network,React,,,Qbatch
+Web/Network,Https://leetcode.com/problems/balanced-binary-tree/,,,Revolving Games
+Web/Network,Https://cppsecrets.com/users/149371151041141171161059599111504898559548536410011611746979946105110/c00-minimum-knight-steps.php,,,Revolving Games
+Web/Network,Https://leetcode.com/problems/integer-to-roman/,,,Revolving Games
+Web/Network,Pseudocode of finding center node from a linked list? (in a single loop),,,SSI
+Web/Network,"You have a rotating disc, and above the disk there is a sensor. disc is such t it's have side has patterns, rest are plain. when sensor sense patterned region of disk, it displays 1 on screen and sense plain region, it displays 0. you have to find if the disk moving is clockwise or anticlockwise.",,,SSI
+Web/Network,If a variable is intialized as a string in global scope and  assigned a int value in a method and  a bool value in a method is s a valid operations in js?,,,SSI
+Web/Network,"Api testing, db, oop, dsa, basic analytical questions, iq questions, sdlc, stlc, bug lifecycle, testing kai concepts, black box, white box, regression testing, sql queries, joins",,,Slashnext
+Web/Network,Rd question was s one https://leetcode.com/problems/jump-game/,,,Tajir
+Web/Network,How data will be sent to server through http requests,,,Tajir
+Web/Network,Design all pages of tajir app (not ui but backend),,,Tajir
+Web/Network,Https://leetcode.com/problems/game-of-life/,,,Tajir
+Web/Network,Useeffect in react with dependency list,,,Technosoft
+Web/Network,A tree is a type of graph t has a hierarchical structure with a single root node and directed,,,Technosoft
+Web/Network,"What is es6, js vs jquery",,,Technosoft
+Web/Network,Write code for database attaching to the backend in my case backend was node.js,,,Technosoft
+Web/Network,Css class and id vs inline styles,,,Technosoft
+Web/Network,"Write a function which takes the price of car and calculate the price of the car in each coming year.
+- 40% price of car decreases in the first year.
+-20% devalue in rest of the years
+- program returns the price when the car is 9 years old or cost becomes less n $1000",,,Technosoft
+Web/Network,Basic js and html tags (syntax based mcqs),,,Technosoft
+Web/Network,Difference between state and props in react.,,,Technosoft
+Web/Network,Or ordering of packets. the choice between tcp and udp depends on the specific requirements of the,,,Technosoft
+Web/Network,Js me alert prompt or confirm me difference,,,Technosoft
+Web/Network,Q5) tcp / udp,,,Technosoft
+Web/Network,Tcp (transmission control protocol) and udp (user datagram protocol) are two protocols used in,,,Technosoft
+Web/Network,"Tcp is a reliable, connection-oriented protocol t provides error checking and retransmission of lost",,,Technosoft
+Web/Network,"Packets. tcp establishes a virtual circuit between the sender and receiver before transmitting data, and",,,Technosoft
+Web/Network,"Udp, on the other hand, is a connectionless, unreliable protocol t provides no error checking or",,,Technosoft
+Web/Network,"Retransmission of lost packets. udp is used for applications t require fast, low-latency data delivery,",,,Technosoft
+Web/Network,"Tcp is a reliable, connection-oriented protocol t ensures all data is delivered correctly and in the right",,,Technosoft
+Web/Network,"Order, while udp is a faster, connectionless, and less reliable protocol t does not guarantee delivery",,,Technosoft
+Web/Network,Administrator or dhcp server.,,,Technosoft
+Web/Network,Css em and rem difference,,,Technosoft
+Web/Network,Css flexbox,,,Technosoft
+Web/Network,Block vs inline elements in html,,,Technosoft
+Web/Network,Closure in javascript,,,Technosoft
+Web/Network,Html 5 newly added tags -> semantic markup,,,Technosoft
+Web/Network,How to create table in html,,,Technosoft
+Web/Network,Hoisting in javascript,,,Technosoft
+Web/Network,Usestate in react,,,Technosoft
+Web/Network,Q7) mac vs ip address?,,,Technosoft
+Web/Network,Ip address is a software-based unique identifier assigned to a device on a network by the network,,,Technosoft
+Web/Network,Javascript k koi b functions puche,,,Technosoft
+Web/Network,"Given a node, delete it from linked list",,,Tintash
+Web/Network,Delete a node of a linked list but you do not have the head pointer. you only have the refernce of the node t should be deleted.,,,Tintash
+Web/Network,"Consider a singly linked list, and a pointer 'head' t points to the first node of the linked list. you need to provide the code to perform the minimum number of necessary deletions on the linked list so t the end state of your linked list is in ascending order or descending order.",,,Tintash
+Web/Network,A linked list contains even and odd numbers. balance the linked list by deleting node such t it contains equal number of even and odd numbers.,,,Tintash
+Web/Network,"Find ith-last node in a linked list, with 3 different methods (worst, better, best)",,,Tintash
+Web/Network,Remove last nth node in link list (for t they made me design the whole list class),,,Tintash
+Web/Network,What is an api,,,Tintash
+Web/Network,Types of api,,,Tintash
+Web/Network,Advantage of using api,,,Tintash
+Web/Network,What is server caching,,,Tintash
+Web/Network,What is mvc architecture,,,Tintash
+Web/Network,Diff b/w angular and react,,,Xavor
+Web/Network,What is redux in react?,,,Xavor
+Web/Network,Screen share kr k editor pr code likhna  aik k hmare pas func h usmai sirf aik node a rha hmare pas koi head nai h koi ar node nai pta hme...sirf aik node h hmare pas hmne usi node ko delete krna h ase k linked list maintain rhe...sirf jo node func mai a rha wo del ho jae. baki sb wse hi rhe....,,,folio3
+Web/Network,Scenario: i am clicking on view all student button now explain what will be the procedure to display t on webpage (mvc architecture explain),Qasim raza,,i2c
+Web/Network,Difference between web server and web services?,,,i2c
+Web/Network,Rest vs soap api's,,alishan rao,i2c
+Web/Network,Diff b/w http and https,,,i2c
+Web/Network,Mvc architecture,Qasim raza,,i2c
+Web/Network,How is http safe from https / difference between these,Qasim raza,,i2c
+Web/Network,Cookies and its cycle how it travel from server to client explain ( from explanation question like how they are maintained and all ),Qasim raza,,i2c
+Web/Network,Rest and soap apis,,,i2c
